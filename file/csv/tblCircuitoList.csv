@@ -1,0 +1,589 @@
+﻿ID;Circuito;Orig;Revisao;OrdemRep;Numero;Data;Obs;Reparacao
+11;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;30181367;25-02-2019 09:22:55;Devolvido Electro-Portugal;Planeada
+12;CI MIG Serie 6 Interface;Linha produção;Rev3.0;;29160203;25-02-2019 09:24:49;;Planeada
+13;CI LTRONIC CONTROL;Linha produção;Rev3.0;;23160002;25-02-2019 09:25:26;;Planeada
+14;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;26160168;25-02-2019 09:25:54;Devolvido Blas;Planeada
+15;CI LTRONIC CONTROL;Linha produção;Rev1.0;;36160015;25-02-2019 09:27:11;;Planeada
+16;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220622;25-02-2019 09:28:18;Devolvido WSD;Planeada
+17;CI MIG Serie 6 Interface;Linha produção;Rev2.0;;07160356;25-02-2019 09:29:07;Devolvido Serecon;Planeada
+18;CI MIG Serie 6 Interface;Linha produção;Rev3.0;;31160511;25-02-2019 09:29:57;Devolvido Blas;Planeada
+19;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;40170200;25-02-2019 09:30:37;;Planeada
+20;CI Power MIG300SI;Linha produção;Rev3.0;;2318005600014;25-02-2019 09:31:07;;Planeada
+21;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;26160179;25-02-2019 09:31:47;;Planeada
+22;CI MIG Serie 6 Interface;Linha produção;Rev2.0;;0000;25-02-2019 09:32:28;Devolvido Elfi;Planeada
+23;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;26160271;25-02-2019 09:34:11;Devolvido Serecon;Planeada
+24;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170062;25-02-2019 09:35:04;Devolvido Soldan-WSD;Planeada
+25;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;31160508;25-02-2019 09:35:45;;Planeada
+27;CI SMD THI DIGIT;Linha produção;Rev1.0;;36160117;25-02-2019 09:38:50;Devolvido Sumasol;Planeada
+28;CI MIG Serie 6 Interface;Linha produção;Rev2.0;;07160369;25-02-2019 09:43:41;Devolvido Orexad - JBDI;Planeada
+29;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170132;25-02-2019 09:44:28;;Planeada
+30;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220485;25-02-2019 09:45:01;;Planeada
+31;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170145;25-02-2019 09:45:26;;Planeada
+32;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170131;25-02-2019 09:45:54;;Planeada
+33;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170123;25-02-2019 09:46:15;;Planeada
+34;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170156;25-02-2019 09:46:35;Devolvido Welda;Planeada
+35;CI LTRONIC FRONT;Linha produção;Rev3.0;;30180869;28-02-2019 16:38:20;Tensão trocada.;Planeada
+36;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2418005530011;06-03-2019 12:33:38;"Troca resistências R42 e R71.
+Verficar se NTC's funcionam bem.";Planeada
+37;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;22181087;08-04-2019 11:56:06;Regulador 12V avariado.;Planeada
+42;CI INV ACDC FRONT;Linha produção;Rev1.0;;13180399;01/07/2019 18:53:40;"Devol. Hemasol, junto c/ c. i. B.067RM.312 (C.496RM.011-N ""W.496RM.312-2"") rep. de Weldsat inv. TP 402 AC/DC, n.º 18 11 136.
+
+Finalmente el equipo tp ac-dc 400 lo que tenia averiado era el modulo de control el display estaba bien , te envio los 2 circuitos de vuelta .
+El cliente seguira probando el equipo  hasta el miercoles y nos dice algo , pero ya marca el amperaje perfecto.";Planeada
+43;CI INV TP CONTROL;Linha produção;Rev1.0;;19191036;17-10-2019 16:22:36;Avaria microcrontrolador.;Planeada
+44;CI Power MIG300SI;Recolha externa;Rev3.0;;2318005600029;18-10-2019 08:32:14;"Foi trocada em cliente onde havia um problema com a deteção de fase. Entre fase e terra L1-T - 330V, L2-T - 330V, L3-T - 120V. Entre fases 400V.
+Provavelmente não terá problemas, de qualquer maneira convém validar.";Planeada
+45;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671673;18-10-2019 14:02:56;Troca na alimentação ao circuito.;Planeada
+46;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;30181359;23/10/2019 08:40:54;"Em funcionamento o circuito desligava-se e passado algum tempo e que voltava a ligar.
+Não era falta de fase pois o ventilador continuava a funcionar.
+Maquina com um ano de trabalho
+Cliente Parsolda- NAVIPA";Planeada
+47;CI Frontal MIG300SI;Linha produção;Rev2.0;;2318005560040;17-12-2019 09:12:30;"Alimentação trocada.
+Pistas queimadas.";Planeada
+48;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671458;17-12-2019 16:56:22;?;Planeada
+49;CI Power MIG300SI;Linha produção;Rev3.0;;2318005600029;17-12-2019 17:03:59;?;Planeada
+50;CI INV TP CONTROL;Linha produção;Rev1.0;;19191036;17-12-2019 17:05:23;"À partida estará bom.
+Testar.";Planeada
+51;CI Inv Mig Control;Linha produção;Rev1.0;;37180037;17-12-2019 17:06:12;;Planeada
+52;CI LTRONIC FRONT;Linha produção;Rev3.0;;30180939;18/12/2019 14:46:59;Ao ligar queima os fusíveis da banca de ensaios.;Planeada
+53;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;22181176;18/12/2019 14:49:50;motor nao aciona;Planeada
+54;CI LTRONIC FRONT;Linha produção;Rev3.0;;30181166;08/01/2020 09:20:01;falta componenteD18 pista danificada;Planeada
+55;CI LTRONIC FRONT;Linha produção;Rev3.0;;16220686;08/01/2020 09:26:03;IC3 queimado,SW5 queimado;Planeada
+56;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220689;08/01/2020 09:31:31;Envernizado ?;Planeada
+57;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220585;08/01/2020 09:37:11;Envernizada ?;Planeada
+58;CI LTRONIC FRONT;Linha produção;Rev3.0;;22150115;08/01/2020 09:39:14;Envernizada?;Planeada
+59;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220479;08/01/2020 09:41:35;Envernizada?IC1 parece queimado;Planeada
+60;CI LTRONIC FRONT;Linha produção;Rev3.0;;30180785;08/01/2020 09:44:20;Envernizada ? alguns componentes  queimados pistas partidas;Planeada
+61;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170148;08/01/2020 09:47:54;Envernizada?  com componentes queimados;Planeada
+62;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220600;08/01/2020 09:50:53;Envernizada pistas partidas e queimadas;Planeada
+63;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220518;08/01/2020 09:53:32;Envernizada ?;Planeada
+64;CI LTRONIC FRONT;Linha produção;Rev3.0;;2118004290425;08/01/2020 09:55:38;Componentes queimados.;Planeada
+65;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220632;08/01/2020 09:57:36;Componentes queimados.;Planeada
+66;CI LTRONIC FRONT;Linha produção;Rev4.0;;31160514;08/01/2020 09:59:26;Queimada,;Planeada
+67;CI LTRONIC FRONT;Linha produção;Rev3.0;;29170028;08/01/2020 10:14:29;Queimada.;Planeada
+68;CI LTRONIC FRONT;Linha produção;Rev3.0;;30180876;08/01/2020 10:15:56;Envernizada ?;Planeada
+69;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671476;08/01/2020 10:19:06;Envernizada ,queimada.;Planeada
+70;CI LTRONIC FRONT;Linha produção;Rev3.0;;30181188;08/01/2020 10:42:53;Queimou na linha de producão  ao testar a máquina.;Planeada
+71;CI LTRONIC FRONT;Linha produção;Rev3.0;;0819001771368;08/01/2020 10:49:43;Queimou na linha de produção ao testar a máquina.;Planeada
+72;CI LTRONIC FRONT;Linha produção;Rev4.0;;31160462;08/01/2020 10:52:48;Envernizada ?;Planeada
+73;CI LTRONIC FRONT;Linha produção;Rev3.0;;30180827;08/01/2020 10:55:26;C.I sem ter a avaria visivel.;Planeada
+74;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671488;08/01/2020 11:02:18;C.I sem ter a avaria  visivel.;Planeada
+75;CI LTRONIC FRONT;Linha produção;Rev3.0;;30180896;08/01/2020 11:14:20;C.I sem avaria visivel.;Planeada
+76;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220669;08/01/2020 11:15:56;C.I sem avaria visivel.;Planeada
+77;CI LTRONIC FRONT;Linha produção;Rev3.0;;30181141;08/01/2020 11:17:05;C.I sem avaria visivel.;Planeada
+78;CI LTRONIC FRONT;Linha produção;Rev3.0;;18220654;08/01/2020 11:18:12;C.I sem avaria visivel.;Planeada
+79;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;30181211;08/01/2020 11:22:11;Envernizada ?;Planeada
+80;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;43180077;08/01/2020 11:25:33;Amperimetro não dá .;Planeada
+81;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;22181048;08/01/2020 11:29:05;Envernizada?;Planeada
+82;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;43180156;08/01/2020 11:31:27;Queimou ao testar na linha de produção.;Planeada
+83;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;43180069;08/01/2020 11:33:07;Queimou ao testar na linha de produção.;Planeada
+84;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;0819001640014;08/01/2020 11:34:26;Queimou ao testar na linha de produçaõ.;Planeada
+85;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;43180164;08/01/2020 11:35:56;C.I sem avaria  visivel.;Planeada
+86;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;22181058;08/01/2020 11:37:15;Envernizada ?;Planeada
+87;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;0119001680745;08/01/2020 12:02:25;Envernizada.;Planeada
+88;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;18220350;08/01/2020 12:14:02;Envernizada?;Planeada
+89;CI MIG Serie 6 Interface;Linha produção;Rev2.0;;Não tem número;08/01/2020 12:15:22;Envernizada ?;Planeada
+90;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;18220358;08/01/2020 12:17:45;Envernizada ?;Planeada
+91;CI MIG Serie 6 Interface;Linha produção;Rev2.0;;41150219;08/01/2020 12:19:13;Envernizada ?;Planeada
+92;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;0119001680774;08/01/2020 12:20:05;Envernizada ?;Planeada
+93;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;18360593;08/01/2020 12:21:36;Envernizada ?;Planeada
+94;CI MIG Serie 6 Interface;Linha produção;Rev2.0;;09150040;08/01/2020 12:22:28;Envernizada?;Planeada
+95;CI MIG Serie 6 Interface;Linha produção;Rev3.0;;20170012;08/01/2020 12:23:30;Envernizada?;Planeada
+96;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;20190176;08/01/2020 12:25:01;Envernizada?;Planeada
+97;CI RCD DIGIT;Linha produção;Rev1.0;;18160123;08/01/2020 13:32:52;AVARIA ?;Planeada
+98;CI RCD DIGIT;Linha produção;Rev1.0;;04180335;08/01/2020 13:36:13;Envernizada ?;Planeada
+99;CI RCD DIGIT;Linha produção;Rev1.0;;04180371;08/01/2020 13:39:10;Não dá nada.;Planeada
+100;CI RCD DIGIT;Linha produção;Rev1.0;;1419001710110;08/01/2020 13:42:59;O minimo não desce mais que 110  Amp.;Planeada
+101;CI RCD DIGIT;Linha produção;Rev1.0;;04180390;08/01/2020 13:50:13;Comecou a deitar fumo.;Planeada
+102;CI RCD DIGIT;Linha produção;Rev1.0;;1419001710103;08/01/2020 13:51:46;Queimou na linha de  produção.;Planeada
+103;CI RCD DIGIT;Linha produção;Rev1.0;;18160144;08/01/2020 13:55:48;Avariada?;Planeada
+104;CI RCD DIGIT;Linha produção;Rev1.0;;1419001710020;08/01/2020 13:59:30;Não regula.;Planeada
+105;CI RCD DIGIT;Linha produção;Rev1.0;;1419001710031;08/01/2020 14:01:41;Queimou na linha  de montage.;Planeada
+106;CI RCD DIGIT;Linha produção;Rev1.0;;04180338;08/01/2020 14:03:27;Avaria ,  Sincrunismo.;Planeada
+107;CI RCD DIGIT;Linha produção;Rev1.0;;18160093;08/01/2020 14:05:39;Não alimenta.;Planeada
+108;CI RCD DIGIT;Linha produção;Rev1.0;;18160116;08/01/2020 14:06:51;Não alimenta.;Planeada
+109;CI INV VRD;Linha produção;Rev1.0;;PF;08/01/2020 14:11:52;Queimada.;Planeada
+110;Inverprotek;Linha produção;Rev1.0;;?;08/01/2020 14:17:38;Avariado.;Planeada
+111;Inverprotek;Linha produção;Rev1.0;;?;08/01/2020 14:21:41;Avariado.;Planeada
+112;CI INV TP AUX POWER;Linha produção;Rev1.0;;09180136;08/01/2020 14:22:22;Avariado.;Planeada
+113;CI INV TP AUX POWER;Linha produção;Rev1.0;;09180396;08/01/2020 14:26:06;Avariado.;Planeada
+114;CI INV TP AUX POWER;Linha produção;Rev1.0;;19190707;08/01/2020 14:28:10;Avariado.;Planeada
+115;CI Amp/Volt SMD;Linha produção;Rev1.0;;26160137;08/01/2020 14:30:21;Avariado.;Planeada
+116;CI INV DC FRONT;Linha produção;Rev1.0;;0819001810884;08/01/2020 14:39:41;Avariada.;Planeada
+117;CI INV DC FRONT;Linha produção;Rev1.0;;Não tem;08/01/2020 14:52:40;Avariada.;Planeada
+118;CI INV TP FRONT;Linha produção;Rev2.0;;18380643;08/01/2020 14:53:53;Avariada.;Planeada
+119;SMD RCD DIGIT;Linha produção;Rev1.0;;7160106;08/01/2020 14:56:19;Avariada.;Planeada
+120;CI LTRONIC CONTROL;Linha produção;Rev3.0;;23160074;08/01/2020 14:58:43;Componente D6 queimado.;Planeada
+121;CI Frontal MIG300SI;Linha produção;Rev2.0;;2318005560001;08/01/2020 15:00:37;Queimou.;Planeada
+122;CI SMD THI DIGIT;Linha produção;Rev1.0;;36160061;08/01/2020 15:02:23;Avariada.;Planeada
+123;CI SMD THI DIGIT;Linha produção;Rev1.0;;36160088;08/01/2020 15:03:38;Avariada com componentes em falta.;Planeada
+124;CI INV TP CONTROL;Linha produção;Rev1.0;;30180640;08/01/2020 15:05:20;Não salta a HF.;Planeada
+125;CI INV TP CONTROL;Linha produção;Rev1.0;;30180718;08/01/2020 15:06:37;Envernizada ?;Planeada
+126;CI INV TRI DC FRONT;Linha produção;Rev1.0;;?;08/01/2020 15:09:35;Parece-me uma placa de produção interna( nossa).;Planeada
+127;CI INV TRI TP FRONT;Linha produção;Rev2.0;;25180089;08/01/2020 15:12:57;Conponente queimadoD1.;Planeada
+128;CI.AF FULX 500;Linha produção;Rev1.0;;?;08/01/2020 15:16:57;Mosfets trocados.;Planeada
+129;CI.AF FULX 500;Linha produção;Rev1.0;;?;08/01/2020 15:20:30;Avariada.;Planeada
+130;CI Controlo AF TIG;Linha produção;Rev1.0;;36160045;08/01/2020 15:21:43;Avaria no motor  e componentes retirados.;Planeada
+131;CI Controlo AF TIG;Linha produção;Rev1.0;;36160047;08/01/2020 15:24:44;Avariado e componentes retirados.;Planeada
+132;CI LTRONIC CONTROL;Linha produção;Rev3.0;;?;09/01/2020 08:57:52;Erro1.;Planeada
+133;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008302174;09/01/2020 09:00:06;Display pouco brilho.;Planeada
+134;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008302173;09/01/2020 09:01:56;Display com pouco brilho.;Planeada
+135;SMD RCD DIGIT;Linha produção;Rev1.0;;10190024;09/01/2020 09:04:16;C.I com falta de componente T3 devolver a SIMATREX.;Planeada
+136;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;3619008340439;14/01/2020 09:04:10;Valores dos Volt muito baixos.;Planeada
+137;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;3619008340474;14/01/2020 09:07:06;Valores dos Volt muito baixos.;Planeada
+138;CI INV TRI DC FRONT;Linha produção;Rev1.0;;28190298;14/01/2020 09:08:25;Circuito DC203 com o VRD ligado os Volt estão muito  elevados ( 55v).;Planeada
+139;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;3619008340465;14/01/2020 09:57:39;Troca dos chicotes no transformador auxiliar  na maquina e queimou circuito.;Planeada
+140;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;0119001680872;16/01/2020 09:52:04;Não da para progarmar.;Planeada
+141;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008302198;16/01/2020 09:53:41;Da erro 4.;Planeada
+142;CI INV TP CONTROL;Linha produção;Rev1.0;;19191101;16/01/2020 15:26:29;Circuito com o componente IC8 ao cocontrário devolver á Simatrex.;Planeada
+143;CI INV TP FRONT;Linha produção;Rev2.0;;3119007161005;20/01/2020 08:36:38;Disply com defeito.;Planeada
+144;CI INV TP CONTROL;Linha produção;Rev1.0;;19190917;20/01/2020 15:47:14;Ao soldar TIG a mais de 150 AMP começa a  fazer ruído ( chiar) .;Planeada
+145;CI INV TP CONTROL;Linha produção;Rev1.0;;19191048;20/01/2020 15:50:05;Nos Volts marca 0.;Planeada
+146;CI INV TP CONTROL;Linha produção;Rev1.0;;19191256;20/01/2020 15:51:36;Máquina ficou pendurada  não muda os leds.;Planeada
+147;CI INV TP CONTROL;Linha produção;Rev1.0;;19191009;21/01/2020 09:03:48;Não salta AF .;Planeada
+148;CI INV ACDC FRONT;Linha produção;Rev1.0;;341800627;24/01/2020 11:44:24;C.I com o componente ( QI ) queimado  na linha de produção.;Planeada
+149;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;3619008340469;27/01/2020 13:40:33;Não dá para programar.;Planeada
+150;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;4819010350658;27/01/2020 13:42:47;Não dá para programar.;Planeada
+151;CI INV TP FRONT;Linha produção;Rev2.0;;311900761015;28/01/2020 12:05:21;Ao regular não aumenta nem diminui o valor que aparece no display.;Planeada
+152;CI INV TP FRONT;Linha produção;Rev2.0;;3119007160999;28/01/2020 12:16:09;Avaria nos displays.;Planeada
+153;CI INV ACDC FRONT;Linha produção;Rev1.0;;341800560;29/01/2020 16:04:30;Ao ligar o chicote  partiu a ficha na linha de produção.;Planeada
+154;CI INV ACDC FRONT;Linha produção;Rev1.0;;13180398;29/01/2020 16:06:55;Chicote mal ligado na linha de produção e queimou o componente QI.;Planeada
+155;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;22190122;03/02/2020 08:48:32;o botãoSW4 deixou de funcionar foi mudado e agora não dá para programar .;Planeada
+156;CI INV ACDC FRONT;Linha produção;Rev1.0;;13180233;10/02/2020 15:38:46;Ao envernizar entrou verniz na ficha J7 .;Planeada
+157;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671674;12/02/2020 09:42:04;Circuito deixado na linha 4  pelo Quitério com avaria ao ligar na  banca de programar queima o fusivel.;Planeada
+158;CI Frontal MIG300SI;Linha produção;Rev2.0;;2318005560020;12/02/2020 10:54:19;C.I  avariado não da tensão de vasio.;Planeada
+159;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2418005530020;12/02/2020 12:18:56;Não dá tensão  nenhuma.;Planeada
+160;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2418005530045;12/02/2020 12:21:00;Tensão de vasio a variar.;Planeada
+161;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2418005530021;12/02/2020 12:22:12;Faz ruido .;Planeada
+162;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2418005530027;12/02/2020 12:23:23;Ventilação não liga  compunentes  UI , IC11 ,IC8 ,IC9, mexidos.;Planeada
+163;CI MIG300SI CONTROL;Linha produção;Rev5.0;;052000720017;12/02/2020 16:14:01;CI que veio da simaterx sem componente  D26  devolver a simatrex.;Planeada
+164;CI MIG300SI CONTROL;Linha produção;Rev5.0;;052000720008;12/02/2020 16:16:22;CI veio da simatrex sem componente D26 devlover a simatrex;Planeada
+165;CI MIG300SI CONTROL;Linha produção;Rev5.0;;052000720018;12/02/2020 16:18:23;CIque veio da simatrex sem componente D26 devolver a simatrex.;Planeada
+166;CI MIG300SI CONTROL;Linha produção;Rev5.0;;052000720014;12/02/2020 16:20:33;Não dá tensão de vasio.;Planeada
+167;MIG S5;Linha produção;Rev1.0;;481901039310;14/02/2020 09:25:03;Não dá para programar.;Concluída
+168;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008302206;14/02/2020 11:25:53;Componente com polaridade ao contrario já envernizado ao retiralo partiu as pistas  no CI4.;Planeada
+169;CI LTRONIC CONTROL;Linha produção;Rev3.0;;não tem numero;14/02/2020 14:25:07;Avariado na linha de produção.;Planeada
+170;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;4819010350639;18/02/2020 15:47:16;Nã dá para regular os voltes para o valor de referencia pretendido.;Planeada
+171;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008302120;19/02/2020 15:32:39;O motor não anda ao rodar o encoder.;Planeada
+172;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671570;19/02/2020 15:34:43;O motor não anda ao rodar o encoder.;Planeada
+173;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008302111;19/02/2020 16:00:02;Motor não anda .;Planeada
+174;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671575;19/02/2020 16:01:33;Ao clicar no botão SW1 não muda os leds.;Planeada
+175;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671568;19/02/2020 16:03:34;Dá erro 4.;Planeada
+176;CI Inv Mig Control;Linha produção;Rev1.0;;19190164;19/02/2020 16:05:33;A tensão de vasio baixa.;Planeada
+177;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671532;19/02/2020 16:07:53;Dá erro 2.;Planeada
+178;CI RCD DIGIT;Linha produção;Rev1.0;;1419001710096;02/03/2020 10:50:36;Não dá para progamar.;Planeada
+179;CI Frontal MIG300SI;Linha produção;Rev2.0;;2318005560043;02/03/2020 15:30:32;C.I com falta de componentes e com alterações feitas .;Planeada
+180;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671635;06/03/2020 16:39:38;Devolver  a simatrex componente CI4 ao contrário .;Planeada
+181;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671527;09/03/2020 11:58:51;Não dá para programar .;Planeada
+182;CI INV ACDC FRONT;Linha produção;Rev1.0;;341800566;11/03/2020 09:42:31;Não faz a refrigeração.;Planeada
+183;CI MIG300SI CONTROL;Linha produção;Rev5.0;;052000720015;25/03/2020 10:00:30;Depois de envernizar não controla.;Planeada
+184;CI MIG300SI CONTROL;Linha produção;Rev5.0;;052000720002;25/03/2020 13:59:34;Componentes  sem estarem soldados devolver á simatrex.;Planeada
+185;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;4819010350484;25/03/2020 16:53:45;Os valores dos amperes esta´a variar.;Planeada
+186;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;20190081;25/08/2020 14:07:35;Nao dá para progarmar.;Planeada
+187;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;4819010350622;31/08/2020 15:28:34;Ao testar na linha de produçao deitou fumo no circuito.;Planeada
+188;CI LTRONIC CONTROL;Linha produção;Rev3.0;;3619008301895;31/08/2020 16:13:16;Ao  testar na linha de produçao queimou  troca de montagem de  chicotes .;Planeada
+189;CI LTRONIC CONTROL;Linha produção;Rev3.0;;2719005671644;31/08/2020 16:16:18;Ao testar na linha de produçao queimou troca de chicotes na montagem da maquina.;Planeada
+190;CI TP FRONT;Linha produção;Rev2.0;;3119007161038;01/09/2020 13:49:40;Não aumenta os valores ao rodar o encoder.;Planeada
+191;CI TP FRONT;Linha produção;Rev2.0;;3119007161007;01/09/2020 13:53:01;Problemas nos display.;Planeada
+192;CI TP FRONT;Linha produção;Rev2.0;;311900716002;01/09/2020 13:54:20;PROBLEMA NOS DISPLAY.;Planeada
+193;CI TP FRONT;Linha produção;Rev2.0;;311900160909;01/09/2020 13:55:21;Não dá para programar .;Planeada
+194;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;0420000620125;11/09/2020 14:39:56;Não atraca o contactor.;Planeada
+195;CI INV DC FRONT;Linha produção;Rev1.0;;31191547;18/09/2020 10:16:31;Avariado;Planeada
+196;CI INV ACDC FRONT;Linha produção;Rev1.0;;13180381;23/09/2020 09:07:50;Botão SW4 não funciona.;Planeada
+197;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;10200050;08/10/2020 16:47:19;Avaria nos disply.;Planeada
+198;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;1020046;08/10/2020 16:48:21;Não da para colocar os volts (11.7).;Planeada
+199;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;10200021;08/10/2020 16:50:52;Não da para  ajustar os volts para 11.7 .;Planeada
+200;CI INV TP CONTROL;Linha produção;Rev1.0;;19191260;12/10/2020 16:41:06;Veio da simatrex com o pic  IC9 ao contrário.;Planeada
+201;CI INV TP CONTROL;Linha produção;Rev1.0;;19191169;13/10/2020 11:18:50;Em soldadora faz ruido.;Planeada
+202;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;042000620187;13/10/2020 11:25:03;Queimou na linha dse montagem.;Planeada
+203;CI INV ACDC FRONT;Linha produção;Rev1.0;;13180195;14/10/2020 15:37:31;Não acende 2 seguementos e passa para água  sem carregar no botão do refegerador . Este ci veio da( Eli servic);Planeada
+204;CI LTRONIC FRONT;Recolha externa;Rev3.0;;30180781;16/10/2020 09:06:51;Veio do cliente  quiemada.;Planeada
+205;CI MIG Serie 6 Interface;Recolha externa;Rev4.0;;18220305;16/10/2020 09:08:32;Veio do cliente avariada.;Planeada
+206;CI RCD DIGIT;Linha produção;Rev1.0;;1419001710086;20/10/2020 16:25:33;Levou o quadro abaixo na linha.;Planeada
+207;CI Controlo AF TIG;Linha produção;Rev1.0;;36160054;21/10/2020 10:28:35;Veio com avaria  das reparações externas.;Planeada
+208;CI INV TP CONTROL;Linha produção;Rev1.0;;19191106;22/10/2020 15:36:11;AF não salta.;Planeada
+209;CI LTRONIC CONTROL;Linha produção;Rev3.0;;23160096;30/10/2020 16:16:14;Tensão de vazio ( volt)   muito baixo.;Planeada
+210;CI LTRONIC CONTROL;Linha produção;Rev3.0;;23160068;30/10/2020 16:17:47;Tensão de vazio ( volt ) muito baixo.;Planeada
+211;CI ACDC RELAY;Linha produção;Rev1.0;;não tem;04/11/2020 10:38:15;Queimou ao testar na linha de produção .;Planeada
+212;CI INV TP CONTROL;Linha produção;Rev1.0;;19190976;04/11/2020 15:25:59;Não salta a alta  frequencia.;Planeada
+213;CI MIG300SI CONTROL;Linha produção;Rev5.0;;21200044500035;11/11/2020 15:22:08;Sem tensão de vasio.;Planeada
+214;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2120004450002;11/11/2020 15:23:54;Em  MMA bolqueia a maquina.;Planeada
+215;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;10200144;16/11/2020 10:25:49;Ao retirar botão partiu a pista .;Planeada
+216;CI INV TP CONTROL;Linha produção;Rev1.0;;45170022;17/11/2020 16:11:42;Placa com avaria veio da linha 6.;Planeada
+217;CI INV TRI DC FRONT;Linha produção;Rev1.0;;4819010430437;18/11/2020 15:59:22;Solda em  TIG e não muda para MMA.;Planeada
+218;DC/DC 24V;Linha produção;Rev1.0;;NÃO TEM;19/11/2020 11:29:17;Queimou na linha 6.;Planeada
+219;CI INV TRI DC FRONT;Linha produção;Rev1.0;;28190287;23/11/2020 09:08:29;Devolver a simatrex C com componentes por soldar  trimer mal soldado.;Planeada
+220;CI INV TP CONTROL;Linha produção;Rev1.0;;3220006520069;30/11/2020 09:58:45;Ao mudificar as resistencias a pista da R18 partiu.;Planeada
+221;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;37200065;02/12/2020 11:05:30;Na programação não dá para colucar os volt coretos não sobe no trimer.;Planeada
+222;CI INV TP CONTROL;Linha produção;Rev1.0;;19191053;03/12/2020 11:02:12;O ventilador não trabalha.;Planeada
+223;CI Frontal MIG300SI;Linha produção;Rev2.0;;21200045570041;14/12/2020 10:37:03;Queimou na prudução .ao testar a máquina;Planeada
+224;CI Frontal MIG300SI;Linha produção;Rev2.0;;2120004570020;14/12/2020 10:39:51;Queimou na linha ao testar a máquina.;Planeada
+225;CI Frontal MIG300SI;Linha produção;Rev2.0;;21200004570050;14/12/2020 10:43:01;Queimou ao testar na máquina na linha.;Planeada
+226;CI INV TP CONTROL;Linha produção;Rev1.0;;19191289;15/12/2020 10:48:13;Trabalha como se estive se em plusada.;Planeada
+227;CI ACDC CONTROL;Linha produção;Rev1.0;;212004540011;16/12/2020 11:39:48;Ao  testar na linha de prudoção não deu os valores em volt que era necessário.;Planeada
+228;CI ACDC CONTROL;Linha produção;Rev1.0;;212004540003;18/12/2020 11:20:06;O micro SWITCH   não liga.;Planeada
+229;CI INV TP CONTROL;Linha produção;Rev1.0;;3220006520118;04/01/2021 16:45:41;Troca de chicote na linha  inverter e queimou os componentes do circuito.;Planeada
+230;DC/DC 24V;Linha produção;Rev1.0;;NÃO TEM;11/01/2021 09:48:12;Queimou ao ser testada .;Planeada
+231;DC/DC 24V;Linha produção;Rev1.0;;não tem;11/01/2021 11:34:48;Não dá para programar.;Planeada
+232;DC/DC 24V;Linha produção;Rev1.0;;não tem;11/01/2021 11:36:35;Não dá para programar.;Planeada
+233;CI INV DC FRONT;Linha produção;Rev1.0;;11200123;12/01/2021 13:46:42;Avaria nos display.;Planeada
+234;CI Power MIG300SI;Linha produção;Rev3.0;;231800560002;12/01/2021 13:49:18;Veio de uma reparacão para por como novo mas tem compunentes mexidos e duvidósos parecem queimados.;Planeada
+235;CI INV DC FRONT;Linha produção;Rev1.0;;11200011;13/01/2021 15:17:34;IC1 com problema devolver a simatrex.;Planeada
+236;CI INV DC FRONT;Linha produção;Rev1.0;;11200004;13/01/2021 15:19:17;IC1 com problema devolver a simatrex.;Planeada
+237;CI INV DC FRONT;Linha produção;Rev1.0;;11200009;13/01/2021 15:20:28;IC1 com problema devolver a simatrex.;Planeada
+238;CI INV DC FRONT;Linha produção;Rev1.0;;11200010;13/01/2021 15:21:43;IC1 co problema devolver a simatrex.;Planeada
+239;CI SMD THI DIGIT;Linha produção;Rev1.0;;0819001890109;01/02/2021 10:23:39;Avariada;Planeada
+240;CI SMD THI DIGIT;Linha produção;Rev1.0;;18220045;01/02/2021 10:25:21;Avariado;Planeada
+241;CI INV TP AUX POWER;Linha produção;Rev2.0;;3220006580002;01/02/2021 10:27:19;Tem pouca solda nos componentes  devolver a simatrex.;Planeada
+242;CI Inv Mig Control;Linha produção;Rev1.0;;19190131;02/02/2021 09:47:12;Ao tirar o componente partiu a pista.;Planeada
+243;REGULADOR AF TIG;Linha produção;Rev1.0;;36160069;04/02/2021 11:57:05;rEGULADOR AQUECE DEMASIADO.;Planeada
+244;CI INV VRD;Linha produção;Rev1.0;;NÃO TEM;04/02/2021 11:59:16;AVARIADO.;Planeada
+245;CI INV TP CONTROL;Linha produção;Rev1.0;;19191257;05/02/2021 12:03:22;Não liga  ventilador.;Planeada
+246;CI INV TP CONTROL;Linha produção;Rev1.0;;3220006520094;05/02/2021 12:05:16;Não dá para programar.;Planeada
+247;CI INV TP CONTROL;Linha produção;Rev1.0;;3220006520085;08/02/2021 08:31:16;Não dá para  programar;Planeada
+248;CI INV TP FRONT;Linha produção;Rev2.0;;08200070;12/02/2021 12:14:00;Não acendem os ledes .;Planeada
+249;CI INV TP FRONT;Linha produção;Rev2.0;;08200129;12/02/2021 12:15:31;Avarias nos disply's. devol ver a simatrex;Planeada
+250;CI Inv Mig Control;Linha produção;Rev1.0;;19190108;15/02/2021 10:42:58;Avariana nos valores no teste na linha de montagem.;Planeada
+251;Motor MIG300SI;Linha produção;Rev1.0;;2120004510031;17/02/2021 08:25:13;Troca nos chicotes e queimou  o CI.;Planeada
+252;CI INV TP CONTROL;Linha produção;Rev1.0;;3220006520196;17/02/2021 14:20:46;Ao soldar  não regula a corente .;Planeada
+253;CI INV DC FRONT;Linha produção;Rev1.0;;11200016;18/02/2021 14:42:52;Não solda.;Planeada
+254;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200074;24/02/2021 08:35:53;SEM PISTA NO  C11;Planeada
+255;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2120004450013;24/02/2021 15:29:50;Pinos do UI mal soldados devolver  a Simstrex.;Planeada
+256;CI INV DC FRONT;Linha produção;Rev1.0;;31191357;03/03/2021 09:47:24;Avariado.;Planeada
+257;CI INV DC FRONT;Linha produção;Rev1.0;;11200031;03/03/2021 09:49:09;Avariado.;Planeada
+258;CI INV DC FRONT;Linha produção;Rev1.0;;19190995;03/03/2021 09:50:27;Avariado.;Planeada
+259;CI INV ACDC FRONT;Linha produção;Rev1.0;;341800520;04/03/2021 09:01:16;Avaria no componente U24.;Planeada
+260;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;720043;08/03/2021 09:15:14;Queimou na linha de prudoção. troca no chicote.;Planeada
+261;CI INV TRI TP FRONT;Linha produção;Rev2.0;;08200151;09/03/2021 16:14:50;Não acende os leds D4 D5 D7.;Planeada
+262;CI Inv Mig Control;Linha produção;Rev1.0;;19190143;10/03/2021 12:03:52;Avariada na linha de prudoção  mexeram no componente U1.;Planeada
+263;CI Inv Mig Control;Linha produção;Rev1.0;;19190139;12/03/2021 16:37:19;Pistas estragadas.;Planeada
+264;CI INV TP FRONT;Linha produção;Rev2.0;;08200048;18/03/2021 09:09:58;Avariada.;Planeada
+265;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;30181313;19/03/2021 09:31:11;Avariado.;Planeada
+266;CI INV TP CONTROL;Linha produção;Rev1.0;;19191037;22/03/2021 15:39:10;Não salta AF.;Planeada
+267;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900207;06/04/2021 09:36:13;Não acende o led D13 depois de programado.;Planeada
+268;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900210;06/04/2021 09:38:27;Não acende o led D13 depois de programada.;Planeada
+269;CI INV TP FRONT;Linha produção;Rev2.0;;08200043;07/04/2021 16:45:01;Não acenden os leds D11 D12 D13 .;Planeada
+270;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;4720009200445;13/04/2021 13:31:34;Não acende os leds D14 D15 D16;Planeada
+271;CI INV TP FRONT;Linha produção;Rev2.0;;08200029;13/04/2021 16:56:27;Integrado mal soldado .;Planeada
+272;CI LTRONIC FRONT;Linha produção;Rev3.0;;36190301707;14/04/2021 10:55:47;Não dá paa programar queima  o fusível da banca de teste devolver a simatrex.;Planeada
+273;CI INV TP CONTROL;Linha produção;Rev1.0;;06200019;16/04/2021 10:21:57;Queimou um componente ao ligar a fonte para programar.;Planeada
+274;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;4720009200245;21/04/2021 12:01:28;CONDENÇADOR AO CONTRARIO DEVOLVER A SIMATREX;Planeada
+275;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;4720009200443;21/04/2021 12:03:06;Queimaos fusíveis .;Planeada
+276;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;4720009200255;21/04/2021 14:11:59;Comdensador ao comtrário devolver a SIMATREX.;Planeada
+277;CI INV DC FRONT;Linha produção;Rev1.0;;11200037;21/04/2021 17:18:49;AVARIADO;Planeada
+278;CI Controlo AF TIG;Linha produção;Rev1.0;;36160071;26/04/2021 13:46:31;avaria no gatilho da tocha.;Planeada
+279;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;10200241;27/04/2021 11:45:39;Não liga o contactor.;Planeada
+280;CI INV DC 500 FROMT;Linha produção;Rev1.0;;491909270016;03/05/2021 14:36:02;Não dá para ver oPWM.;Planeada
+281;CI INV TP CONTROL;Linha produção;Rev1.0;;06200030;04/05/2021 11:09:57;Não dá nada.;Planeada
+282;CI INV TP CONTROL;Linha produção;Rev1.0;;3220006520117;05/05/2021 16:32:20;AF não salta.;Planeada
+283;CI INV TP CONTROL;Linha produção;Rev1.0;;06200093;06/05/2021 16:06:33;Não solda .;Planeada
+284;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200048;06/05/2021 16:10:07;Avaria na linha  de prodoção.;Planeada
+285;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0321000440096;10/05/2021 08:47:07;Led com pouca luz devolver a Simatrex .;Planeada
+286;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0321000440002;10/05/2021 08:49:22;Avaria nos led D42 D43.;Planeada
+287;CI Inv Mig Control;Linha produção;Rev1.0;;19190113;11/05/2021 16:26:38;Avariada.;Planeada
+288;CI INV TP CONTROL;Linha produção;Rev1.0;;06200095;13/05/2021 12:29:47;Não solda.;Planeada
+289;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030127;13/05/2021 14:24:10;Falta  conponente D29 DEVOLVER A SIMATREX;Planeada
+290;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030127;13/05/2021 14:29:09;Devolver a simatrex falta  componente D29;Planeada
+291;CI INV TP CONTROL;Linha produção;Rev1.0;;06200052;18/05/2021 09:23:59;Não salta  AF.;Planeada
+292;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200028;18/05/2021 09:25:10;Não controla o pedal.;Planeada
+293;CI INV DC FRONT;Linha produção;Rev1.0;;11200146;19/05/2021 14:13:10;Não da para programar.;Planeada
+294;CI Controlo AF TIG;Linha produção;Rev1.0;;36160042;28/05/2021 16:20:24;Avarida na linha de prodoção.;Planeada
+295;CI Controlo AF TIG;Linha produção;Rev1.0;;46150020;28/05/2021 16:21:38;Avariada na linha de prodoção.;Planeada
+296;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900246;31/05/2021 16:40:12;Avaria na linha de prudoção;Planeada
+297;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900209;31/05/2021 16:41:54;Conponente trocado IC14.Devolver a simatrex;Planeada
+298;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900222;31/05/2021 16:43:34;Conponente IC14  devolver a simatrex;Planeada
+299;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900226;31/05/2021 16:47:18;Conponente IC14 errado devolver a simatrex;Planeada
+300;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900225;31/05/2021 16:48:51;Conponente IC14 errado devolver a simatrex;Planeada
+301;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900221;02/06/2021 13:57:32;Componente IC14 trocado;Planeada
+302;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900230;14/06/2021 11:04:49;Não lê a corrente.;Planeada
+303;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030022;15/06/2021 13:35:52;Falta conponente CI1 devolver a simatrex.;Planeada
+304;CI ACDC CONTROL;Linha produção;Rev1.0;;212004540094;15/06/2021 14:01:07;Refrigeração sempre atracada « Bomba Água«;Planeada
+305;CI INV TP CONTROL;Linha produção;Rev1.0;;19191305;16/06/2021 11:24:40;Avariado;Planeada
+306;SMD RCD DIGIT;Linha produção;Rev1.0;;14200006;16/06/2021 15:33:51;Devolver a simatrex;Planeada
+307;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030021;17/06/2021 14:32:31;Falta componente CI1;Planeada
+308;CI ACDC CONTROL;Linha produção;Rev1.0;;21200450133;18/06/2021 13:44:22;Avariada.;Planeada
+309;CI INV DC FRONT;Linha produção;Rev1.0;;0121000150417;23/06/2021 10:50:48;Avaria nos leds;Planeada
+310;CI INV DC FRONT;Linha produção;Rev1.0;;0121000150409;24/06/2021 15:07:18;Não tem tensão de vasio.;Planeada
+311;CI INV DC FRONT;Linha produção;Rev1.0;;0121000150302;28/06/2021 14:42:31;Avariada;Planeada
+312;CI LTRONIC FRONT;Linha produção;Rev4.0;;4720009200282;29/06/2021 11:14:25;Condemsador C48 ao comtrario.;Planeada
+313;CI LTRONIC CONTROL;Linha produção;Rev3.0;;não  tem;01/07/2021 14:31:24;Queimou em linha  chicoite trocado.;Planeada
+314;CI INV TRI TP FRONT;Linha produção;Rev2.0;;1821005470030;05/07/2021 15:52:16;Não da´para programar devolver a simatrex.;Planeada
+315;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900232;13/07/2021 11:42:39;Não esta a dar os valores certos sobe muito .;Planeada
+316;CI INV TP CONTROL;Linha produção;Rev1.0;;06200043;13/07/2021 15:43:22;Avariado na linha de produção chicote com troca e deixou de  saltar a AF.;Planeada
+317;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;4720009200369;15/07/2021 13:58:02;Toaca de chicotes queimou na linha de prodoção.;Planeada
+318;CI INV TRI DC FRONT;Linha produção;Rev1.0;;28190396;19/07/2021 11:59:56;Avaria nos display.;Planeada
+319;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030158;20/07/2021 10:51:21;Componente CI1 ao contrário devolver a Simatrex.;Planeada
+320;CI INV TP CONTROL;Linha produção;Rev1.0;;0521001140083;23/07/2021 09:45:39;Ao ligar a fonte para programar queimou um diodo.;Planeada
+321;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;1221001740002;26/07/2021 16:52:34;Não funciona o contactor.;Planeada
+322;CI LTRONIC CONTROL;Linha produção;Rev3.0;;não tem numero;27/07/2021 11:41:08;Devolver a simatrex ficha ao contrário,;Planeada
+323;CI INV TP FRONT;Linha produção;Rev2.0;;08200276;28/07/2021 09:29:05;Avaria nos display,;Planeada
+324;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200017;28/07/2021 14:25:42;Na linha  mexeram nas  soldas  e partiram a pista.;Planeada
+325;CI INV TRI DC FRONT;Linha produção;Rev1.0;;28190268;29/07/2021 14:41:15;Avariada na linha de prodoção.;Planeada
+326;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200051;29/07/2021 16:39:14;Avariada.;Planeada
+327;CI INV TP CONTROL;Linha produção;Rev1.0;;06200199;30/07/2021 14:01:21;Avariada na linha de prodoção.;Planeada
+328;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030235;24/08/2021 10:28:46;Falta conponente devolver a simatrex.;Planeada
+329;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030236;24/08/2021 16:12:24;Falta componente CI1 devolver a simatrex.;Planeada
+330;CI INV TRI DC FRONT;Linha produção;Rev1.0;;28190377;26/08/2021 12:25:03;Avariada.na linha de prodoção.;Planeada
+331;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200036;01/09/2021 09:25:15;Troca de ligações no chicote e queimou o circuito.;Planeada
+332;CI INV TP CONTROL;Linha produção;Rev1.0;;0521001140140;02/09/2021 09:12:49;Avaria no chicote danificou o cricuito AF não salta.;Planeada
+333;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;1721006080061;13/09/2021 11:04:32;Motor não anda.;Planeada
+334;CI Controlo AF TIG;Linha produção;Rev1.0;;12213330017;21/09/2021 08:49:45;Pista partida.;Planeada
+335;CI INV TRI DC FRONT;Linha produção;Rev1.0;;28190309;23/09/2021 16:46:37;Não dá pra programar.;Planeada
+336;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008301998;28/09/2021 12:28:08;avariada no cliente.;Planeada
+337;CI Frontal MIG300SI;Linha produção;Rev2.0;;2120004570032;11/10/2021 09:53:43;Avariou na linha .;Planeada
+338;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2120004450049;11/10/2021 09:55:08;Avariou na linha .;Planeada
+339;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2120004450050;11/10/2021 09:56:29;Quiemou na linha.;Planeada
+340;CI LTRONIC CONTROL;Linha produção;Rev3.0;;não tem;11/10/2021 12:21:27;Não dá para programar.;Planeada
+341;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200044;14/10/2021 15:49:52;Veio da simatrex com CI  1pernas partidas.;Planeada
+342;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008301852;18/10/2021 10:38:19;QUEIMOU NA LINA DE PRODOÇÃO.;Planeada
+343;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2120004450030;18/10/2021 14:40:29;Componete U1 ao contrário devolver a simatrex.;Planeada
+344;CI Frontal MIG300SI;Linha produção;Rev2.0;;2120004570007;19/10/2021 15:38:04;AVARIA NA LINHA DE PRODOÇÃO.;Planeada
+345;Motor MIG300SI;Linha produção;Rev1.0;;2120004520048;19/10/2021 15:39:43;Avaria na linha de prdoção.;Planeada
+346;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2120004450004;19/10/2021 15:41:39;Avaria na linha de prodoção.;Planeada
+347;CI INV DC FRONT;Linha produção;Rev1.0;;0121000150541;20/10/2021 15:09:45;Avariada.;Planeada
+348;CI LTRONIC FRONT;Linha produção;Rev4.0;;1721005080004;20/10/2021 16:41:12;Queimou na linha de porodoção troca de chicotes na máquina.;Planeada
+349;CI INV DC FRONT;Linha produção;Rev1.0;;0121000150368;22/10/2021 10:14:05;Não acende .;Planeada
+350;CI LTRONIC FRONT;Linha produção;Rev4.0;;1721005080040;25/10/2021 13:36:08;Avariada devolver a simatrex.;Planeada
+351;CI LTRONIC FRONT;Linha produção;Rev4.0;;1721005080068;25/10/2021 13:37:25;Não dá para programar.;Planeada
+352;CI LTRONIC FRONT;Linha produção;Rev3.0;;2421006530081;26/10/2021 10:35:00;Botão SW4 não muda os leds .;Planeada
+353;CI ACDC CONTROL;Linha produção;Rev1.0;;1621004190025;11/11/2021 16:48:09;Componente IC13 queimado.;Planeada
+354;CI INV TP CONTROL;Linha produção;Rev1.0;;0521001140041;12/11/2021 16:45:53;Ao ligar  na  máquina queimou troca de chicotes.;Planeada
+355;CI INV TP CONTROL;Linha produção;Rev1.0;;0521001140051;12/11/2021 16:51:29;Troca de chicotes na linha queimou o circuito.;Planeada
+356;CI MIG300SI CONTROL;Linha produção;Rev5.0;;1621004390001;24/01/2022 14:44:00;Não tem tensão de vazio.;Planeada
+357;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;1721oo6080155;24/01/2022 14:45:52;Naõ dá para programar devolver a simatrex.;Planeada
+358;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;1721005080138;24/01/2022 14:47:26;Avaria nos disply.;Planeada
+359;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;1721005080196;24/01/2022 14:49:01;Não dá para porgramar.;Planeada
+360;CI LTRONIC FRONT;Linha produção;Rev3.0;;2421006530143;25/01/2022 16:04:26;Não dá  para programar.devolver a simatrex.;Planeada
+361;CI INV DC FRONT;Linha produção;Rev1.0;;1721004900793;28/01/2022 12:02:58;Falta led devolver a simatrex;Planeada
+362;CI RCD DIGIT;Linha produção;Rev1.0;;08200040;28/01/2022 15:00:19;Avariado;Planeada
+363;CI LTRONIC FRONT;Linha produção;Rev3.0;;2421006530115;28/01/2022 15:45:27;Avaria nos leds;Planeada
+364;CI LTRONIC FRONT;Linha produção;Rev3.0;;3821010030158;28/01/2022 15:46:55;Avaria nos leds;Planeada
+365;Motor MIG300SI;Linha produção;Rev1.0;;2120004510022;03/02/2022 10:26:55;Avariado na linha de produção mexeram no componente Q2 e partiram a pista .;Planeada
+366;CI Frontal MIG300SI;Linha produção;Rev2.0;;1621004290009;03/02/2022 11:45:32;Erro de comunicação no circuitos.;Planeada
+367;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220140;08/02/2022 10:48:04;Avariada.;Planeada
+368;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;2121005620058;08/02/2022 10:49:12;NÃO ATRACA O CONTACTOR;Planeada
+369;mig control 500;Linha produção;Rev1.0;;11211001840006;14/02/2022 16:30:37;Não dá para programar .;Planeada
+370;CI LTRONIC FRONT;Linha produção;Rev4.0;;3619008301707;15/02/2022 11:01:06;Queima o fúsivél da banca de ensaios;Planeada
+371;CI LTRONIC FRONT;Linha produção;Rev3.0;;3821010030035;15/02/2022 11:03:07;Falta o componente D38.;Planeada
+372;CI SMD THI DIGIT;Linha produção;Rev1.0;;2421006310001;16/02/2022 10:49:43;Avariada na linha.;Planeada
+373;CI LTRONIC FRONT;Linha produção;Rev3.0;;2421006530037;16/02/2022 15:59:09;Queimou na linha de prudoção .;Planeada
+374;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;2121005620058;16/02/2022 16:00:56;Queimou na linha de montagem.;Planeada
+375;CI LTRONIC FRONT;Linha produção;Rev3.0;;0521001030236;17/02/2022 12:11:46;Não dá para programar;Planeada
+376;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0321000440096;17/02/2022 12:13:25;Avaria nos led do D19 ao D24.;Planeada
+377;CI INV TRI TP FRONT;Linha produção;Rev2.0;;1821005470097;17/02/2022 12:15:01;Avaria no  led D23.;Planeada
+378;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;2121005980009;18/02/2022 11:38:58;Queima os fusiveis da banca de testes.;Planeada
+379;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;2121005980041;18/02/2022 11:40:07;Moc CI4 ao contrário.;Planeada
+380;CI INV TP CONTROL;Linha produção;Rev1.0;;21211005690012;22/02/2022 12:25:57;Não dá MMA.;Planeada
+381;CI INV DC FRONT;Linha produção;Rev1.0;;1721004900701;22/02/2022 16:38:07;Não passa de MMA para TIG.;Planeada
+382;CI INV TP CONTROL;Linha produção;Rev1.0;;2121006690047;06/04/2022 10:23:48;Avariada em linha de prodoção.;Planeada
+383;CI LTRONIC FRONT;Linha produção;Rev3.0;;0922003190034;25/05/2022 08:32:07;Não dá para prograrmar.;Planeada
+384;CI LTRONIC FRONT;Linha produção;Rev3.0;;3821010030098;25/05/2022 08:34:57;Queima o fúsivel da banca de ensaios;Planeada
+385;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;5121014800106;25/05/2022 08:37:12;Diodos ao contrario;Planeada
+386;CI LTRONIC FRONT;Linha produção;Rev3.0;;381010030098;09/06/2022 10:48:11;Queima os fusíveis.devolver a simatrex.;Planeada
+387;CI LTRONIC FRONT;Linha produção;Rev3.0;;3619008302174;09/06/2022 10:50:00;Display com pouca luz devolver a simatrex;Planeada
+388;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;5121014800105;09/06/2022 10:54:04;Diodo ao contrario devolver a sima trex;Planeada
+389;CI INV TP FRONT;Linha produção;Rev2.0;;18380741;09/06/2022 10:55:26;Avariada;Planeada
+390;CI LTRONIC FRONT;Linha produção;Rev3.0;;0922003190129;09/06/2022 10:59:35;Apos a prpgramação o motor a andar fáz ruido devolver a simatrex.;Planeada
+391;CI LTRONIC FRONT;Linha produção;Rev3.0;;0922003190096;09/06/2022 11:02:05;Componente ao contrário devolver a simatrex;Planeada
+392;CI Inv Mig Control;Linha produção;Rev1.0;;3220064900225;09/06/2022 11:04:27;Falta componente I C4 devolver a simatrex;Planeada
+393;CI LTRONIC FRONT;Linha produção;Rev3.0;;0922003190106;09/06/2022 11:08:33;Não dá para programar devolver a simatrex;Planeada
+394;CI LTRONIC FRONT;Linha produção;Rev3.0;;0922003190088;09/06/2022 11:10:19;Não da´para programar devolver a simatrex;Planeada
+395;CI ACDC CONTROL;Linha produção;Rev1.0;;1621004190135;09/06/2022 11:12:21;Componente C I1 ao contrário devolver a simatrex;Planeada
+396;MIG S5;Linha produção;Rev1.0;;252005130347;09/06/2022 11:14:58;Quiemou o SCR3 vedolver a simatrex;Planeada
+397;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;212005620056;09/06/2022 12:10:53;Avariada;Planeada
+398;CI RCD DIGIT;Linha produção;Rev1.0;;2421006310001;09/06/2022 12:12:06;Avariada na linha de prodoção;Planeada
+399;CI INV TP CONTROL;Linha produção;Rev1.0;;2121005690012;09/06/2022 12:20:00;Não trabalha em MMA;Planeada
+400;CI RCD DIGIT;Linha produção;Rev1.0;;08200040;09/06/2022 12:21:53;Avariado en linha de prodoção;Planeada
+401;CI LTRONIC FRONT;Linha produção;Rev3.0;;2421006530037;09/06/2022 12:23:35;Queimou  troca de chicote na prodoção;Planeada
+402;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;2121005620068;09/06/2022 12:25:27;Queimou na linha troca de chicotes;Planeada
+403;CI INV TRI TP FRONT;Linha produção;Rev2.0;;08200091;09/06/2022 12:27:33;Avariada;Planeada
+404;CI INV ACDC FRONT;Linha produção;Rev1.0;;13180154;09/06/2022 12:29:13;Avariada;Planeada
+405;CI INV DC FRONT;Linha produção;Rev1.0;;1721004900701;09/06/2022 14:20:36;Avariada;Planeada
+406;Motor MIG300SI;Linha produção;Rev1.0;;2120004510022;09/06/2022 14:24:02;Avariado na linha de produção mexeram nas pistas e partiram;Planeada
+407;mig control 500;Linha produção;Rev1.0;;11211001840017;09/06/2022 14:26:27;Avariada;Planeada
+408;mig control 500;Linha produção;Rev1.0;;4020007750009;09/06/2022 14:27:53;Avariada;Planeada
+409;Motor MIG300SI;Linha produção;Rev1.0;;2120004510006;09/06/2022 14:29:04;Omotor do fio não arranca;Planeada
+410;CI INV DC FRONT;Linha produção;Rev1.0;;3121008230921;09/06/2022 14:32:45;Fica preso em tig;Planeada
+411;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220140;09/06/2022 14:34:08;Avariada;Planeada
+412;CI LTRONIC FRONT;Recolha externa;Rev3.0;;2719005671607;09/06/2022 14:35:17;Avaria veio de fora;Planeada
+413;CI INV TP CONTROL;Linha produção;Rev1.0;;2121005690047;09/06/2022 14:36:30;Avariado na linha de prodoção;Planeada
+414;CI SMD THI DIGIT;Linha produção;Rev1.0;;14200061;09/06/2022 14:38:09;Avariada em linha de prodoção;Planeada
+415;CI SMD THI DIGIT;Linha produção;Rev1.0;;28190206;09/06/2022 14:39:28;Avaria em linha de prodoção;Planeada
+416;CI INV TP CONTROL;Linha produção;Rev1.0;;06200023;09/06/2022 14:40:57;Avaria na linha de prodoção;Planeada
+417;CI Controlo AF TIG;Linha produção;Rev1.0;;12213330023;09/06/2022 14:42:31;Avaria na linha de prodoção;Planeada
+418;CI Frontal MIG300SI;Linha produção;Rev2.0;;1621004290029;09/06/2022 14:43:41;Avariado em linha deprodoção;Planeada
+419;CI INV TRI DC FRONT;Linha produção;Rev1.0;;0521001100040;09/06/2022 14:44:54;FICA PRESO EM TIG;Planeada
+420;CI INV TP AUX POWER;Linha produção;Rev1.0;;0722003000014;09/06/2022 14:46:23;AVARIADO NA LINHA DE PRODOÇÃO;Planeada
+421;CI MIG300SI CONTROL;Linha produção;Rev5.0;;2120004450032;09/06/2022 14:48:17;AVARIADA;Planeada
+422;CI INV DC FRONT;Linha produção;Rev1.0;;0922003350001;14/06/2022 08:51:45;Avariada em linha de prodoção.;Planeada
+423;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;1722006040066;23/06/2022 09:33:41;Avariado na linha de prodoção.;Planeada
+424;CI Frontal MIG300SI;Linha produção;Rev2.0;;1621004290026;23/06/2022 09:39:29;Avariado na linha de prodoção;Planeada
+425;CI LTRONIC FRONT;Linha produção;Rev3.0;;0922003190145;23/06/2022 14:33:55;Componente por soldar devolver a simatrex.;Planeada
+426;CI LTRONIC CONTROL;Linha produção;Rev3.0;;Não tem;07/07/2022 14:54:41;Avariado no laboratório.;Planeada
+427;CI Inv Mig Control;Linha produção;Rev1.0;;3621009620091;12/07/2022 11:38:27;Não controla a tensão;Planeada
+428;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0922003150117;12/07/2022 11:40:24;Na linha de prodoção não  trabalha;Planeada
+429;CI Inv Mig Control;Linha produção;Rev1.0;;3621009620076;13/07/2022 11:43:08;Componente U1 mal soldaddo devolver a simatrex.;Planeada
+430;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;18220529;14/07/2022 13:54:02;Este circuito foi  devolvido a simatrex  com condensador  soldado ao contrário veio exatamente igual como foi. E  rebentou a fazer  a progamação.;Planeada
+431;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;20190081;14/07/2022 16:36:07;Circuito veio da simatrex foi devolvido e veio com o mesmo problema a 12-07-22 não dá para programar.;Planeada
+432;CI CAP MONOMIG;Linha produção;Rev1.0;;não tem;15/07/2022 10:46:38;Queimou os condensadores tinha os cabos com a posição ao contrario.;Planeada
+433;CI Inv Mig Control;Linha produção;Rev1.0;;3621009620017;19/07/2022 12:13:22;Condensador  C62 partido devolver a simatrex;Planeada
+434;CI INV DC FRONT;Linha produção;Rev1.0;;0922003350052;19/07/2022 16:47:46;Avariado em linha de prodoção;Planeada
+435;CI INV TP CONTROL;Linha produção;Rev1.0;;0521001140191;20/07/2022 15:04:16;Circuito  queimou no laboratório em ensáios.;Planeada
+436;CI Inv Mig Control;Linha produção;Rev1.0;;3621009620038;22/07/2022 11:07:37;Ao retirar o conponente IC8 a pista ficou solta .;Planeada
+437;CI INV TP CONTROL;Linha produção;Rev1.0;;4121011420162;22/07/2022 11:09:48;AF NÃO SALTA.;Planeada
+438;CI INV TP CONTROL;Linha produção;Rev1.0;;19191365;22/07/2022 14:22:03;avariada em linha;Planeada
+439;CI LTRONIC FRONT;Linha produção;Rev3.0;;262200833288;28/07/2022 11:15:13;Conponente CI4 ao contrário devolver á simatrex;Planeada
+440;CI LTRONIC FRONT;Linha produção;Rev3.0;;2622008330296;24/08/2022 15:25:09;IC4 ao contrário  devolver á  simatrex.;Planeada
+441;SMD RCD DIGIT;Linha produção;Rev1.0;;1822006150071;30/08/2022 13:31:36;Falta componente D40.;Planeada
+442;CI RCD DIGIT;Linha produção;Rev1.0;;182006150067;30/08/2022 13:43:43;Falta componente D40.;Planeada
+443;CI INV TRI TP FRONT;Linha produção;Rev2.0;;.;07/09/2022 16:22:01;Avaria não passa de TIG para MMA .;Planeada
+444;CI INV TRI TP FRONT;Linha produção;Rev2.0;;01;08/09/2022 15:56:05;Quando liga do na máquinana linha desprograma.;Planeada
+445;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0922003150122;08/09/2022 16:14:27;Avariado em linha;Planeada
+446;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220057;09/09/2022 15:35:30;Foi para a linha de prodoção e avariou.;Planeada
+447;CI ACDC CONTROL;Linha produção;Rev1.0;;1621004190104;16/09/2022 11:23:24;Avariou em linha;Planeada
+448;DC/DC 24V;Linha produção;Rev1.0;;não tem;22/09/2022 12:01:48;Fala de componente;Planeada
+449;CI LTRONIC CONTROL;Linha produção;Rev3.0;;2622008300063;22/09/2022 14:39:52;Componrnte ao contrário devolver a simatrex.;Planeada
+450;CI LTRONIC CONTROL;Linha produção;Rev3.0;;26228300067;22/09/2022 15:21:35;Componente ao contrárioCI12.;Planeada
+451;CI LTRONIC CONTROL;Linha produção;Rev3.0;;2622008300040;22/09/2022 15:23:47;Componente CI4 ao contário .;Planeada
+452;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220079;10/10/2022 13:56:48;Avariada;Planeada
+453;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220138;10/10/2022 15:19:06;Avariada.;Planeada
+454;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390048;12/10/2022 16:22:27;Não salta a alta frequência.;Planeada
+455;MIG S5;Linha produção;Rev1.0;;252005130336;17/10/2022 16:50:59;Conponente ao contrário.devolver a simatrex;Planeada
+456;MIG S5;Linha produção;Rev1.0;;252005130357;17/10/2022 16:52:38;Conponente ao contrário devolver a simatrex.;Planeada
+457;MIG S5;Linha produção;Rev1.0;;252005130332;17/10/2022 16:53:58;Conponentes ao contrário devolver a simatrex.;Planeada
+458;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0922003150043;10/11/2022 11:21:04;Avariada na linha de prodoção.;Planeada
+459;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220117;29/11/2022 10:24:23;Avaria no IC9 .;Planeada
+460;CI INV TRI TP FRONT;Linha produção;Rev2.0;;3922012070830;15/12/2022 15:38:31;Falta Q8;Planeada
+461;CI RCD DIGIT;Linha produção;Rev1.0;;2421006310008;15/12/2022 15:40:03;Ao ligar a fonte para programar os componentes R55´R56´R58 começaram a largar fumo.;Planeada
+462;CI LTRONIC FRONT;Linha produção;Rev3.0;;2622008330286;15/12/2022 15:42:41;IC4 ao comtrário;Planeada
+463;CI LTRONIC FRONT;Linha produção;Rev3.0;;312201004029;15/12/2022 15:44:33;LED D35ao contrário;Planeada
+464;CI INV DC FRONT;Linha produção;Rev1.0;;3622010850474;15/12/2022 15:46:03;Não dá para programar;Planeada
+465;CI LTRONIC CONTROL;Linha produção;Rev3.0;;2622008300057;15/12/2022 15:47:35;CI12 ao contrário;Planeada
+466;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;5121014800033;15/12/2022 15:49:19;Led D14 não acende;Planeada
+467;CI LTRONIC FRONT;Linha produção;Rev3.0;;3122010040431;15/12/2022 15:50:48;Led D36 ao contrário;Planeada
+468;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0922003150086;19/12/2022 16:41:38;Ao ligar a máquina fica preso em TIG e não muda para MMA;Planeada
+469;CI RCD DIGIT;Linha produção;Rev1.0;;1822006150065;20/12/2022 11:22:01;Veio com o potenciometro partido;Planeada
+470;CI LTRONIC FRONT;Linha produção;Rev3.0;;3122010040459;23/12/2022 10:25:55;Avaria no IC3;Planeada
+471;CI LTRONIC FRONT;Linha produção;Rev3.0;;3122010040453;23/12/2022 10:27:15;Avaria no IC3;Planeada
+472;CI INV TRI TP FRONT;Linha produção;Rev2.0;;5001;23/12/2022 10:36:38;Avaria na linha;Planeada
+473;CI SMD THI DIGIT;Linha produção;Rev1.0;;3221008220106;23/12/2022 10:38:51;Aviada;Planeada
+474;CI INV TRI TP FRONT;Linha produção;Rev2.0;;3012;23/12/2022 10:40:39;Avaria não passa de MMA para tig;Planeada
+475;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;2722009130206;23/12/2022 10:43:56;Contrator não funciona;Planeada
+476;CI INV TRI TP FRONT;Linha produção;Rev2.0;;6002;23/12/2022 10:47:07;Não funciona;Planeada
+477;CI INV DC FRONT;Linha produção;Rev2.0;;0922003360062;23/12/2022 10:48:50;Avariou na linha de prodoção;Planeada
+478;CI LTRONIC CONTROL;Linha produção;Rev3.0;;707022;23/12/2022 10:50:57;Avariado no laboratório;Planeada
+479;CI ACDC CONTROL;Linha produção;Rev1.0;;212004540043;23/12/2022 10:53:20;Avariado no cliente;Planeada
+480;CI CAP MONOMIG;Linha produção;Rev1.0;;3003;23/12/2022 10:55:07;Troca de positivo com negativo e queimou na linha;Planeada
+481;mig control 500;Linha produção;Rev1.0;;112100840017;23/12/2022 11:11:28;Avariada;Planeada
+482;CI INV TP CONTROL;Linha produção;Rev1.0;;4121011420223;23/12/2022 11:14:23;Aorodar o encoder não aumente de valor;Planeada
+483;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;2121005620056;23/12/2022 13:58:31;Contactor não atraca;Planeada
+484;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;5121014800309;28/12/2022 14:22:53;Tem pista do encoder partida;Planeada
+485;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;162205480072;28/12/2022 14:24:47;Avaria no circuito led do contactor não acende na banca de ensaios;Planeada
+486;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390112;06/01/2023 14:22:12;Avariou na linha de prodoção;Planeada
+487;CI INV DC FRONT;Linha produção;Rev1.0;;3622010850476;10/01/2023 16:36:49;Led bicolor não acende;Planeada
+488;CI LTRONIC FRONT;Linha produção;Rev3.0;;3122010040365;11/01/2023 09:38:40;Conponente IC2 por soldar devolver a Simatrex .;Planeada
+489;DC/DC 24V;Linha produção;Rev1.0;;....;12/01/2023 12:23:16;Avariado;Planeada
+490;CI Power MIG300SI;Linha produção;Rev3.0;;3722011200001;12/01/2023 16:15:25;Troca de chicote na linha de prodoção e queimou o C.I  Power  e o C.I  DC DC 24V;Planeada
+491;CI ACDC CONTROL;Linha produção;Rev1.0;;162100490117;13/01/2023 14:34:43;Não dá para afinar;Planeada
+492;CI SMD THI DIGIT;Linha produção;Rev1.0;;4721014090196;13/01/2023 14:36:51;Ledes   ao contrário devolver a simatrex;Planeada
+493;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;1622005480047;17/01/2023 15:55:19;Veio  partido devolver a simatrex.;Planeada
+494;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;5121014800035;19/01/2023 11:12:55;Ficha J8 ao contrário devolver a simatrex;Planeada
+495;CI INV DC FRONT;Linha produção;Rev2.0;;3622010850355;20/01/2023 15:01:56;C42 ao contrario  dfvolver a simatrex.;Planeada
+496;CI LTRONIC CONTROL;Linha produção;Rev3.0;;NAO TEM;20/01/2023 15:04:03;AVARIADA;Planeada
+497;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390190;24/01/2023 13:56:51;Troca de chicote queimou o circuito foi para  a sucata.;Concluída
+498;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220074;30/01/2023 09:41:11;Avariado na linha;Planeada
+499;CI ACDC CONTROL;Linha produção;Rev1.0;;1621004190238;30/01/2023 09:56:13;Só dá na posição de ponto temporizador;Planeada
+500;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390138;30/01/2023 10:15:29;Avariada emm linha de prodoção.;Planeada
+501;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390185;30/01/2023 10:17:35;Avariada em linha;Planeada
+502;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390063;30/01/2023 10:24:27;Avariada em linha;Planeada
+503;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;5171014800161;08/02/2023 12:19:27;Trimer R59 ao contrário.;Planeada
+504;CI Controlo AF TIG;Linha produção;Rev1.0;;2222007290024;17/02/2023 12:19:02;Motor ao anda avaria em linha.;Planeada
+505;CI Controlo AF TIG;Linha produção;Rev1.0;;2222007290012;17/02/2023 12:21:32;Erro 3.;Planeada
+506;CI Controlo AF TIG;Linha produção;Rev1.0;;12213330010;17/02/2023 12:23:09;Motor não anda .;Planeada
+507;CI INV DC FRONT;Linha produção;Rev1.0;;31191573;24/02/2023 12:22:35;Conponente IC4 ao contrário;Planeada
+508;CI SMD THI DIGIT;Linha produção;Rev1.0;;4721014090213;07/03/2023 08:57:50;Led D2,D3,D7,D8 ao contrário.;Planeada
+509;CI SMD THI DIGIT;Linha produção;Rev1.0;;4721014090208;07/03/2023 08:59:37;Led D10 display ao contrário.;Planeada
+510;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390157;14/03/2023 09:00:08;Avariada na linha de prodoção  conponente queimado.;Planeada
+511;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0922003150007;22/03/2023 15:05:01;Avariada na linha produção.;Planeada
+512;CI LTRONIC FRONT;Linha produção;Rev4.0;;5121014800218;23/03/2023 16:20:09;Devolver a simatrex display ao contrário;Planeada
+513;mig control 500;Linha produção;Rev1.0;;1121001840010;24/03/2023 12:24:27;Ficha J3ao contrário resolvido internamente.;Concluída
+514;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390032;31/03/2023 13:40:08;Não salta a AF.;Planeada
+515;CI INV DC FRONT;Linha produção;Rev1.0;;30180795;03/04/2023 16:53:42;Temtensão de vazio mas não solda;Planeada
+516;CI INV DC FRONT;Linha produção;Rev1.0;;3622010850584;04/04/2023 08:35:17;Led do térmico está sempre ligado.;Planeada
+517;CI SMD THI DIGIT;Recolha externa;Rev1.0;;14200039;10/04/2023 14:52:35;Veio do cliente avariada.;Planeada
+518;CI INV DC FRONT;Linha produção;Rev1.0;;4322013270626;11/04/2023 12:16:37;Falta componenteJ4;Planeada
+519;CI RCD DIGIT;Linha produção;Rev1.0;;24210006310038;13/04/2023 10:34:43;Avariou b na linha de prodoção.;Planeada
+520;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;5121014800390;13/04/2023 12:28:47;Conponente ao contrário R59devolver a simatrex;Planeada
+521;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;5121014800391;13/04/2023 13:32:06;Componente ao contrário IC4;Planeada
+522;CI INV TP CONTROL;Linha produção;Rev1.0;;4121011120152;14/04/2023 12:11:41;Queimou  troca de chicote na linha de prodoção.;Planeada
+523;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;10200014;14/04/2023 16:20:35;Queimou  na linha de prodoção por troca de chicote;Planeada
+524;CI LTRONIC FRONT;Linha produção;Rev3.0;;4622013620501;14/04/2023 16:55:25;Troca deligação de chicotes na linha de prodoção queimou o circuito.;Planeada
+525;CI ACDC CONTROL;Linha produção;Rev1.0;;1621004190199;19/04/2023 16:43:50;IC14 por soldar devolver a simatrex;Planeada
+526;CI INV TP CONTROL;Linha produção;Rev1.0;;0922003390085;26/04/2023 15:29:07;Avariada presa emm MMA.;Planeada
+527;CI MIG Serie 6 Interface;Linha produção;Rev4.0;;2722009130272;03/05/2023 12:02:09;Troca de chicote do fusível queimou na linha de prodoção.;Planeada
+528;CI LTRONIC CONTROL;Linha produção;Rev3.0;;2421006530234;03/05/2023 12:04:17;Troca de chicote do fusível queimou  na linha de prodoção.;Planeada
+529;mig control 500;Linha produção;Rev1.0;;1121001840001;15/05/2023 09:42:24;Troca de chicotes na montagem da máquina queimou circuito;Planeada
+530;CI LTRONIC FRONT;Linha produção;Rev3.0;;2719005671443;24/05/2023 08:21:45;Circuito com avaria queima os fusiveis na banca de testes;Planeada
+531;CI INV TP FRONT;Linha produção;Rev2.0;;1921004220060;29/05/2023 14:28:01;Avariada;Planeada
+532;CI INV TP FRONT;Linha produção;Rev2.0;;1622005270062;07/06/2023 10:20:13;Avariada;Planeada
+533;CI Controlo AF TIG;Linha produção;Rev1.0;;2222007290013;26/06/2023 09:37:47;Avariada em linha de prodoção.;Planeada
+534;CI Power MIG300SI;Linha produção;Rev3.0;;3722011200021;27/06/2023 15:32:13;Queimou em testes o diodoD18;Planeada
+535;CI MIG300SI CONTROL;Linha produção;Rev5.0;;1323002580013;27/06/2023 15:34:35;Avariada;Planeada
+536;Motor MIG300SI;Linha produção;Rev1.0;;1323002190024;27/06/2023 15:35:41;Queimou diodoD7;Planeada
+537;CI ACDC CONTROL;Linha produção;Rev1.0;;162100419114;28/06/2023 08:30:42;Avariada oueimou na linha de prodoção;Planeada
+538;CI Inv Mig Control;Recolha externa;Rev1.0;;37180068;07/07/2023 10:58:43;Avariada;Planeada
+539;CI.AF FULX 500;Linha produção;Rev1.0;;3022009880019;14/07/2023 09:16:14;Avariado em linha de prodoção;Planeada
+540;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860067;14/07/2023 09:38:42;Teste gás não responde;Planeada
+541;CI LTRONIC FRONT;Linha produção;Rev3.0;;202300480070;14/07/2023 09:40:01;Relé partido deixaram cair o CIRCUITO;Planeada
+542;CI.AF FULX 500 isolador;Linha produção;Rev1.0;;Não tem;14/07/2023 10:38:13;Avariado em linha  troca de chicotes;Planeada
+543;CI Controlo AF TIG;Linha produção;Rev1.0;;12213330010;20/07/2023 14:00:35;Avariada em linha de prodoção.;Planeada
+544;CI Controlo AF TIG;Linha produção;Rev1.0;;2222007290018;21/07/2023 09:31:17;Componentes Q5,Q6,Q4,Q9 trocados devolver a simatrex.;Planeada
+545;CI INV DC FRONT;Linha produção;Rev1.0;;4322013270750;28/07/2023 15:22:30;Está a fazer muito ruído  ao sodar.;Planeada
+546;CI INV TP FRONT;Linha produção;Rev2.0;;0922003150085;28/07/2023 15:27:07;Avariado.;Planeada
+547;CI LTRONIC FRONT;Recolha externa;Rev3.0;;3821010030105;23/08/2023 14:02:17;Avariada erro 4;Planeada
+548;Motor MIG300SI;Linha produção;Rev1.0;;2418005630046;24/08/2023 10:58:10;Avariado;Planeada
+549;CI LTRONIC FRONT;Linha produção;Rev3.0;;0922003190113;28/08/2023 13:40:07;Contactor sempre atracado .;Planeada
+550;CI SMD THI DIGIT;Linha produção;Rev1.0;;421014090197;30/08/2023 08:20:48;Poe o  quadro abaixo;Planeada
+551;CI INV TRI TP FRONT;Linha produção;Rev2.0;;0922003150203;08/09/2023 14:01:34;Miccro chip com avaria;Planeada
+552;CI INV TRI TP FRONT;Linha produção;Rev2.0;;34230076;08/09/2023 14:17:33;Avariado;Planeada
+553;CI INV TRI TP FRONT;Linha produção;Rev2.0;;3420032;08/09/2023 14:18:17;Avariada;Planeada
+554;CI RCD DIGIT;Linha produção;Rev1.0;;4720009160115;15/09/2023 09:15:57;Pista partida.;Planeada
+555;CI SMD THI DIGIT;Linha produção;Rev1.0;;0922003440046;18/09/2023 10:28:35;Avariada;Planeada
+556;CI SMD THI DIGIT;Linha produção;Rev1.0;;3221008270160;18/09/2023 10:30:51;Avariada;Planeada
+557;CI ACDC CONTROL;Linha produção;Rev1.0;;1621004190205;19/09/2023 14:13:26;Avariada;Planeada
+558;CI MIG Serie 6 DIGIT;Linha produção;Rev4.0;;3223009920021;09/10/2023 15:48:21;Condensador C48 ao contrário .;Planeada
+559;CI LTRONIC CONTROL;Linha produção;Rev3.0;;1123000470044;18/10/2023 10:56:06;Troca de chicotes na linha queimou o circuito.;Planeada
+560;CI LTRONIC CONTROL;Linha produção;Rev3.0;;1123000470039;18/10/2023 10:58:10;Troca de chicotes na linha queimou o circuito.;Planeada
+561;CI LTRONIC CONTROL;Linha produção;Rev3.0;;1123000470011;18/10/2023 11:38:28;Troca de chicotes queimou o circuito.;Planeada
+562;CI LTRONIC FRONT;Recolha externa;Rev3.0;;2023004860038;25/10/2023 10:16:23;Circuito que veio do cliente com pista queimada .;Planeada
+563;CI ACDC CONTROL;Linha produção;Rev1.0;;1621004190172;26/10/2023 10:18:15;AVARIADA;Planeada
+564;CI SMD THI DIGIT;Linha produção;Rev1.0;;0922003440008;26/10/2023 13:36:39;Avariada no cliente.;Planeada
+565;CI Frontal MIG300SI;Linha produção;Rev2.0;;1323002130015;26/10/2023 15:26:49;Avariada em testes;Concluída
+566;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860183;30/10/2023 12:24:40;IC3 com ista partida;Planeada
+567;CI LTRONIC FRONT;Linha produção;Rev3.0;;4522013620551;07/11/2023 08:44:43;Queimou  por troca de fios de chicote;Planeada
+568;CI LTRONIC FRONT;Linha produção;Rev3.0;;10200250;08/11/2023 08:33:10;CI queimado por troca de fios do chicote.;Planeada
+569;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860115;08/11/2023 08:34:29;CI queimado por  troca de fios de chicote.;Planeada
+570;CI MIG Serie 6 DIGIT B;Recolha externa;Rev4.0;;22181167;22/11/2023 14:45:00;Trimer partidos no cliente.;Planeada
+571;CI MIG Serie 6 DIGIT B;Recolha externa;Rev4.0;;5121014800188;22/11/2023 14:48:19;Não aciona o contactor.;Planeada
+572;CI MIG300SI CONTROL;Linha produção;Rev5.0;;4123011930005;11/12/2023 14:03:46;Queimou por trocas de chicote em linha na  montagem.;Planeada
+573;CI Frontal MIG300SI;Linha produção;Rev2.0;;1323002130029;11/12/2023 14:06:41;Queimou  por troca de chicotes na linha de produção.;Planeada
+574;CI Frontal MIG300SI;Linha produção;Rev2.0;;1323002130016;12/12/2023 09:08:10;Avarida  na  linha   de produção.;Planeada
+575;CI LTRONIC FRONT;Linha produção;Rev4.0;;3223009920074;13/12/2023 15:16:59;Ficha partida.;Planeada
+576;CI ACDC CONTROL V2;Linha produção;Rev1.0;;CO111589;13/12/2023 15:35:28;10  circuitos ACDC CONTROL V2  devolvidos aSimatrex com IC3 e IC1 trocados  a 23/11/23.;Planeada
+577;CI Controlo AF TIG;Linha produção;Rev1.0;;342101042000010;18/12/2023 11:55:19;Avariado na linha de prudoção.;Planeada
+578;CI ACDC CONTROL V2;Linha produção;Rev1.0;;0922003550009;08/01/2024 08:48:20;Devolver a simatrex falta componente IC9;Planeada
+579;CI ACDC CONTROL V2;Linha produção;Rev1.0;;0922003660001;08/01/2024 08:52:33;Devolver a simatrex falta IC9 .;Planeada
+580;CI ACDC CONTROL V2;Linha produção;Rev1.0;;0922003550004;08/01/2024 14:33:34;Devolver a Simatrex falta componete IC9.;Planeada
+581;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860258;17/01/2024 09:08:24;Devolver a Simatrex IC2 ao contrário.;Planeada
+582;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;4623016310046;17/01/2024 14:08:44;Trimer R59 ao contrário .devolver a simatrex.;Planeada
+583;CI MIG Serie 6 DIGIT B;Linha produção;Rev4.0;;1622005480051;17/01/2024 15:14:27;Avariada;Planeada
+584;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860243;17/01/2024 16:00:38;AVARIADA.;Planeada
+585;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860249;17/01/2024 16:01:42;AVARIADA;Planeada
+586;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860230;17/01/2024 16:03:13;AVARIADA;Planeada
+587;CI LTRONIC FRONT;Linha produção;Rev3.0;;2023004860253;17/01/2024 16:04:20;AVARIADA;Planeada
+588;mig control 500;Linha produção;Rev1.0;;1323002160010;06/02/2024 12:21:05;Troca de chicotes na linha de porodoção quiemou as pistas.;Concluída
+589;mig control 500;Linha produção;Rev1.0;;1323002160019;06/02/2024 12:22:48;Troca de chicotes na linha de prodoção queimou as pistas do C.I.;Concluída
+590;CI ACDC CONTROL;Linha produção;Rev1.0;;1622005340074;06/02/2024 12:26:18;Avaria na nhina de prodoção.;Planeada
+591;CI ACDC IO;Linha produção;Rev1.0;;1621004160131;06/02/2024 12:27:19;Avaria na linha de prodoção não atraca o contactor;Planeada
+592;Motor MIG300SI;Linha produção;Rev1.0;;1323002190047;14/02/2024 15:50:26;Dá erro 4 e erro 2 .;Planeada
+593;CI MIG300SI CONTROL;Linha produção;Rev5.0;;1323002580018;14/02/2024 15:52:43;Dá erro4 eerro2;Planeada

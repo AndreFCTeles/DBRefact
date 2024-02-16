@@ -1,0 +1,31 @@
+﻿ID;NumAvaria;Avaria;AvariaAlimentadores;AvariaInverters;AvariaMigs;AvariaPontos;AvariaRetificadores;AvariaTransformadores;AvariaPlasmas;AvariaRefrig
+1;Avaria1;;;Transistor IGBT;Ventilador;;;;;
+2;Avaria2;;;Filtro MS;Cabo interligaçao;;;;;
+27;Avaria3;;Sem Defeito;Amperimetro;Controlador;Controlador;Ventilador;Comutador;Outros;Bomba de água
+28;Avaria4;;Circuito control;Sub. Painel Fr;Interface;Sem defeito;Faíscador;Tomadas;Reparação de tocha;Radiador
+29;Avaria5;;Ventilador;Sub. Painel Tr;Motor do fio;Tubagens de água;Control;Outros;Circuito de entrada de corrente;Transformador alimentaçao
+30;Avaria6;;Motor;Diodos secundario;Ponte rectificadora;Cilindro pneumático;Outros;Bobina primária;Circuito secundario;Ventilador
+31;Avaria7;;Electroválvula;Pistas e outros componentes;;Contactor;Ponte retificadora;;Avaria circuito potencia;Tomadas
+32;Avaria8;;Outros;Circuito HF;;Cabo de alimentação;Cabo de alimentação;;Sensor de pressão;Sem defeito
+33;Avaria9;;Circuito frontal;Sem defeito;Circuito controlo frontal display;Suporte de ponto;Sem defeito;;Circuito de HF;Deposito
+34;Avaria10;;;Outros;Electroválvula;Comutador 5+1 posições;Regulador;;Cabo massa;Interruptor bipolar
+35;Avaria11;;;Circuito frontal;Outros;Veio partido;Comutador 2 posições;;Regulador;Porta-fusível
+36;Avaria12;;;Circuito fonte de alimentação;Circuito de potencia;Outros;Fase interrompida;;Potencia;Liquido
+37;Avaria13;;;Potenciometro;Indutância;;Transformador auxiliar;;Ventilador;
+38;Avaria14;;;Sub. Módulo;Sem defeito;;Filtragem HF;;Circuito control;
+39;Avaria15;;;Ventilador;Radiador;;;;Consumiveis da tocha;
+40;Avaria16;;;Encoder;Transformador auxiliar;;;;Ponte rectificadora;
+41;Avaria17;;;Atualização firmware;Comutador 7 Pos;;;;Tomada;
+42;Avaria18;;;Tocha;Comutador 4 Pos;;;;Circuito de alimentaçao;
+43;Avaria19;;;;Tomada MIG;;;;;
+44;Avaria20;;;Circuito controlo;Transistor IGBT;;;;;
+45;Avaria21;;;Sensor hall;Circuito controlo IGBT;;;;;
+46;Avaria22;;;;Bomba de água;;;;;
+47;Avaria23;;;;Bobina;;;;;
+48;Avaria24;;;;Bobina primaria;;;;;
+49;Avaria25;;;Flat Cable;Contactor;;;;;
+50;Avaria26;;;Cabo de alimentação;Cabo alimentaçao;;;;;
+51;Avaria27;;;;Comutador 8 Pos;;;;;
+52;Avaria28;;;Transf. queimado;Tubo do gás;;;;;
+53;Avaria29;;;Ponte rectificadora;Guia-fio;;;;;
+54;Avaria30;;;Subst. Electrovalvula;Cabo de massa;;;;;

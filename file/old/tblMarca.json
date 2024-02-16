@@ -1,0 +1,766 @@
+[
+  {
+    "ID": "1",
+    "Marca": ""
+  },
+  {
+    "ID": "2",
+    "Marca": "Electrex"
+  },
+  {
+    "ID": "3",
+    "Marca": "Castolin"
+  },
+  {
+    "ID": "4",
+    "Marca": "Maquet Soudage"
+  },
+  {
+    "ID": "5",
+    "Marca": "Heavyware"
+  },
+  {
+    "ID": "6",
+    "Marca": "KEMPPI"
+  },
+  {
+    "ID": "9",
+    "Marca": "Firep Fimig"
+  },
+  {
+    "ID": "10",
+    "Marca": "Parkside"
+  },
+  {
+    "ID": "11",
+    "Marca": "Esab"
+  },
+  {
+    "ID": "12",
+    "Marca": "Air Liquide"
+  },
+  {
+    "ID": "13",
+    "Marca": "CEMONT"
+  },
+  {
+    "ID": "14",
+    "Marca": "CIARC"
+  },
+  {
+    "ID": "15",
+    "Marca": "WPI"
+  },
+  {
+    "ID": "16",
+    "Marca": "Helvi"
+  },
+  {
+    "ID": "17",
+    "Marca": "Wurth"
+  },
+  {
+    "ID": "18",
+    "Marca": "Pecweld"
+  },
+  {
+    "ID": "19",
+    "Marca": "Fronius"
+  },
+  {
+    "ID": "20",
+    "Marca": "Tigmig"
+  },
+  {
+    "ID": "21",
+    "Marca": "WTL"
+  },
+  {
+    "ID": "22",
+    "Marca": "Giant"
+  },
+  {
+    "ID": "23",
+    "Marca": "Lincoln"
+  },
+  {
+    "ID": "24",
+    "Marca": "EWM"
+  },
+  {
+    "ID": "25",
+    "Marca": "Praxair"
+  },
+  {
+    "ID": "26",
+    "Marca": "Apex"
+  },
+  {
+    "ID": "27",
+    "Marca": "Solter"
+  },
+  {
+    "ID": "28",
+    "Marca": "OX"
+  },
+  {
+    "ID": "29",
+    "Marca": "CITIG"
+  },
+  {
+    "ID": "30",
+    "Marca": "SAFPRO"
+  },
+  {
+    "ID": "31",
+    "Marca": "WECO"
+  },
+  {
+    "ID": "32",
+    "Marca": "Stayer"
+  },
+  {
+    "ID": "33",
+    "Marca": "Jasic"
+  },
+  {
+    "ID": "34",
+    "Marca": "Eurotrodo"
+  },
+  {
+    "ID": "35",
+    "Marca": "Thermal"
+  },
+  {
+    "ID": "36",
+    "Marca": "Red Star"
+  },
+  {
+    "ID": "37",
+    "Marca": "Platinum"
+  },
+  {
+    "ID": "38",
+    "Marca": "Elektrosta"
+  },
+  {
+    "ID": "39",
+    "Marca": "TELWIN"
+  },
+  {
+    "ID": "40",
+    "Marca": "HYPERTHERM"
+  },
+  {
+    "ID": "41",
+    "Marca": "Ellectro CF"
+  },
+  {
+    "ID": "42",
+    "Marca": "Weldline"
+  },
+  {
+    "ID": "43",
+    "Marca": "GCE"
+  },
+  {
+    "ID": "44",
+    "Marca": "Nutool"
+  },
+  {
+    "ID": "45",
+    "Marca": "ROLUK"
+  },
+  {
+    "ID": "46",
+    "Marca": "BAACO"
+  },
+  {
+    "ID": "47",
+    "Marca": "Werkraft"
+  },
+  {
+    "ID": "48",
+    "Marca": "Esab LHN200"
+  },
+  {
+    "ID": "49",
+    "Marca": "Aslo"
+  },
+  {
+    "ID": "50",
+    "Marca": "SELCO GENISIS"
+  },
+  {
+    "ID": "51",
+    "Marca": "Migatronic"
+  },
+  {
+    "ID": "52",
+    "Marca": "Apollo"
+  },
+  {
+    "ID": "53",
+    "Marca": "ElectrexHZ"
+  },
+  {
+    "ID": "54",
+    "Marca": "SAF FRO"
+  },
+  {
+    "ID": "55",
+    "Marca": "Solrex"
+  },
+  {
+    "ID": "56",
+    "Marca": "EPSystems"
+  },
+  {
+    "ID": "57",
+    "Marca": "Motofil"
+  },
+  {
+    "ID": "58",
+    "Marca": "Riland"
+  },
+  {
+    "ID": "59",
+    "Marca": "Airtec"
+  },
+  {
+    "ID": "60",
+    "Marca": "Stamos"
+  },
+  {
+    "ID": "61",
+    "Marca": "ECE"
+  },
+  {
+    "ID": "62",
+    "Marca": "Energman"
+  },
+  {
+    "ID": "63",
+    "Marca": "Galagar"
+  },
+  {
+    "ID": "64",
+    "Marca": "USR"
+  },
+  {
+    "ID": "65",
+    "Marca": "Laircop"
+  },
+  {
+    "ID": "66",
+    "Marca": "Kühtreiber"
+  },
+  {
+    "ID": "67",
+    "Marca": "Hobart"
+  },
+  {
+    "ID": "68",
+    "Marca": "CEM"
+  },
+  {
+    "ID": "69",
+    "Marca": "Sincosold"
+  },
+  {
+    "ID": "70",
+    "Marca": "Elarco"
+  },
+  {
+    "ID": "71",
+    "Marca": "RE-ON"
+  },
+  {
+    "ID": "72",
+    "Marca": "SAF"
+  },
+  {
+    "ID": "73",
+    "Marca": "BERIGA"
+  },
+  {
+    "ID": "74",
+    "Marca": "Pegas"
+  },
+  {
+    "ID": "75",
+    "Marca": "CEA"
+  },
+  {
+    "ID": "76",
+    "Marca": "L-TEC"
+  },
+  {
+    "ID": "77",
+    "Marca": "WSD"
+  },
+  {
+    "ID": "78",
+    "Marca": "ECOMIG"
+  },
+  {
+    "ID": "79",
+    "Marca": "Argon"
+  },
+  {
+    "ID": "80",
+    "Marca": "CEBORA"
+  },
+  {
+    "ID": "81",
+    "Marca": "ALEX"
+  },
+  {
+    "ID": "82",
+    "Marca": "Decamig"
+  },
+  {
+    "ID": "83",
+    "Marca": "Profi"
+  },
+  {
+    "ID": "84",
+    "Marca": "Elettro"
+  },
+  {
+    "ID": "85",
+    "Marca": "Cifes"
+  },
+  {
+    "ID": "86",
+    "Marca": "UNIMIG"
+  },
+  {
+    "ID": "87",
+    "Marca": "Elektrocoup"
+  },
+  {
+    "ID": "88",
+    "Marca": "CIATA"
+  },
+  {
+    "ID": "89",
+    "Marca": "Terotecnica"
+  },
+  {
+    "ID": "90",
+    "Marca": "Sem Marca"
+  },
+  {
+    "ID": "91",
+    "Marca": "LSKRAVAR"
+  },
+  {
+    "ID": "92",
+    "Marca": "Weldy"
+  },
+  {
+    "ID": "93",
+    "Marca": "SAFEX"
+  },
+  {
+    "ID": "94",
+    "Marca": "JUPITER"
+  },
+  {
+    "ID": "95",
+    "Marca": "Elektra Beckum"
+  },
+  {
+    "ID": "96",
+    "Marca": "Opsial"
+  },
+  {
+    "ID": "97",
+    "Marca": "Welbach"
+  },
+  {
+    "ID": "98",
+    "Marca": "Danesae"
+  },
+  {
+    "ID": "99",
+    "Marca": "Source Weld"
+  },
+  {
+    "ID": "100",
+    "Marca": "Patent"
+  },
+  {
+    "ID": "101",
+    "Marca": "ELWI"
+  },
+  {
+    "ID": "102",
+    "Marca": "Bester"
+  },
+  {
+    "ID": "103",
+    "Marca": "maxi"
+  },
+  {
+    "ID": "104",
+    "Marca": "FDB"
+  },
+  {
+    "ID": "105",
+    "Marca": "SPARK"
+  },
+  {
+    "ID": "106",
+    "Marca": "Sodernic"
+  },
+  {
+    "ID": "107",
+    "Marca": "ERFI"
+  },
+  {
+    "ID": "108",
+    "Marca": "Antare"
+  },
+  {
+    "ID": "109",
+    "Marca": "ASW"
+  },
+  {
+    "ID": "110",
+    "Marca": "HZ"
+  },
+  {
+    "ID": "111",
+    "Marca": "PANDA"
+  },
+  {
+    "ID": "112",
+    "Marca": "Oerlinkon"
+  },
+  {
+    "ID": "113",
+    "Marca": "ARO"
+  },
+  {
+    "ID": "114",
+    "Marca": "Solda"
+  },
+  {
+    "ID": "115",
+    "Marca": "Einhell"
+  },
+  {
+    "ID": "116",
+    "Marca": "Wellweld"
+  },
+  {
+    "ID": "117",
+    "Marca": "Bricofel"
+  },
+  {
+    "ID": "118",
+    "Marca": "T&R"
+  },
+  {
+    "ID": "119",
+    "Marca": "SIT"
+  },
+  {
+    "ID": "120",
+    "Marca": "Weldsat"
+  },
+  {
+    "ID": "121",
+    "Marca": "Weld´s"
+  },
+  {
+    "ID": "122",
+    "Marca": "Inox"
+  },
+  {
+    "ID": "123",
+    "Marca": "Cimontubo"
+  },
+  {
+    "ID": "124",
+    "Marca": "Fabricom"
+  },
+  {
+    "ID": "125",
+    "Marca": "Motrinde"
+  },
+  {
+    "ID": "126",
+    "Marca": "Beergman"
+  },
+  {
+    "ID": "127",
+    "Marca": "JBDI"
+  },
+  {
+    "ID": "128",
+    "Marca": "Firep"
+  },
+  {
+    "ID": "129",
+    "Marca": "Redline"
+  },
+  {
+    "ID": "130",
+    "Marca": "RUBETE"
+  },
+  {
+    "ID": "131",
+    "Marca": "Eurotrod"
+  },
+  {
+    "ID": "132",
+    "Marca": "SATURNO"
+  },
+  {
+    "ID": "133",
+    "Marca": "MIZAR"
+  },
+  {
+    "ID": "134",
+    "Marca": "Nippon"
+  },
+  {
+    "ID": "135",
+    "Marca": "Killmak"
+  },
+  {
+    "ID": "136",
+    "Marca": "I.W.M."
+  },
+  {
+    "ID": "137",
+    "Marca": "FILCORD"
+  },
+  {
+    "ID": "138",
+    "Marca": "Pro"
+  },
+  {
+    "ID": "139",
+    "Marca": "EN Soudage"
+  },
+  {
+    "ID": "140",
+    "Marca": "Eburon"
+  },
+  {
+    "ID": "141",
+    "Marca": ""
+  },
+  {
+    "ID": "142",
+    "Marca": "SERECOM"
+  },
+  {
+    "ID": "143",
+    "Marca": "Acess"
+  },
+  {
+    "ID": "144",
+    "Marca": "PLASMACUT"
+  },
+  {
+    "ID": "145",
+    "Marca": "Desconhecida"
+  },
+  {
+    "ID": "146",
+    "Marca": "elettro"
+  },
+  {
+    "ID": "147",
+    "Marca": "Magnun"
+  },
+  {
+    "ID": "148",
+    "Marca": "Soudarc"
+  },
+  {
+    "ID": "149",
+    "Marca": "C&A"
+  },
+  {
+    "ID": "150",
+    "Marca": "CERO"
+  },
+  {
+    "ID": "151",
+    "Marca": "Nicrotronic"
+  },
+  {
+    "ID": "152",
+    "Marca": "Awelco"
+  },
+  {
+    "ID": "153",
+    "Marca": "ROWAC"
+  },
+  {
+    "ID": "154",
+    "Marca": "Flash"
+  },
+  {
+    "ID": "155",
+    "Marca": "RST"
+  },
+  {
+    "ID": "156",
+    "Marca": "DAO YI"
+  },
+  {
+    "ID": "157",
+    "Marca": "Euromig"
+  },
+  {
+    "ID": "158",
+    "Marca": "MT"
+  },
+  {
+    "ID": "159",
+    "Marca": "MERKLE"
+  },
+  {
+    "ID": "160",
+    "Marca": "Tecnomig"
+  },
+  {
+    "ID": "161",
+    "Marca": "Arc-tech"
+  },
+  {
+    "ID": "162",
+    "Marca": "Arco"
+  },
+  {
+    "ID": "163",
+    "Marca": "Genera"
+  },
+  {
+    "ID": "164",
+    "Marca": "elektra Beckum"
+  },
+  {
+    "ID": "165",
+    "Marca": "DECA"
+  },
+  {
+    "ID": "166",
+    "Marca": "Tiger"
+  },
+  {
+    "ID": "167",
+    "Marca": "Elettro CF"
+  },
+  {
+    "ID": "168",
+    "Marca": "Sherman"
+  },
+  {
+    "ID": "169",
+    "Marca": "Solectron"
+  },
+  {
+    "ID": "170",
+    "Marca": "MILLER"
+  },
+  {
+    "ID": "171",
+    "Marca": "SERECON"
+  },
+  {
+    "ID": "172",
+    "Marca": "Smart"
+  },
+  {
+    "ID": "173",
+    "Marca": "Ergos"
+  },
+  {
+    "ID": "174",
+    "Marca": "Mader"
+  },
+  {
+    "ID": "175",
+    "Marca": "Mac Power"
+  },
+  {
+    "ID": "176",
+    "Marca": "Güde"
+  },
+  {
+    "ID": "177",
+    "Marca": "X-DUR"
+  },
+  {
+    "ID": "178",
+    "Marca": "Great Tool"
+  },
+  {
+    "ID": "179",
+    "Marca": "Tecniradian"
+  },
+  {
+    "ID": "180",
+    "Marca": "FIMER"
+  },
+  {
+    "ID": "181",
+    "Marca": "AIRGO"
+  },
+  {
+    "ID": "182",
+    "Marca": "POWER ED"
+  },
+  {
+    "ID": "183",
+    "Marca": "SUNARC"
+  },
+  {
+    "ID": "184",
+    "Marca": "Proweld"
+  },
+  {
+    "ID": "185",
+    "Marca": "Berner"
+  },
+  {
+    "ID": "186",
+    "Marca": "OLIVER"
+  },
+  {
+    "ID": "187",
+    "Marca": "Gar Weld"
+  },
+  {
+    "ID": "188",
+    "Marca": "CEMACS"
+  },
+  {
+    "ID": "189",
+    "Marca": "Martial"
+  },
+  {
+    "ID": "190",
+    "Marca": "Ouest Soudure"
+  },
+  {
+    "ID": "191",
+    "Marca": "SUNMIG"
+  },
+  {
+    "ID": "192",
+    "Marca": "Rehm"
+  },
+  {
+    "ID": "193",
+    "Marca": "Chemitool"
+  }
+]

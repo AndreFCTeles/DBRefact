@@ -1,0 +1,230 @@
+[
+  {
+    "ID": "1",
+    "InvElectrex": ""
+  },
+  {
+    "ID": "2",
+    "InvElectrex": "DC 163"
+  },
+  {
+    "ID": "3",
+    "InvElectrex": "DC 163 VRD"
+  },
+  {
+    "ID": "5",
+    "InvElectrex": "DC 203"
+  },
+  {
+    "ID": "6",
+    "InvElectrex": "DC 203 VRD"
+  },
+  {
+    "ID": "7",
+    "InvElectrex": "DC 223"
+  },
+  {
+    "ID": "8",
+    "InvElectrex": "DC 253"
+  },
+  {
+    "ID": "9",
+    "InvElectrex": "DC 323"
+  },
+  {
+    "ID": "10",
+    "InvElectrex": "DC 403 CELL"
+  },
+  {
+    "ID": "11",
+    "InvElectrex": "DC 503 CELL"
+  },
+  {
+    "ID": "12",
+    "InvElectrex": "TP 163"
+  },
+  {
+    "ID": "13",
+    "InvElectrex": "TP 203"
+  },
+  {
+    "ID": "14",
+    "InvElectrex": "TP 223"
+  },
+  {
+    "ID": "15",
+    "InvElectrex": "TP 253"
+  },
+  {
+    "ID": "16",
+    "InvElectrex": "TP 323"
+  },
+  {
+    "ID": "17",
+    "InvElectrex": "TP 403"
+  },
+  {
+    "ID": "18",
+    "InvElectrex": "TP 503"
+  },
+  {
+    "ID": "19",
+    "InvElectrex": "ACDC 203"
+  },
+  {
+    "ID": "20",
+    "InvElectrex": "ACDC 323"
+  },
+  {
+    "ID": "21",
+    "InvElectrex": "ACDC 403"
+  },
+  {
+    "ID": "22",
+    "InvElectrex": "ACDC 503"
+  },
+  {
+    "ID": "23",
+    "InvElectrex": "MIG BASIC 303 C"
+  },
+  {
+    "ID": "27",
+    "InvElectrex": "MIG BASIC 403 C"
+  },
+  {
+    "ID": "28",
+    "InvElectrex": "MIG BASIC 503 C"
+  },
+  {
+    "ID": "29",
+    "InvElectrex": "MIG BASIC 303 CW"
+  },
+  {
+    "ID": "30",
+    "InvElectrex": "MIG BASIC 403 CW"
+  },
+  {
+    "ID": "31",
+    "InvElectrex": "MIG BASIC 503 CW"
+  },
+  {
+    "ID": "32",
+    "InvElectrex": "MIG BASIC 303 M"
+  },
+  {
+    "ID": "33",
+    "InvElectrex": "MIG BASIC 403 M"
+  },
+  {
+    "ID": "34",
+    "InvElectrex": "MIG BASIC 503 M"
+  },
+  {
+    "ID": "35",
+    "InvElectrex": "MIG BASIC 303 WM"
+  },
+  {
+    "ID": "36",
+    "InvElectrex": "MIG BASIC 403 WM"
+  },
+  {
+    "ID": "37",
+    "InvElectrex": "MIG BASIC 503 WM"
+  },
+  {
+    "ID": "38",
+    "InvElectrex": "MULTI SYNERGIC 303 C"
+  },
+  {
+    "ID": "39",
+    "InvElectrex": "MULTI SYNERGIC 403 C"
+  },
+  {
+    "ID": "40",
+    "InvElectrex": "MULTI SYNERGIC 503 C"
+  },
+  {
+    "ID": "41",
+    "InvElectrex": "MULTI SYNERGIC 303 CW"
+  },
+  {
+    "ID": "42",
+    "InvElectrex": "MULTI SYNERGIC 403 CW"
+  },
+  {
+    "ID": "43",
+    "InvElectrex": "MULTI SYNERGIC 503 CW"
+  },
+  {
+    "ID": "44",
+    "InvElectrex": "MULTI SYNERGIC 303 M"
+  },
+  {
+    "ID": "45",
+    "InvElectrex": "MULTI SYNERGIC 403 M"
+  },
+  {
+    "ID": "46",
+    "InvElectrex": "MULTI SYNERGIC 503 M"
+  },
+  {
+    "ID": "47",
+    "InvElectrex": "MULTI SYNERGIC 303 WM"
+  },
+  {
+    "ID": "49",
+    "InvElectrex": "MULTI SYNERGIC 403 WM"
+  },
+  {
+    "ID": "50",
+    "InvElectrex": "MULTI SYNERGIC 503 WM"
+  },
+  {
+    "ID": "51",
+    "InvElectrex": "MULTI PULSE 303 C"
+  },
+  {
+    "ID": "52",
+    "InvElectrex": "MULTI PULSE 403 C"
+  },
+  {
+    "ID": "53",
+    "InvElectrex": "MULTI PULSE 503 C"
+  },
+  {
+    "ID": "54",
+    "InvElectrex": "MULTI PULSE 303 CW"
+  },
+  {
+    "ID": "55",
+    "InvElectrex": "MULTI PULSE 403 CW"
+  },
+  {
+    "ID": "56",
+    "InvElectrex": "MULTI PULSE 503 CW"
+  },
+  {
+    "ID": "57",
+    "InvElectrex": "MULTI PULSE 303 M"
+  },
+  {
+    "ID": "58",
+    "InvElectrex": "MULTI PULSE 403 M"
+  },
+  {
+    "ID": "59",
+    "InvElectrex": "MULTI PULSE 503 M"
+  },
+  {
+    "ID": "60",
+    "InvElectrex": "MULTI PULSE 303 WM"
+  },
+  {
+    "ID": "61",
+    "InvElectrex": "MULTI PULSE 403 WM"
+  },
+  {
+    "ID": "62",
+    "InvElectrex": "MULTI PULSE 503 WM"
+  }
+]

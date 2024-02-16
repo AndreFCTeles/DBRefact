@@ -1,0 +1,154 @@
+[
+  {
+    "ID": "1",
+    "Circuito": ""
+  },
+  {
+    "ID": "5",
+    "Circuito": "CI LTRONIC CONTROL"
+  },
+  {
+    "ID": "6",
+    "Circuito": "CI MIG Serie 6 DIGIT B"
+  },
+  {
+    "ID": "7",
+    "Circuito": "CI MIG Serie 6 Interface"
+  },
+  {
+    "ID": "8",
+    "Circuito": "CI LTRONIC FRONT"
+  },
+  {
+    "ID": "9",
+    "Circuito": "CI MIG Serie 6 DIGIT"
+  },
+  {
+    "ID": "10",
+    "Circuito": "CI Power MIG300SI"
+  },
+  {
+    "ID": "11",
+    "Circuito": "CI SMD THI DIGIT"
+  },
+  {
+    "ID": "12",
+    "Circuito": "CI MIG300SI CONTROL"
+  },
+  {
+    "ID": "13",
+    "Circuito": "CI INV ACDC FRONT"
+  },
+  {
+    "ID": "14",
+    "Circuito": "CI INV TP CONTROL"
+  },
+  {
+    "ID": "15",
+    "Circuito": "CI Frontal MIG300SI"
+  },
+  {
+    "ID": "16",
+    "Circuito": "CI Inv Mig Control"
+  },
+  {
+    "ID": "17",
+    "Circuito": "CI RCD DIGIT"
+  },
+  {
+    "ID": "18",
+    "Circuito": "CI INV VRD"
+  },
+  {
+    "ID": "19",
+    "Circuito": "Inverprotek"
+  },
+  {
+    "ID": "20",
+    "Circuito": "CI INV TP AUX POWER"
+  },
+  {
+    "ID": "21",
+    "Circuito": "CI Amp/Volt SMD"
+  },
+  {
+    "ID": "22",
+    "Circuito": "CI INV DC FRONT"
+  },
+  {
+    "ID": "23",
+    "Circuito": "CI INV TP FRONT"
+  },
+  {
+    "ID": "24",
+    "Circuito": "SMD RCD DIGIT"
+  },
+  {
+    "ID": "25",
+    "Circuito": "CI INV TRI DC FRONT"
+  },
+  {
+    "ID": "26",
+    "Circuito": "CI INV TRI TP FRONT"
+  },
+  {
+    "ID": "27",
+    "Circuito": "CI.AF FULX 500"
+  },
+  {
+    "ID": "28",
+    "Circuito": "CI Controlo AF TIG"
+  },
+  {
+    "ID": "29",
+    "Circuito": "MIG S5"
+  },
+  {
+    "ID": "30",
+    "Circuito": "CI TP FRONT"
+  },
+  {
+    "ID": "31",
+    "Circuito": "CI ACDC RELAY"
+  },
+  {
+    "ID": "32",
+    "Circuito": "DC/DC 24V"
+  },
+  {
+    "ID": "33",
+    "Circuito": "CI ACDC CONTROL"
+  },
+  {
+    "ID": "34",
+    "Circuito": "REGULADOR AF TIG"
+  },
+  {
+    "ID": "35",
+    "Circuito": "Motor MIG300SI"
+  },
+  {
+    "ID": "36",
+    "Circuito": "CI INV DC 500 FROMT"
+  },
+  {
+    "ID": "37",
+    "Circuito": "mig control 500"
+  },
+  {
+    "ID": "38",
+    "Circuito": "CI CAP MONOMIG"
+  },
+  {
+    "ID": "39",
+    "Circuito": "CI.AF FULX 500 isolador"
+  },
+  {
+    "ID": "40",
+    "Circuito": "CI ACDC CONTROL V2"
+  },
+  {
+    "ID": "41",
+    "Circuito": "CI ACDC IO"
+  }
+]
