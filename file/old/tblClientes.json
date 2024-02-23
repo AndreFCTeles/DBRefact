@@ -1,0 +1,764 @@
+[
+  {
+    "Cliente": "100% INOX"
+  },
+  {
+    "Cliente": "A.Dias"
+  },
+  {
+    "Cliente": "A.Gabriel"
+  },
+  {
+    "Cliente": "A.Machado,lda"
+  },
+  {
+    "Cliente": "ADS, Assistance distribution Soudage"
+  },
+  {
+    "Cliente": "AG Gases Y Consumibles"
+  },
+  {
+    "Cliente": "ASMI II Offshore Industries, S.A."
+  },
+  {
+    "Cliente": "Abrassoud"
+  },
+  {
+    "Cliente": "Acail-Ind. Com. Ferro e Aços"
+  },
+  {
+    "Cliente": "Acemil"
+  },
+  {
+    "Cliente": "Acess, S.L"
+  },
+  {
+    "Cliente": "Afimadeira. Lda"
+  },
+  {
+    "Cliente": "Afli"
+  },
+  {
+    "Cliente": "Aguinox"
+  },
+  {
+    "Cliente": "Airtec Qatar"
+  },
+  {
+    "Cliente": "Albindustria,lda"
+  },
+  {
+    "Cliente": "Algarmetal.lda"
+  },
+  {
+    "Cliente": "Algoinox 24"
+  },
+  {
+    "Cliente": "Almeidas Amaral"
+  },
+  {
+    "Cliente": "Amaral e Marques"
+  },
+  {
+    "Cliente": "Ametais"
+  },
+  {
+    "Cliente": "Anadifer"
+  },
+  {
+    "Cliente": "Andias & Marques"
+  },
+  {
+    "Cliente": "Angelo, Alves & Sobral, Lda"
+  },
+  {
+    "Cliente": "Anguloperfil"
+  },
+  {
+    "Cliente": "Anibal Loureiro Unipessoal,Lda"
+  },
+  {
+    "Cliente": "Antonio Filipe Neto, lda"
+  },
+  {
+    "Cliente": "António Jacinto Gonçalves de Carvalho"
+  },
+  {
+    "Cliente": "Approdis"
+  },
+  {
+    "Cliente": "Arco Submerso"
+  },
+  {
+    "Cliente": "Avesteel"
+  },
+  {
+    "Cliente": "Avinox"
+  },
+  {
+    "Cliente": "Baralhas"
+  },
+  {
+    "Cliente": "Benemáquinas"
+  },
+  {
+    "Cliente": "Blas - Represent. soldauras, S.L."
+  },
+  {
+    "Cliente": "Bobisil"
+  },
+  {
+    "Cliente": "Bodas SARL"
+  },
+  {
+    "Cliente": "Bordas SARL"
+  },
+  {
+    "Cliente": "Bovisil"
+  },
+  {
+    "Cliente": "Bricofel"
+  },
+  {
+    "Cliente": "Bru y Rubio"
+  },
+  {
+    "Cliente": "Bsaben-Fábrica de Reboques"
+  },
+  {
+    "Cliente": "C.D.S"
+  },
+  {
+    "Cliente": "CLEVERMAN-ENGENHARIA E MANUTENÇÃO"
+  },
+  {
+    "Cliente": "CS Wind Portugal, S.A."
+  },
+  {
+    "Cliente": "Carcei"
+  },
+  {
+    "Cliente": "Castolin"
+  },
+  {
+    "Cliente": "Castro & Alves"
+  },
+  {
+    "Cliente": "Castro & Alves, Lda"
+  },
+  {
+    "Cliente": "Castromac"
+  },
+  {
+    "Cliente": "Central Serralharia"
+  },
+  {
+    "Cliente": "Cinfer"
+  },
+  {
+    "Cliente": "Cipro"
+  },
+  {
+    "Cliente": "Cobos Pavon"
+  },
+  {
+    "Cliente": "Cofer"
+  },
+  {
+    "Cliente": "Comptoir Auto Paris Rennes"
+  },
+  {
+    "Cliente": "Coprial"
+  },
+  {
+    "Cliente": "Coprial-Com.Peç.Rol.p/"
+  },
+  {
+    "Cliente": "Coprial-Com.Peç.Rol.p/Ind.Automóvel"
+  },
+  {
+    "Cliente": "Coreferma-Com. Rol."
+  },
+  {
+    "Cliente": "Coroferma"
+  },
+  {
+    "Cliente": "Correta Metal, Lda"
+  },
+  {
+    "Cliente": "Cosvalinox"
+  },
+  {
+    "Cliente": "DPH Soudage"
+  },
+  {
+    "Cliente": "Dagoform"
+  },
+  {
+    "Cliente": "Danox Welding"
+  },
+  {
+    "Cliente": "Dimacer- Com. Equipam. Industriais"
+  },
+  {
+    "Cliente": "Dinis Reis & Silva"
+  },
+  {
+    "Cliente": "Dropereira"
+  },
+  {
+    "Cliente": "ECEP,Lda"
+  },
+  {
+    "Cliente": "EI2B Salr"
+  },
+  {
+    "Cliente": "EI2B Sarl"
+  },
+  {
+    "Cliente": "EN Soudage SAS"
+  },
+  {
+    "Cliente": "ENICLAY"
+  },
+  {
+    "Cliente": "Ecocalorem, Lda"
+  },
+  {
+    "Cliente": "Eguzki Welding, S.L."
+  },
+  {
+    "Cliente": "Electro Portugal, lda"
+  },
+  {
+    "Cliente": "Electroantuã"
+  },
+  {
+    "Cliente": "Elfi Group International S.R.I."
+  },
+  {
+    "Cliente": "Elie Service - Soudage"
+  },
+  {
+    "Cliente": "Elko"
+  },
+  {
+    "Cliente": "Equipaint, AS.T. Lda"
+  },
+  {
+    "Cliente": "Etermar"
+  },
+  {
+    "Cliente": "Euroed II - Distribuição, Lda"
+  },
+  {
+    "Cliente": "Expressomáquinas, Lda"
+  },
+  {
+    "Cliente": "FASTSTEEL"
+  },
+  {
+    "Cliente": "FPAI"
+  },
+  {
+    "Cliente": "Fecocivil - Ferram. para Construção, SA"
+  },
+  {
+    "Cliente": "Ferlin"
+  },
+  {
+    "Cliente": "Ferneto - Máq. e Art. p/Ind. Alim, S.A."
+  },
+  {
+    "Cliente": "Ferrai"
+  },
+  {
+    "Cliente": "Ferralves"
+  },
+  {
+    "Cliente": "Ferreira & Almeida, Lda"
+  },
+  {
+    "Cliente": "Fersilva, Lda"
+  },
+  {
+    "Cliente": "Fimel - Indústria Metal.Electricidade, Lda"
+  },
+  {
+    "Cliente": "Final"
+  },
+  {
+    "Cliente": "Firep"
+  },
+  {
+    "Cliente": "Fisola"
+  },
+  {
+    "Cliente": "Fixacom"
+  },
+  {
+    "Cliente": "Foursteel"
+  },
+  {
+    "Cliente": "Fozmaquinas"
+  },
+  {
+    "Cliente": "Fusion Point, Lda"
+  },
+  {
+    "Cliente": "Futurvanguarda"
+  },
+  {
+    "Cliente": "Galmo"
+  },
+  {
+    "Cliente": "Gasidouro"
+  },
+  {
+    "Cliente": "Gomes & Branco"
+  },
+  {
+    "Cliente": "Hardlevel"
+  },
+  {
+    "Cliente": "Hemasol"
+  },
+  {
+    "Cliente": "Henrique Vieira& Filhos"
+  },
+  {
+    "Cliente": "Hermínio Marques, Lda"
+  },
+  {
+    "Cliente": "Hightech Welding (Soldagas)"
+  },
+  {
+    "Cliente": "Hill Suministros"
+  },
+  {
+    "Cliente": "IGTEC"
+  },
+  {
+    "Cliente": "Ifec, Lda"
+  },
+  {
+    "Cliente": "Imenaset"
+  },
+  {
+    "Cliente": "Indotool-Comercio de Ferram.e Acessórios"
+  },
+  {
+    "Cliente": "Induporta, Lda"
+  },
+  {
+    "Cliente": "Irbal, S.A."
+  },
+  {
+    "Cliente": "Irmãos Rocha, Lda"
+  },
+  {
+    "Cliente": "J.A.Quintas"
+  },
+  {
+    "Cliente": "J.L.Neves"
+  },
+  {
+    "Cliente": "J.M. & Gonçalves, Lda"
+  },
+  {
+    "Cliente": "JCA Fernandes"
+  },
+  {
+    "Cliente": "JMS Ind. Mobiliário Hospitalar, SA"
+  },
+  {
+    "Cliente": "JUNTASA"
+  },
+  {
+    "Cliente": "Jimafer"
+  },
+  {
+    "Cliente": "Joaquim Santos & Isidro"
+  },
+  {
+    "Cliente": "José Gonçalves Cerqueira (Navel),lda"
+  },
+  {
+    "Cliente": "José Ribeiro & Cruz, Lda"
+  },
+  {
+    "Cliente": "João R. Matos.SA"
+  },
+  {
+    "Cliente": "Juan José Zapata Valverde,SL/Sumasol"
+  },
+  {
+    "Cliente": "LPV"
+  },
+  {
+    "Cliente": "La Nardi,Lda"
+  },
+  {
+    "Cliente": "La Soudure Sérésienne, SPRL"
+  },
+  {
+    "Cliente": "Lastek Belgium n.v"
+  },
+  {
+    "Cliente": "Lusavouga"
+  },
+  {
+    "Cliente": "Luso Dominicana Trading SRL"
+  },
+  {
+    "Cliente": "MP Welding, sa"
+  },
+  {
+    "Cliente": "Macafer"
+  },
+  {
+    "Cliente": "Mafersinde"
+  },
+  {
+    "Cliente": "Mafirol"
+  },
+  {
+    "Cliente": "Maqser"
+  },
+  {
+    "Cliente": "Maquet Soudage"
+  },
+  {
+    "Cliente": "Martial SAS"
+  },
+  {
+    "Cliente": "Maurício & Cia, Lda"
+  },
+  {
+    "Cliente": "Mecanitor"
+  },
+  {
+    "Cliente": "Mecfort,Lda"
+  },
+  {
+    "Cliente": "Mecwide,S.A"
+  },
+  {
+    "Cliente": "Meivcore"
+  },
+  {
+    "Cliente": "Metal System, SL"
+  },
+  {
+    "Cliente": "Metalsoc"
+  },
+  {
+    "Cliente": "Metalusa SA"
+  },
+  {
+    "Cliente": "Morais & Câmara, lda"
+  },
+  {
+    "Cliente": "Motofil"
+  },
+  {
+    "Cliente": "Motrinde"
+  },
+  {
+    "Cliente": "Mov Soluções"
+  },
+  {
+    "Cliente": "Nautibotelho"
+  },
+  {
+    "Cliente": "Nazcoil"
+  },
+  {
+    "Cliente": "Nelson Gaspar Moreira"
+  },
+  {
+    "Cliente": "Nelson José Tomás Costa"
+  },
+  {
+    "Cliente": "Netrifendas"
+  },
+  {
+    "Cliente": "Nicrodur"
+  },
+  {
+    "Cliente": "Nippon Gases Espanha"
+  },
+  {
+    "Cliente": "Nippon Gases Espanha, S.L.U"
+  },
+  {
+    "Cliente": "Nippon Gases Portugal"
+  },
+  {
+    "Cliente": "Ofinu"
+  },
+  {
+    "Cliente": "Oliver SAS"
+  },
+  {
+    "Cliente": "Orexad"
+  },
+  {
+    "Cliente": "Orexad JBDI"
+  },
+  {
+    "Cliente": "Ouest Soudure"
+  },
+  {
+    "Cliente": "Ouplan"
+  },
+  {
+    "Cliente": "Oxicentro"
+  },
+  {
+    "Cliente": "PTM Iberica"
+  },
+  {
+    "Cliente": "Paljor"
+  },
+  {
+    "Cliente": "Paramáquinas"
+  },
+  {
+    "Cliente": "Parsolda"
+  },
+  {
+    "Cliente": "Paulifer"
+  },
+  {
+    "Cliente": "Pecol Automotive, S.A"
+  },
+  {
+    "Cliente": "Pedro Brenha"
+  },
+  {
+    "Cliente": "Pegada Dinâmica"
+  },
+  {
+    "Cliente": "Pellets Power2"
+  },
+  {
+    "Cliente": "Pereira e Gomes"
+  },
+  {
+    "Cliente": "Pinto, Almeida & Irmão, Lda"
+  },
+  {
+    "Cliente": "Polivale"
+  },
+  {
+    "Cliente": "Praxair Espanha"
+  },
+  {
+    "Cliente": "Praxair Portugal"
+  },
+  {
+    "Cliente": "Prefabe, S.A."
+  },
+  {
+    "Cliente": "Prozinco"
+  },
+  {
+    "Cliente": "Qualiaço"
+  },
+  {
+    "Cliente": "Qucann"
+  },
+  {
+    "Cliente": "RS BEFI"
+  },
+  {
+    "Cliente": "RST"
+  },
+  {
+    "Cliente": "Reclangol"
+  },
+  {
+    "Cliente": "RepMan Soldaduras, SL"
+  },
+  {
+    "Cliente": "Rexoldas"
+  },
+  {
+    "Cliente": "Rios Hermanos, SA"
+  },
+  {
+    "Cliente": "Rolmáquinas"
+  },
+  {
+    "Cliente": "Ruba, S.L."
+  },
+  {
+    "Cliente": "SERECON97, SL"
+  },
+  {
+    "Cliente": "SIRL - Simões & Rodrigues, SA"
+  },
+  {
+    "Cliente": "SLM-Soudure location Materiel"
+  },
+  {
+    "Cliente": "Sarifer"
+  },
+  {
+    "Cliente": "Serafim M. Moreira Filhos"
+  },
+  {
+    "Cliente": "Serimm"
+  },
+  {
+    "Cliente": "Servodrive, unipessoal lda"
+  },
+  {
+    "Cliente": "Setmáquinas-Equip.Industriais"
+  },
+  {
+    "Cliente": "Silva e Bernardo"
+  },
+  {
+    "Cliente": "Sintonia Perfeita"
+  },
+  {
+    "Cliente": "Sociedade Portuguesa Cavan,SA"
+  },
+  {
+    "Cliente": "Socimavis"
+  },
+  {
+    "Cliente": "Sol. Ind. Soldadura 2008, S.l"
+  },
+  {
+    "Cliente": "Soldasur,S.A."
+  },
+  {
+    "Cliente": "Somaquifer"
+  },
+  {
+    "Cliente": "Somengil"
+  },
+  {
+    "Cliente": "Soparafuso"
+  },
+  {
+    "Cliente": "Sovende"
+  },
+  {
+    "Cliente": "Sumasol"
+  },
+  {
+    "Cliente": "Suministros"
+  },
+  {
+    "Cliente": "Syphax"
+  },
+  {
+    "Cliente": "T.Cunha"
+  },
+  {
+    "Cliente": "Teca Escadas"
+  },
+  {
+    "Cliente": "Technosoud"
+  },
+  {
+    "Cliente": "Tecni-repara"
+  },
+  {
+    "Cliente": "Tecsisel"
+  },
+  {
+    "Cliente": "Tecxcel"
+  },
+  {
+    "Cliente": "Termologia- Equipamentos, e Serviços"
+  },
+  {
+    "Cliente": "Terotecnica,lda"
+  },
+  {
+    "Cliente": "Tetatrês"
+  },
+  {
+    "Cliente": "Tetemboa, Lda"
+  },
+  {
+    "Cliente": "Timsteel"
+  },
+  {
+    "Cliente": "Toolpath"
+  },
+  {
+    "Cliente": "Tot-Garais"
+  },
+  {
+    "Cliente": "Trimáquinas- Acess. Industriais,Lda"
+  },
+  {
+    "Cliente": "Turbo-nor"
+  },
+  {
+    "Cliente": "Tymoteo"
+  },
+  {
+    "Cliente": "Urmi - Unidade de Rep. de Máq. Indust. SA"
+  },
+  {
+    "Cliente": "Valinox"
+  },
+  {
+    "Cliente": "Valmetal"
+  },
+  {
+    "Cliente": "Vanotools"
+  },
+  {
+    "Cliente": "Ventil"
+  },
+  {
+    "Cliente": "Versatil Steel, Lda"
+  },
+  {
+    "Cliente": "Vieira dos Santos"
+  },
+  {
+    "Cliente": "Vimodal-Soc. Aces.Industriais"
+  },
+  {
+    "Cliente": "Voltline"
+  },
+  {
+    "Cliente": "WSD- Distribuidor, S.L"
+  },
+  {
+    "Cliente": "Wurth-Portugal"
+  },
+  {
+    "Cliente": "X-Inox, lda"
+  },
+  {
+    "Cliente": "Y2Y"
+  },
+  {
+    "Cliente": "YTX-YACHTINOX"
+  },
+  {
+    "Cliente": "acem"
+  },
+  {
+    "Cliente": "covitool"
+  },
+  {
+    "Cliente": "ferneto - Máq. e Art. p/"
+  },
+  {
+    "Cliente": "juan José Zapata Valverde,SL/"
+  },
+  {
+    "Cliente": "prilux-com"
+  }
+]

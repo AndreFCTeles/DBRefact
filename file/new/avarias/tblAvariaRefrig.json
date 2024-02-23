@@ -1,0 +1,32 @@
+[
+  {
+    "AvariaRefrig": "Bomba de água"
+  },
+  {
+    "AvariaRefrig": "Deposito"
+  },
+  {
+    "AvariaRefrig": "Interruptor bipolar"
+  },
+  {
+    "AvariaRefrig": "Liquido"
+  },
+  {
+    "AvariaRefrig": "Porta-fusível"
+  },
+  {
+    "AvariaRefrig": "Radiador"
+  },
+  {
+    "AvariaRefrig": "Sem defeito"
+  },
+  {
+    "AvariaRefrig": "Tomadas"
+  },
+  {
+    "AvariaRefrig": "Transformador alimentaçao"
+  },
+  {
+    "AvariaRefrig": "Ventilador"
+  }
+]

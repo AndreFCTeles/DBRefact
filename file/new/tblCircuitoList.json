@@ -1,0 +1,5782 @@
+[
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "1323002580018",
+    "Obs": "Dá erro4 eerro2",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-02-14 15:52:43"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1323002190047",
+    "Obs": "Dá erro 4 e erro 2 .",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-02-14 15:50:26"
+  },
+  {
+    "Circuito": "CI ACDC IO",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004160131",
+    "Obs": "Avaria na linha de prodoção não atraca o contactor",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-02-06 12:27:19"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1622005340074",
+    "Obs": "Avaria na nhina de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-02-06 12:26:18"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1323002160019",
+    "Obs": "Troca de chicotes na linha de prodoção queimou as pistas do C.I.",
+    "Reparacao": "Concluída",
+    "DataTime": "2024-02-06 12:22:48"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1323002160010",
+    "Obs": "Troca de chicotes na linha de porodoção quiemou as pistas.",
+    "Reparacao": "Concluída",
+    "DataTime": "2024-02-06 12:21:05"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860253",
+    "Obs": "AVARIADA",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-17 16:04:20"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860230",
+    "Obs": "AVARIADA",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-17 16:03:13"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860249",
+    "Obs": "AVARIADA",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-17 16:01:42"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860243",
+    "Obs": "AVARIADA.",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-17 16:00:38"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1622005480051",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-17 15:14:27"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4623016310046",
+    "Obs": "Trimer R59 ao contrário .devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-17 14:08:44"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860258",
+    "Obs": "Devolver a Simatrex IC2 ao contrário.",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-17 09:08:24"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL V2",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003550004",
+    "Obs": "Devolver a Simatrex falta componete IC9.",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-08 14:33:34"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL V2",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003660001",
+    "Obs": "Devolver a simatrex falta IC9 .",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-08 08:52:33"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL V2",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003550009",
+    "Obs": "Devolver a simatrex falta componente IC9",
+    "Reparacao": "Planeada",
+    "DataTime": "2024-01-08 08:48:20"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "342101042000010",
+    "Obs": "Avariado na linha de prudoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-12-18 11:55:19"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL V2",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "CO111589",
+    "Obs": "10  circuitos ACDC CONTROL V2  devolvidos aSimatrex com IC3 e IC1 trocados  a 23/11/23.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-12-13 15:35:28"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "3223009920074",
+    "Obs": "Ficha partida.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-12-13 15:16:59"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1323002130016",
+    "Obs": "Avarida  na  linha   de produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-12-12 09:08:10"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1323002130029",
+    "Obs": "Queimou  por troca de chicotes na linha de produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-12-11 14:06:41"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "4123011930005",
+    "Obs": "Queimou por trocas de chicote em linha na  montagem.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-12-11 14:03:46"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800188",
+    "Obs": "Não aciona o contactor.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-11-22 14:48:19"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "22181167",
+    "Obs": "Trimer partidos no cliente.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-11-22 14:45:00"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860115",
+    "Obs": "CI queimado por  troca de fios de chicote.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-11-08 08:34:29"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "10200250",
+    "Obs": "CI queimado por troca de fios do chicote.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-11-08 08:33:10"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "4522013620551",
+    "Obs": "Queimou  por troca de fios de chicote",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-11-07 08:44:43"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860183",
+    "Obs": "IC3 com ista partida",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-30 12:24:40"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1323002130015",
+    "Obs": "Avariada em testes",
+    "Reparacao": "Concluída",
+    "DataTime": "2023-10-26 15:26:49"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003440008",
+    "Obs": "Avariada no cliente.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-26 13:36:39"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004190172",
+    "Obs": "AVARIADA",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-26 10:18:15"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860038",
+    "Obs": "Circuito que veio do cliente com pista queimada .",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-25 10:16:23"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "1123000470011",
+    "Obs": "Troca de chicotes queimou o circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-18 11:38:28"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "1123000470039",
+    "Obs": "Troca de chicotes na linha queimou o circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-18 10:58:10"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "1123000470044",
+    "Obs": "Troca de chicotes na linha queimou o circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-18 10:56:06"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "3223009920021",
+    "Obs": "Condensador C48 ao contrário .",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-10-09 15:48:21"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004190205",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-09-19 14:13:26"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3221008270160",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-09-18 10:30:51"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003440046",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-09-18 10:28:35"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4720009160115",
+    "Obs": "Pista partida.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-09-15 09:15:57"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3420032",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-09-08 14:18:17"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "34230076",
+    "Obs": "Avariado",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-09-08 14:17:33"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003150203",
+    "Obs": "Miccro chip com avaria",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-09-08 14:01:34"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "421014090197",
+    "Obs": "Poe o  quadro abaixo",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-08-30 08:20:48"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0922003190113",
+    "Obs": "Contactor sempre atracado .",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-08-28 13:40:07"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2418005630046",
+    "Obs": "Avariado",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-08-24 10:58:10"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3821010030105",
+    "Obs": "Avariada erro 4",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-08-23 14:02:17"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003150085",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-28 15:27:07"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4322013270750",
+    "Obs": "Está a fazer muito ruído  ao sodar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-28 15:22:30"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2222007290018",
+    "Obs": "Componentes Q5,Q6,Q4,Q9 trocados devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-21 09:31:17"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "12213330010",
+    "Obs": "Avariada em linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-20 14:00:35"
+  },
+  {
+    "Circuito": "CI.AF FULX 500 isolador",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "Não tem",
+    "Obs": "Avariado em linha  troca de chicotes",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-14 10:38:13"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "202300480070",
+    "Obs": "Relé partido deixaram cair o CIRCUITO",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-14 09:40:01"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2023004860067",
+    "Obs": "Teste gás não responde",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-14 09:38:42"
+  },
+  {
+    "Circuito": "CI.AF FULX 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3022009880019",
+    "Obs": "Avariado em linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-14 09:16:14"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "37180068",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-07-07 10:58:43"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "162100419114",
+    "Obs": "Avariada oueimou na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-06-28 08:30:42"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1323002190024",
+    "Obs": "Queimou diodoD7",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-06-27 15:35:41"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "1323002580013",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-06-27 15:34:35"
+  },
+  {
+    "Circuito": "CI Power MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3722011200021",
+    "Obs": "Queimou em testes o diodoD18",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-06-27 15:32:13"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2222007290013",
+    "Obs": "Avariada em linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-06-26 09:37:47"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1622005270062",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-06-07 10:20:13"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220060",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-05-29 14:28:01"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671443",
+    "Obs": "Circuito com avaria queima os fusiveis na banca de testes",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-05-24 08:21:45"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1121001840001",
+    "Obs": "Troca de chicotes na montagem da máquina queimou circuito",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-05-15 09:42:24"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2421006530234",
+    "Obs": "Troca de chicote do fusível queimou  na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-05-03 12:04:17"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2722009130272",
+    "Obs": "Troca de chicote do fusível queimou na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-05-03 12:02:09"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390085",
+    "Obs": "Avariada presa emm MMA.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-26 15:29:07"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004190199",
+    "Obs": "IC14 por soldar devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-19 16:43:50"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "4622013620501",
+    "Obs": "Troca deligação de chicotes na linha de prodoção queimou o circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-14 16:55:25"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "10200014",
+    "Obs": "Queimou  na linha de prodoção por troca de chicote",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-14 16:20:35"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4121011120152",
+    "Obs": "Queimou  troca de chicote na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-14 12:11:41"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800391",
+    "Obs": "Componente ao contrário IC4",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-13 13:32:06"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800390",
+    "Obs": "Conponente ao contrário R59devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-13 12:28:47"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "24210006310038",
+    "Obs": "Avariou b na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-13 10:34:43"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4322013270626",
+    "Obs": "Falta componenteJ4",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-11 12:16:37"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200039",
+    "Obs": "Veio do cliente avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-10 14:52:35"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3622010850584",
+    "Obs": "Led do térmico está sempre ligado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-04 08:35:17"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "30180795",
+    "Obs": "Temtensão de vazio mas não solda",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-04-03 16:53:42"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390032",
+    "Obs": "Não salta a AF.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-03-31 13:40:08"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1121001840010",
+    "Obs": "Ficha J3ao contrário resolvido internamente.",
+    "Reparacao": "Concluída",
+    "DataTime": "2023-03-24 12:24:27"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800218",
+    "Obs": "Devolver a simatrex display ao contrário",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-03-23 16:20:09"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003150007",
+    "Obs": "Avariada na linha produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-03-22 15:05:01"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390157",
+    "Obs": "Avariada na linha de prodoção  conponente queimado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-03-14 09:00:08"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4721014090208",
+    "Obs": "Led D10 display ao contrário.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-03-07 08:59:37"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4721014090213",
+    "Obs": "Led D2,D3,D7,D8 ao contrário.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-03-07 08:57:50"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "31191573",
+    "Obs": "Conponente IC4 ao contrário",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-02-24 12:22:35"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "12213330010",
+    "Obs": "Motor não anda .",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-02-17 12:23:09"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2222007290012",
+    "Obs": "Erro 3.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-02-17 12:21:32"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2222007290024",
+    "Obs": "Motor ao anda avaria em linha.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-02-17 12:19:02"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5171014800161",
+    "Obs": "Trimer R59 ao contrário.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-02-08 12:19:27"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390063",
+    "Obs": "Avariada em linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-30 10:24:27"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390185",
+    "Obs": "Avariada em linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-30 10:17:35"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390138",
+    "Obs": "Avariada emm linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-30 10:15:29"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004190238",
+    "Obs": "Só dá na posição de ponto temporizador",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-30 09:56:13"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220074",
+    "Obs": "Avariado na linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-30 09:41:11"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390190",
+    "Obs": "Troca de chicote queimou o circuito foi para  a sucata.",
+    "Reparacao": "Concluída",
+    "DataTime": "2023-01-24 13:56:51"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "NAO TEM",
+    "Obs": "AVARIADA",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-20 15:04:03"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3622010850355",
+    "Obs": "C42 ao contrario  dfvolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-20 15:01:56"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800035",
+    "Obs": "Ficha J8 ao contrário devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-19 11:12:55"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1622005480047",
+    "Obs": "Veio  partido devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-17 15:55:19"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4721014090196",
+    "Obs": "Ledes   ao contrário devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-13 14:36:51"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "162100490117",
+    "Obs": "Não dá para afinar",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-13 14:34:43"
+  },
+  {
+    "Circuito": "CI Power MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3722011200001",
+    "Obs": "Troca de chicote na linha de prodoção e queimou o C.I  Power  e o C.I  DC DC 24V",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-12 16:15:25"
+  },
+  {
+    "Circuito": "DC/DC 24V",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "....",
+    "Obs": "Avariado",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-12 12:23:16"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3122010040365",
+    "Obs": "Conponente IC2 por soldar devolver a Simatrex .",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-11 09:38:40"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3622010850476",
+    "Obs": "Led bicolor não acende",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-10 16:36:49"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390112",
+    "Obs": "Avariou na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2023-01-06 14:22:12"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "162205480072",
+    "Obs": "Avaria no circuito led do contactor não acende na banca de ensaios",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-28 14:24:47"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800309",
+    "Obs": "Tem pista do encoder partida",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-28 14:22:53"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2121005620056",
+    "Obs": "Contactor não atraca",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 13:58:31"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4121011420223",
+    "Obs": "Aorodar o encoder não aumente de valor",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 11:14:23"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "112100840017",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 11:11:28"
+  },
+  {
+    "Circuito": "CI CAP MONOMIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3003",
+    "Obs": "Troca de positivo com negativo e queimou na linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:55:07"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "212004540043",
+    "Obs": "Avariado no cliente",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:53:20"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "707022",
+    "Obs": "Avariado no laboratório",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:50:57"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003360062",
+    "Obs": "Avariou na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:48:50"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "6002",
+    "Obs": "Não funciona",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:47:07"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2722009130206",
+    "Obs": "Contrator não funciona",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:43:56"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3012",
+    "Obs": "Avaria não passa de MMA para tig",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:40:39"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3221008220106",
+    "Obs": "Aviada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:38:51"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "5001",
+    "Obs": "Avaria na linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:36:38"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3122010040453",
+    "Obs": "Avaria no IC3",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:27:15"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3122010040459",
+    "Obs": "Avaria no IC3",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-23 10:25:55"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1822006150065",
+    "Obs": "Veio com o potenciometro partido",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-20 11:22:01"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003150086",
+    "Obs": "Ao ligar a máquina fica preso em TIG e não muda para MMA",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-19 16:41:38"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3122010040431",
+    "Obs": "Led D36 ao contrário",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:50:48"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800033",
+    "Obs": "Led D14 não acende",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:49:19"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2622008300057",
+    "Obs": "CI12 ao contrário",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:47:35"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3622010850474",
+    "Obs": "Não dá para programar",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:46:03"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "312201004029",
+    "Obs": "LED D35ao contrário",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:44:33"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2622008330286",
+    "Obs": "IC4 ao comtrário",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:42:41"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2421006310008",
+    "Obs": "Ao ligar a fonte para programar os componentes R55´R56´R58 começaram a largar fumo.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:40:03"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3922012070830",
+    "Obs": "Falta Q8",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-12-15 15:38:31"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220117",
+    "Obs": "Avaria no IC9 .",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-11-29 10:24:23"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003150043",
+    "Obs": "Avariada na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-11-10 11:21:04"
+  },
+  {
+    "Circuito": "MIG S5",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "252005130332",
+    "Obs": "Conponentes ao contrário devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-10-17 16:53:58"
+  },
+  {
+    "Circuito": "MIG S5",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "252005130357",
+    "Obs": "Conponente ao contrário devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-10-17 16:52:38"
+  },
+  {
+    "Circuito": "MIG S5",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "252005130336",
+    "Obs": "Conponente ao contrário.devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-10-17 16:50:59"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003390048",
+    "Obs": "Não salta a alta frequência.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-10-12 16:22:27"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220138",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-10-10 15:19:06"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220079",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-10-10 13:56:48"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2622008300040",
+    "Obs": "Componente CI4 ao contário .",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-22 15:23:47"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "26228300067",
+    "Obs": "Componente ao contrárioCI12.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-22 15:21:35"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2622008300063",
+    "Obs": "Componrnte ao contrário devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-22 14:39:52"
+  },
+  {
+    "Circuito": "DC/DC 24V",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "não tem",
+    "Obs": "Fala de componente",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-22 12:01:48"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004190104",
+    "Obs": "Avariou em linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-16 11:23:24"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220057",
+    "Obs": "Foi para a linha de prodoção e avariou.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-09 15:35:30"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003150122",
+    "Obs": "Avariado em linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-08 16:14:27"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "01",
+    "Obs": "Quando liga do na máquinana linha desprograma.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-08 15:56:05"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": ".",
+    "Obs": "Avaria não passa de TIG para MMA .",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-09-07 16:22:01"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "182006150067",
+    "Obs": "Falta componente D40.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-08-30 13:43:43"
+  },
+  {
+    "Circuito": "SMD RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1822006150071",
+    "Obs": "Falta componente D40.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-08-30 13:31:36"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2622008330296",
+    "Obs": "IC4 ao contrário  devolver á  simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-08-24 15:25:09"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "262200833288",
+    "Obs": "Conponente CI4 ao contrário devolver á simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-28 11:15:13"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191365",
+    "Obs": "avariada em linha",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-22 14:22:03"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4121011420162",
+    "Obs": "AF NÃO SALTA.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-22 11:09:48"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3621009620038",
+    "Obs": "Ao retirar o conponente IC8 a pista ficou solta .",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-22 11:07:37"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0521001140191",
+    "Obs": "Circuito  queimou no laboratório em ensáios.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-20 15:04:16"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003350052",
+    "Obs": "Avariado em linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-19 16:47:46"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3621009620017",
+    "Obs": "Condensador  C62 partido devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-19 12:13:22"
+  },
+  {
+    "Circuito": "CI CAP MONOMIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "não tem",
+    "Obs": "Queimou os condensadores tinha os cabos com a posição ao contrario.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-15 10:46:38"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "20190081",
+    "Obs": "Circuito veio da simatrex foi devolvido e veio com o mesmo problema a 12-07-22 não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-14 16:36:07"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "18220529",
+    "Obs": "Este circuito foi  devolvido a simatrex  com condensador  soldado ao contrário veio exatamente igual como foi. E  rebentou a fazer  a progamação.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-14 13:54:02"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3621009620076",
+    "Obs": "Componente U1 mal soldaddo devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-13 11:43:08"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0922003150117",
+    "Obs": "Na linha de prodoção não  trabalha",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-12 11:40:24"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3621009620091",
+    "Obs": "Não controla a tensão",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-12 11:38:27"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "Não tem",
+    "Obs": "Avariado no laboratório.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-07-07 14:54:41"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0922003190145",
+    "Obs": "Componente por soldar devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-23 14:33:55"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1621004290026",
+    "Obs": "Avariado na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-23 09:39:29"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1722006040066",
+    "Obs": "Avariado na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-23 09:33:41"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0922003350001",
+    "Obs": "Avariada em linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-14 08:51:45"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2120004450032",
+    "Obs": "AVARIADA",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:48:17"
+  },
+  {
+    "Circuito": "CI INV TP AUX POWER",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0722003000014",
+    "Obs": "AVARIADO NA LINHA DE PRODOÇÃO",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:46:23"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0521001100040",
+    "Obs": "FICA PRESO EM TIG",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:44:54"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1621004290029",
+    "Obs": "Avariado em linha deprodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:43:41"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "12213330023",
+    "Obs": "Avaria na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:42:31"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200023",
+    "Obs": "Avaria na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:40:57"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "28190206",
+    "Obs": "Avaria em linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:39:28"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200061",
+    "Obs": "Avariada em linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:38:09"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2121005690047",
+    "Obs": "Avariado na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:36:30"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671607",
+    "Obs": "Avaria veio de fora",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:35:17"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220140",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:34:08"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3121008230921",
+    "Obs": "Fica preso em tig",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:32:45"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2120004510006",
+    "Obs": "Omotor do fio não arranca",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:29:04"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4020007750009",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:27:53"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11211001840017",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:26:27"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2120004510022",
+    "Obs": "Avariado na linha de produção mexeram nas pistas e partiram",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:24:02"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1721004900701",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 14:20:36"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "13180154",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:29:13"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200091",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:27:33"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2121005620068",
+    "Obs": "Queimou na linha troca de chicotes",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:25:27"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2421006530037",
+    "Obs": "Queimou  troca de chicote na prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:23:35"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "08200040",
+    "Obs": "Avariado en linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:21:53"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2121005690012",
+    "Obs": "Não trabalha em MMA",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:20:00"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2421006310001",
+    "Obs": "Avariada na linha de prodoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:12:06"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "212005620056",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 12:10:53"
+  },
+  {
+    "Circuito": "MIG S5",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "252005130347",
+    "Obs": "Quiemou o SCR3 vedolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 11:14:58"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004190135",
+    "Obs": "Componente C I1 ao contrário devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 11:12:21"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0922003190088",
+    "Obs": "Não da´para programar devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 11:10:19"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0922003190106",
+    "Obs": "Não dá para programar devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 11:08:33"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900225",
+    "Obs": "Falta componente I C4 devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 11:04:27"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0922003190096",
+    "Obs": "Componente ao contrário devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 11:02:05"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0922003190129",
+    "Obs": "Apos a prpgramação o motor a andar fáz ruido devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 10:59:35"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "18380741",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 10:55:26"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800105",
+    "Obs": "Diodo ao contrario devolver a sima trex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 10:54:04"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008302174",
+    "Obs": "Display com pouca luz devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 10:50:00"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "381010030098",
+    "Obs": "Queima os fusíveis.devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-06-09 10:48:11"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "5121014800106",
+    "Obs": "Diodos ao contrario",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-05-25 08:37:12"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3821010030098",
+    "Obs": "Queima o fúsivel da banca de ensaios",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-05-25 08:34:57"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0922003190034",
+    "Obs": "Não dá para prograrmar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-05-25 08:32:07"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2121006690047",
+    "Obs": "Avariada em linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-04-06 10:23:48"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1721004900701",
+    "Obs": "Não passa de MMA para TIG.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-22 16:38:07"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "21211005690012",
+    "Obs": "Não dá MMA.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-22 12:25:57"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2121005980041",
+    "Obs": "Moc CI4 ao contrário.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-18 11:40:07"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2121005980009",
+    "Obs": "Queima os fusiveis da banca de testes.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-18 11:38:58"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1821005470097",
+    "Obs": "Avaria no  led D23.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-17 12:15:01"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0321000440096",
+    "Obs": "Avaria nos led do D19 ao D24.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-17 12:13:25"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030236",
+    "Obs": "Não dá para programar",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-17 12:11:46"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2121005620058",
+    "Obs": "Queimou na linha de montagem.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-16 16:00:56"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2421006530037",
+    "Obs": "Queimou na linha de prudoção .",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-16 15:59:09"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2421006310001",
+    "Obs": "Avariada na linha.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-16 10:49:43"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3821010030035",
+    "Obs": "Falta o componente D38.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-15 11:03:07"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "3619008301707",
+    "Obs": "Queima o fúsivél da banca de ensaios",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-15 11:01:06"
+  },
+  {
+    "Circuito": "mig control 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11211001840006",
+    "Obs": "Não dá para programar .",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-14 16:30:37"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "2121005620058",
+    "Obs": "NÃO ATRACA O CONTACTOR",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-08 10:49:12"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1921004220140",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-08 10:48:04"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1621004290009",
+    "Obs": "Erro de comunicação no circuitos.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-03 11:45:32"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2120004510022",
+    "Obs": "Avariado na linha de produção mexeram no componente Q2 e partiram a pista .",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-02-03 10:26:55"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3821010030158",
+    "Obs": "Avaria nos leds",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-28 15:46:55"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2421006530115",
+    "Obs": "Avaria nos leds",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-28 15:45:27"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "08200040",
+    "Obs": "Avariado",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-28 15:00:19"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1721004900793",
+    "Obs": "Falta led devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-28 12:02:58"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2421006530143",
+    "Obs": "Não dá  para programar.devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-25 16:04:26"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1721005080196",
+    "Obs": "Não dá para porgramar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-24 14:49:01"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1721005080138",
+    "Obs": "Avaria nos disply.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-24 14:47:26"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1721oo6080155",
+    "Obs": "Naõ dá para programar devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-24 14:45:52"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "1621004390001",
+    "Obs": "Não tem tensão de vazio.",
+    "Reparacao": "Planeada",
+    "DataTime": "2022-01-24 14:44:00"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0521001140051",
+    "Obs": "Troca de chicotes na linha queimou o circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-11-12 16:51:29"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0521001140041",
+    "Obs": "Ao ligar  na  máquina queimou troca de chicotes.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-11-12 16:45:53"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1621004190025",
+    "Obs": "Componente IC13 queimado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-11-11 16:48:09"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2421006530081",
+    "Obs": "Botão SW4 não muda os leds .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-26 10:35:00"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1721005080068",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-25 13:37:25"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1721005080040",
+    "Obs": "Avariada devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-25 13:36:08"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0121000150368",
+    "Obs": "Não acende .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-22 10:14:05"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1721005080004",
+    "Obs": "Queimou na linha de porodoção troca de chicotes na máquina.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-20 16:41:12"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0121000150541",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-20 15:09:45"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2120004450004",
+    "Obs": "Avaria na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-19 15:41:39"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2120004520048",
+    "Obs": "Avaria na linha de prdoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-19 15:39:43"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "2120004570007",
+    "Obs": "AVARIA NA LINHA DE PRODOÇÃO.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-19 15:38:04"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2120004450030",
+    "Obs": "Componete U1 ao contrário devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-18 14:40:29"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008301852",
+    "Obs": "QUEIMOU NA LINA DE PRODOÇÃO.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-18 10:38:19"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200044",
+    "Obs": "Veio da simatrex com CI  1pernas partidas.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-14 15:49:52"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "não tem",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-11 12:21:27"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2120004450050",
+    "Obs": "Quiemou na linha.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-11 09:56:29"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2120004450049",
+    "Obs": "Avariou na linha .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-11 09:55:08"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "2120004570032",
+    "Obs": "Avariou na linha .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-10-11 09:53:43"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008301998",
+    "Obs": "avariada no cliente.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-09-28 12:28:08"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "28190309",
+    "Obs": "Não dá pra programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-09-23 16:46:37"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "12213330017",
+    "Obs": "Pista partida.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-09-21 08:49:45"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1721006080061",
+    "Obs": "Motor não anda.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-09-13 11:04:32"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0521001140140",
+    "Obs": "Avaria no chicote danificou o cricuito AF não salta.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-09-02 09:12:49"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200036",
+    "Obs": "Troca de ligações no chicote e queimou o circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-09-01 09:25:15"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "28190377",
+    "Obs": "Avariada.na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-08-26 12:25:03"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030236",
+    "Obs": "Falta componente CI1 devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-08-24 16:12:24"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030235",
+    "Obs": "Falta conponente devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-08-24 10:28:46"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200199",
+    "Obs": "Avariada na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-30 14:01:21"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200051",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-29 16:39:14"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "28190268",
+    "Obs": "Avariada na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-29 14:41:15"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200017",
+    "Obs": "Na linha  mexeram nas  soldas  e partiram a pista.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-28 14:25:42"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200276",
+    "Obs": "Avaria nos display,",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-28 09:29:05"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "não tem numero",
+    "Obs": "Devolver a simatrex ficha ao contrário,",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-27 11:41:08"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1221001740002",
+    "Obs": "Não funciona o contactor.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-26 16:52:34"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0521001140083",
+    "Obs": "Ao ligar a fonte para programar queimou um diodo.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-23 09:45:39"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030158",
+    "Obs": "Componente CI1 ao contrário devolver a Simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-20 10:51:21"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "28190396",
+    "Obs": "Avaria nos display.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-19 11:59:56"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4720009200369",
+    "Obs": "Toaca de chicotes queimou na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-15 13:58:02"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200043",
+    "Obs": "Avariado na linha de produção chicote com troca e deixou de  saltar a AF.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-13 15:43:22"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900232",
+    "Obs": "Não esta a dar os valores certos sobe muito .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-13 11:42:39"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "1821005470030",
+    "Obs": "Não da´para programar devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-05 15:52:16"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "não  tem",
+    "Obs": "Queimou em linha  chicoite trocado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-07-01 14:31:24"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4720009200282",
+    "Obs": "Condemsador C48 ao comtrario.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-29 11:14:25"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0121000150302",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-28 14:42:31"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0121000150409",
+    "Obs": "Não tem tensão de vasio.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-24 15:07:18"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0121000150417",
+    "Obs": "Avaria nos leds",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-23 10:50:48"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "21200450133",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-18 13:44:22"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030021",
+    "Obs": "Falta componente CI1",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-17 14:32:31"
+  },
+  {
+    "Circuito": "SMD RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200006",
+    "Obs": "Devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-16 15:33:51"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191305",
+    "Obs": "Avariado",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-16 11:24:40"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "212004540094",
+    "Obs": "Refrigeração sempre atracada « Bomba Água«",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-15 14:01:07"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030022",
+    "Obs": "Falta conponente CI1 devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-15 13:35:52"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900230",
+    "Obs": "Não lê a corrente.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-14 11:04:49"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900221",
+    "Obs": "Componente IC14 trocado",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-06-02 13:57:32"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900225",
+    "Obs": "Conponente IC14 errado devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-31 16:48:51"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900226",
+    "Obs": "Conponente IC14 errado devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-31 16:47:18"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900222",
+    "Obs": "Conponente IC14  devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-31 16:43:34"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900209",
+    "Obs": "Conponente trocado IC14.Devolver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-31 16:41:54"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900246",
+    "Obs": "Avaria na linha de prudoção",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-31 16:40:12"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "46150020",
+    "Obs": "Avariada na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-28 16:21:38"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160042",
+    "Obs": "Avarida na linha de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-28 16:20:24"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200146",
+    "Obs": "Não da para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-19 14:13:10"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200028",
+    "Obs": "Não controla o pedal.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-18 09:25:10"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200052",
+    "Obs": "Não salta  AF.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-18 09:23:59"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030127",
+    "Obs": "Devolver a simatrex falta  componente D29",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-13 14:29:09"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0521001030127",
+    "Obs": "Falta  conponente D29 DEVOLVER A SIMATREX",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-13 14:24:10"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200095",
+    "Obs": "Não solda.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-13 12:29:47"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190113",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-11 16:26:38"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0321000440002",
+    "Obs": "Avaria nos led D42 D43.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-10 08:49:22"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0321000440096",
+    "Obs": "Led com pouca luz devolver a Simatrex .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-10 08:47:07"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200048",
+    "Obs": "Avaria na linha  de prodoção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-06 16:10:07"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200093",
+    "Obs": "Não solda .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-06 16:06:33"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220006520117",
+    "Obs": "AF não salta.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-05 16:32:20"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200030",
+    "Obs": "Não dá nada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-04 11:09:57"
+  },
+  {
+    "Circuito": "CI INV DC 500 FROMT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "491909270016",
+    "Obs": "Não dá para ver oPWM.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-05-03 14:36:02"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "10200241",
+    "Obs": "Não liga o contactor.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-27 11:45:39"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160071",
+    "Obs": "avaria no gatilho da tocha.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-26 13:46:31"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200037",
+    "Obs": "AVARIADO",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-21 17:18:49"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4720009200255",
+    "Obs": "Comdensador ao comtrário devolver a SIMATREX.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-21 14:11:59"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4720009200443",
+    "Obs": "Queimaos fusíveis .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-21 12:03:06"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4720009200245",
+    "Obs": "CONDENÇADOR AO CONTRARIO DEVOLVER A SIMATREX",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-21 12:01:28"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "06200019",
+    "Obs": "Queimou um componente ao ligar a fonte para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-16 10:21:57"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "36190301707",
+    "Obs": "Não dá paa programar queima  o fusível da banca de teste devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-14 10:55:47"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200029",
+    "Obs": "Integrado mal soldado .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-13 16:56:27"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4720009200445",
+    "Obs": "Não acende os leds D14 D15 D16",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-13 13:31:34"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200043",
+    "Obs": "Não acenden os leds D11 D12 D13 .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-07 16:45:01"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900210",
+    "Obs": "Não acende o led D13 depois de programada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-06 09:38:27"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220064900207",
+    "Obs": "Não acende o led D13 depois de programado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-04-06 09:36:13"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191037",
+    "Obs": "Não salta AF.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-22 15:39:10"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "30181313",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-19 09:31:11"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200048",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-18 09:09:58"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190139",
+    "Obs": "Pistas estragadas.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-12 16:37:19"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190143",
+    "Obs": "Avariada na linha de prudoção  mexeram no componente U1.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-10 12:03:52"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200151",
+    "Obs": "Não acende os leds D4 D5 D7.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-09 16:14:50"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "720043",
+    "Obs": "Queimou na linha de prudoção. troca no chicote.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-08 09:15:14"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "341800520",
+    "Obs": "Avaria no componente U24.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-04 09:01:16"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190995",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-03 09:50:27"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200031",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-03 09:49:09"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "31191357",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-03-03 09:47:24"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2120004450013",
+    "Obs": "Pinos do UI mal soldados devolver  a Simstrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-24 15:29:50"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "14200074",
+    "Obs": "SEM PISTA NO  C11",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-24 08:35:53"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200016",
+    "Obs": "Não solda.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-18 14:42:52"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220006520196",
+    "Obs": "Ao soldar  não regula a corente .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-17 14:20:46"
+  },
+  {
+    "Circuito": "Motor MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "2120004510031",
+    "Obs": "Troca nos chicotes e queimou  o CI.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-17 08:25:13"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190108",
+    "Obs": "Avariana nos valores no teste na linha de montagem.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-15 10:42:58"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200129",
+    "Obs": "Avarias nos disply's. devol ver a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-12 12:15:31"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "08200070",
+    "Obs": "Não acendem os ledes .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-12 12:14:00"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220006520085",
+    "Obs": "Não dá para  programar",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-08 08:31:16"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220006520094",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-05 12:05:16"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191257",
+    "Obs": "Não liga  ventilador.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-05 12:03:22"
+  },
+  {
+    "Circuito": "CI INV VRD",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "NÃO TEM",
+    "Obs": "AVARIADO.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-04 11:59:16"
+  },
+  {
+    "Circuito": "REGULADOR AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160069",
+    "Obs": "rEGULADOR AQUECE DEMASIADO.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-04 11:57:05"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190131",
+    "Obs": "Ao tirar o componente partiu a pista.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-02 09:47:12"
+  },
+  {
+    "Circuito": "CI INV TP AUX POWER",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3220006580002",
+    "Obs": "Tem pouca solda nos componentes  devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-01 10:27:19"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "18220045",
+    "Obs": "Avariado",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-01 10:25:21"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0819001890109",
+    "Obs": "Avariada",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-02-01 10:23:39"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200010",
+    "Obs": "IC1 co problema devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-13 15:21:43"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200009",
+    "Obs": "IC1 com problema devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-13 15:20:28"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200004",
+    "Obs": "IC1 com problema devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-13 15:19:17"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200011",
+    "Obs": "IC1 com problema devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-13 15:17:34"
+  },
+  {
+    "Circuito": "CI Power MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "231800560002",
+    "Obs": "Veio de uma reparacão para por como novo mas tem compunentes mexidos e duvidósos parecem queimados.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-12 13:49:18"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "11200123",
+    "Obs": "Avaria nos display.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-12 13:46:42"
+  },
+  {
+    "Circuito": "DC/DC 24V",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "não tem",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-11 11:36:35"
+  },
+  {
+    "Circuito": "DC/DC 24V",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "não tem",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-11 11:34:48"
+  },
+  {
+    "Circuito": "DC/DC 24V",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "NÃO TEM",
+    "Obs": "Queimou ao ser testada .",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-11 09:48:12"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220006520118",
+    "Obs": "Troca de chicote na linha  inverter e queimou os componentes do circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2021-01-04 16:45:41"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "212004540003",
+    "Obs": "O micro SWITCH   não liga.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-18 11:20:06"
+  },
+  {
+    "Circuito": "CI ACDC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "212004540011",
+    "Obs": "Ao  testar na linha de prudoção não deu os valores em volt que era necessário.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-16 11:39:48"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191289",
+    "Obs": "Trabalha como se estive se em plusada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-15 10:48:13"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "21200004570050",
+    "Obs": "Queimou ao testar na máquina na linha.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-14 10:43:01"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "2120004570020",
+    "Obs": "Queimou na linha ao testar a máquina.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-14 10:39:51"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "21200045570041",
+    "Obs": "Queimou na prudução .ao testar a máquina",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-14 10:37:03"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191053",
+    "Obs": "O ventilador não trabalha.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-03 11:02:12"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "37200065",
+    "Obs": "Na programação não dá para colucar os volt coretos não sobe no trimer.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-12-02 11:05:30"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "3220006520069",
+    "Obs": "Ao mudificar as resistencias a pista da R18 partiu.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-30 09:58:45"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "28190287",
+    "Obs": "Devolver a simatrex C com componentes por soldar  trimer mal soldado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-23 09:08:29"
+  },
+  {
+    "Circuito": "DC/DC 24V",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "NÃO TEM",
+    "Obs": "Queimou na linha 6.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-19 11:29:17"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "4819010430437",
+    "Obs": "Solda em  TIG e não muda para MMA.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-18 15:59:22"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "45170022",
+    "Obs": "Placa com avaria veio da linha 6.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-17 16:11:42"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "10200144",
+    "Obs": "Ao retirar botão partiu a pista .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-16 10:25:49"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2120004450002",
+    "Obs": "Em  MMA bolqueia a maquina.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-11 15:23:54"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "21200044500035",
+    "Obs": "Sem tensão de vasio.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-11 15:22:08"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190976",
+    "Obs": "Não salta a alta  frequencia.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-04 15:25:59"
+  },
+  {
+    "Circuito": "CI ACDC RELAY",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "não tem",
+    "Obs": "Queimou ao testar na linha de produção .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-11-04 10:38:15"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "23160068",
+    "Obs": "Tensão de vazio ( volt ) muito baixo.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-30 16:17:47"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "23160096",
+    "Obs": "Tensão de vazio ( volt)   muito baixo.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-30 16:16:14"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191106",
+    "Obs": "AF não salta.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-22 15:36:11"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160054",
+    "Obs": "Veio com avaria  das reparações externas.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-21 10:28:35"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1419001710086",
+    "Obs": "Levou o quadro abaixo na linha.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-20 16:25:33"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "18220305",
+    "Obs": "Veio do cliente avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-16 09:08:32"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30180781",
+    "Obs": "Veio do cliente  quiemada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-16 09:06:51"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "13180195",
+    "Obs": "Não acende 2 seguementos e passa para água  sem carregar no botão do refegerador . Este ci veio da( Eli servic)",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-14 15:37:31"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "042000620187",
+    "Obs": "Queimou na linha dse montagem.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-13 11:25:03"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191169",
+    "Obs": "Em soldadora faz ruido.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-13 11:18:50"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191260",
+    "Obs": "Veio da simatrex com o pic  IC9 ao contrário.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-12 16:41:06"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "10200021",
+    "Obs": "Não da para  ajustar os volts para 11.7 .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-08 16:50:52"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "1020046",
+    "Obs": "Não da para colocar os volts (11.7).",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-08 16:48:21"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "10200050",
+    "Obs": "Avaria nos disply.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-10-08 16:47:19"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "13180381",
+    "Obs": "Botão SW4 não funciona.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-09-23 09:07:50"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "31191547",
+    "Obs": "Avariado",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-09-18 10:16:31"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "0420000620125",
+    "Obs": "Não atraca o contactor.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-09-11 14:39:56"
+  },
+  {
+    "Circuito": "CI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "311900160909",
+    "Obs": "Não dá para programar .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-09-01 13:55:21"
+  },
+  {
+    "Circuito": "CI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "311900716002",
+    "Obs": "PROBLEMA NOS DISPLAY.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-09-01 13:54:20"
+  },
+  {
+    "Circuito": "CI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3119007161007",
+    "Obs": "Problemas nos display.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-09-01 13:53:01"
+  },
+  {
+    "Circuito": "CI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3119007161038",
+    "Obs": "Não aumenta os valores ao rodar o encoder.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-09-01 13:49:40"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671644",
+    "Obs": "Ao testar na linha de produçao queimou troca de chicotes na montagem da maquina.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-08-31 16:16:18"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008301895",
+    "Obs": "Ao  testar na linha de produçao queimou  troca de montagem de  chicotes .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-08-31 16:13:16"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4819010350622",
+    "Obs": "Ao testar na linha de produçao deitou fumo no circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-08-31 15:28:34"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "20190081",
+    "Obs": "Nao dá para progarmar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-08-25 14:07:35"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4819010350484",
+    "Obs": "Os valores dos amperes esta´a variar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-25 16:53:45"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "052000720002",
+    "Obs": "Componentes  sem estarem soldados devolver á simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-25 13:59:34"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "052000720015",
+    "Obs": "Depois de envernizar não controla.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-25 10:00:30"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "341800566",
+    "Obs": "Não faz a refrigeração.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-11 09:42:31"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671527",
+    "Obs": "Não dá para programar .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-09 11:58:51"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671635",
+    "Obs": "Devolver  a simatrex componente CI4 ao contrário .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-06 16:39:38"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "2318005560043",
+    "Obs": "C.I com falta de componentes e com alterações feitas .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-02 15:30:32"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1419001710096",
+    "Obs": "Não dá para progamar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-03-02 10:50:36"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671532",
+    "Obs": "Dá erro 2.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-19 16:07:53"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190164",
+    "Obs": "A tensão de vasio baixa.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-19 16:05:33"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671568",
+    "Obs": "Dá erro 4.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-19 16:03:34"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671575",
+    "Obs": "Ao clicar no botão SW1 não muda os leds.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-19 16:01:33"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008302111",
+    "Obs": "Motor não anda .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-19 16:00:02"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671570",
+    "Obs": "O motor não anda ao rodar o encoder.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-19 15:34:43"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008302120",
+    "Obs": "O motor não anda ao rodar o encoder.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-19 15:32:39"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4819010350639",
+    "Obs": "Nã dá para regular os voltes para o valor de referencia pretendido.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-18 15:47:16"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "não tem numero",
+    "Obs": "Avariado na linha de produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-14 14:25:07"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008302206",
+    "Obs": "Componente com polaridade ao contrario já envernizado ao retiralo partiu as pistas  no CI4.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-14 11:25:53"
+  },
+  {
+    "Circuito": "MIG S5",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "481901039310",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Concluída",
+    "DataTime": "2020-02-14 09:25:03"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "052000720014",
+    "Obs": "Não dá tensão de vasio.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 16:20:33"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "052000720018",
+    "Obs": "CIque veio da simatrex sem componente D26 devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 16:18:23"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "052000720008",
+    "Obs": "CI veio da simatrex sem componente D26 devlover a simatrex",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 16:16:22"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "052000720017",
+    "Obs": "CI que veio da simaterx sem componente  D26  devolver a simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 16:14:01"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2418005530027",
+    "Obs": "Ventilação não liga  compunentes  UI , IC11 ,IC8 ,IC9, mexidos.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 12:23:23"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2418005530021",
+    "Obs": "Faz ruido .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 12:22:12"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2418005530045",
+    "Obs": "Tensão de vasio a variar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 12:21:00"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2418005530020",
+    "Obs": "Não dá tensão  nenhuma.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 12:18:56"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "2318005560020",
+    "Obs": "C.I  avariado não da tensão de vasio.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 10:54:19"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671674",
+    "Obs": "Circuito deixado na linha 4  pelo Quitério com avaria ao ligar na  banca de programar queima o fusivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-12 09:42:04"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "13180233",
+    "Obs": "Ao envernizar entrou verniz na ficha J7 .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-10 15:38:46"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "22190122",
+    "Obs": "o botãoSW4 deixou de funcionar foi mudado e agora não dá para programar .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-02-03 08:48:32"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "13180398",
+    "Obs": "Chicote mal ligado na linha de produção e queimou o componente QI.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-29 16:06:55"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "341800560",
+    "Obs": "Ao ligar o chicote  partiu a ficha na linha de produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-29 16:04:30"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3119007160999",
+    "Obs": "Avaria nos displays.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-28 12:16:09"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "311900761015",
+    "Obs": "Ao regular não aumenta nem diminui o valor que aparece no display.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-28 12:05:21"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "4819010350658",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-27 13:42:47"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "3619008340469",
+    "Obs": "Não dá para programar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-27 13:40:33"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "341800627",
+    "Obs": "C.I com o componente ( QI ) queimado  na linha de produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-24 11:44:24"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191009",
+    "Obs": "Não salta AF .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-21 09:03:48"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191256",
+    "Obs": "Máquina ficou pendurada  não muda os leds.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-20 15:51:36"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191048",
+    "Obs": "Nos Volts marca 0.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-20 15:50:05"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190917",
+    "Obs": "Ao soldar TIG a mais de 150 AMP começa a  fazer ruído ( chiar) .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-20 15:47:14"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "3119007161005",
+    "Obs": "Disply com defeito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-20 08:36:38"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191101",
+    "Obs": "Circuito com o componente IC8 ao cocontrário devolver á Simatrex.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-16 15:26:29"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008302198",
+    "Obs": "Da erro 4.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-16 09:53:41"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "0119001680872",
+    "Obs": "Não da para progarmar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-16 09:52:04"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "3619008340465",
+    "Obs": "Troca dos chicotes no transformador auxiliar  na maquina e queimou circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-14 09:57:39"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "28190298",
+    "Obs": "Circuito DC203 com o VRD ligado os Volt estão muito  elevados ( 55v).",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-14 09:08:25"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "3619008340474",
+    "Obs": "Valores dos Volt muito baixos.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-14 09:07:06"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "3619008340439",
+    "Obs": "Valores dos Volt muito baixos.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-14 09:04:10"
+  },
+  {
+    "Circuito": "SMD RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "10190024",
+    "Obs": "C.I com falta de componente T3 devolver a SIMATREX.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-09 09:04:16"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008302173",
+    "Obs": "Display com pouco brilho.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-09 09:01:56"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "3619008302174",
+    "Obs": "Display pouco brilho.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-09 09:00:06"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "?",
+    "Obs": "Erro1.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-09 08:57:52"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160047",
+    "Obs": "Avariado e componentes retirados.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:24:44"
+  },
+  {
+    "Circuito": "CI Controlo AF TIG",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160045",
+    "Obs": "Avaria no motor  e componentes retirados.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:21:43"
+  },
+  {
+    "Circuito": "CI.AF FULX 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "?",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:20:30"
+  },
+  {
+    "Circuito": "CI.AF FULX 500",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "?",
+    "Obs": "Mosfets trocados.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:16:57"
+  },
+  {
+    "Circuito": "CI INV TRI TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "25180089",
+    "Obs": "Conponente queimadoD1.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:12:57"
+  },
+  {
+    "Circuito": "CI INV TRI DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "?",
+    "Obs": "Parece-me uma placa de produção interna( nossa).",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:09:35"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "30180718",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:06:37"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "30180640",
+    "Obs": "Não salta a HF.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:05:20"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160088",
+    "Obs": "Avariada com componentes em falta.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:03:38"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160061",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:02:23"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "2318005560001",
+    "Obs": "Queimou.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 15:00:37"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "23160074",
+    "Obs": "Componente D6 queimado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:58:43"
+  },
+  {
+    "Circuito": "SMD RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "7160106",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:56:19"
+  },
+  {
+    "Circuito": "CI INV TP FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "18380643",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:53:53"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "Não tem",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:52:40"
+  },
+  {
+    "Circuito": "CI INV DC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "0819001810884",
+    "Obs": "Avariada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:39:41"
+  },
+  {
+    "Circuito": "CI Amp/Volt SMD",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "26160137",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:30:21"
+  },
+  {
+    "Circuito": "CI INV TP AUX POWER",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19190707",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:28:10"
+  },
+  {
+    "Circuito": "CI INV TP AUX POWER",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "09180396",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:26:06"
+  },
+  {
+    "Circuito": "CI INV TP AUX POWER",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "09180136",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:22:22"
+  },
+  {
+    "Circuito": "Inverprotek",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "?",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:21:41"
+  },
+  {
+    "Circuito": "Inverprotek",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "?",
+    "Obs": "Avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:17:38"
+  },
+  {
+    "Circuito": "CI INV VRD",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "PF",
+    "Obs": "Queimada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:11:52"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "18160116",
+    "Obs": "Não alimenta.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:06:51"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "18160093",
+    "Obs": "Não alimenta.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:05:39"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "04180338",
+    "Obs": "Avaria ,  Sincrunismo.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:03:27"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1419001710031",
+    "Obs": "Queimou na linha  de montage.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 14:01:41"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1419001710020",
+    "Obs": "Não regula.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:59:30"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "18160144",
+    "Obs": "Avariada?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:55:48"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1419001710103",
+    "Obs": "Queimou na linha de  produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:51:46"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "04180390",
+    "Obs": "Comecou a deitar fumo.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:50:13"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "1419001710110",
+    "Obs": "O minimo não desce mais que 110  Amp.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:42:59"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "04180371",
+    "Obs": "Não dá nada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:39:10"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "04180335",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:36:13"
+  },
+  {
+    "Circuito": "CI RCD DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "18160123",
+    "Obs": "AVARIA ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 13:32:52"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "20190176",
+    "Obs": "Envernizada?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:25:01"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "20170012",
+    "Obs": "Envernizada?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:23:30"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "09150040",
+    "Obs": "Envernizada?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:22:28"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "18360593",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:21:36"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "0119001680774",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:20:05"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "41150219",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:19:13"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "18220358",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:17:45"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "Não tem número",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:15:22"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "18220350",
+    "Obs": "Envernizada?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:14:02"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "0119001680745",
+    "Obs": "Envernizada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 12:02:25"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "22181058",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:37:15"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "43180164",
+    "Obs": "C.I sem avaria  visivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:35:56"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "0819001640014",
+    "Obs": "Queimou ao testar na linha de produçaõ.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:34:26"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "43180069",
+    "Obs": "Queimou ao testar na linha de produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:33:07"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "43180156",
+    "Obs": "Queimou ao testar na linha de produção.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:31:27"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "22181048",
+    "Obs": "Envernizada?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:29:05"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "43180077",
+    "Obs": "Amperimetro não dá .",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:25:33"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "30181211",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:22:11"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220654",
+    "Obs": "C.I sem avaria visivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:18:12"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30181141",
+    "Obs": "C.I sem avaria visivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:17:05"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220669",
+    "Obs": "C.I sem avaria visivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:15:56"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30180896",
+    "Obs": "C.I sem avaria visivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:14:20"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671488",
+    "Obs": "C.I sem ter a avaria  visivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 11:02:18"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30180827",
+    "Obs": "C.I sem ter a avaria visivel.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 10:55:26"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "31160462",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 10:52:48"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "0819001771368",
+    "Obs": "Queimou na linha de produção ao testar a máquina.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 10:49:43"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30181188",
+    "Obs": "Queimou na linha de producão  ao testar a máquina.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 10:42:53"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671476",
+    "Obs": "Envernizada ,queimada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 10:19:06"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30180876",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 10:15:56"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170028",
+    "Obs": "Queimada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 10:14:29"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "31160514",
+    "Obs": "Queimada,",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:59:26"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220632",
+    "Obs": "Componentes queimados.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:57:36"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2118004290425",
+    "Obs": "Componentes queimados.",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:55:38"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220518",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:53:32"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220600",
+    "Obs": "Envernizada pistas partidas e queimadas",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:50:53"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170148",
+    "Obs": "Envernizada?  com componentes queimados",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:47:54"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30180785",
+    "Obs": "Envernizada ? alguns componentes  queimados pistas partidas",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:44:20"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220479",
+    "Obs": "Envernizada?IC1 parece queimado",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:41:35"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "22150115",
+    "Obs": "Envernizada?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:39:14"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220585",
+    "Obs": "Envernizada ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:37:11"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220689",
+    "Obs": "Envernizado ?",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:31:31"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "16220686",
+    "Obs": "IC3 queimado,SW5 queimado",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:26:03"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30181166",
+    "Obs": "falta componenteD18 pista danificada",
+    "Reparacao": "Planeada",
+    "DataTime": "2020-01-08 09:20:01"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "22181176",
+    "Obs": "motor nao aciona",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-12-18 14:49:50"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30180939",
+    "Obs": "Ao ligar queima os fusíveis da banca de ensaios.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-12-18 14:46:59"
+  },
+  {
+    "Circuito": "CI Inv Mig Control",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "37180037",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-12-17 17:06:12"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191036",
+    "Obs": "À partida estará bom.\nTestar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-12-17 17:05:23"
+  },
+  {
+    "Circuito": "CI Power MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2318005600029",
+    "Obs": "?",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-12-17 17:03:59"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671458",
+    "Obs": "?",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-12-17 16:56:22"
+  },
+  {
+    "Circuito": "CI Frontal MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "2318005560040",
+    "Obs": "Alimentação trocada.\nPistas queimadas.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-12-17 09:12:30"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "30181359",
+    "Obs": "Em funcionamento o circuito desligava-se e passado algum tempo e que voltava a ligar.\nNão era falta de fase pois o ventilador continuava a funcionar.\nMaquina com um ano de trabalho\nCliente Parsolda- NAVIPA",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-10-23 08:40:54"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2719005671673",
+    "Obs": "Troca na alimentação ao circuito.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-10-18 14:02:56"
+  },
+  {
+    "Circuito": "CI Power MIG300SI",
+    "Orig": "Recolha externa",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2318005600029",
+    "Obs": "Foi trocada em cliente onde havia um problema com a deteção de fase. Entre fase e terra L1-T - 330V, L2-T - 330V, L3-T - 120V. Entre fases 400V.\nProvavelmente não terá problemas, de qualquer maneira convém validar.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-10-18 08:32:14"
+  },
+  {
+    "Circuito": "CI INV TP CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "19191036",
+    "Obs": "Avaria microcrontrolador.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-10-17 16:22:36"
+  },
+  {
+    "Circuito": "CI INV ACDC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "13180399",
+    "Obs": "Devol. Hemasol, junto c/ c. i. B.067RM.312 (C.496RM.011-N \"W.496RM.312-2\") rep. de Weldsat inv. TP 402 AC/DC, n.º 18 11 136.\n\nFinalmente el equipo tp ac-dc 400 lo que tenia averiado era el modulo de control el display estaba bien , te envio los 2 circuitos de vuelta .\nEl cliente seguira probando el equipo  hasta el miercoles y nos dice algo , pero ya marca el amperaje perfecto.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-07-01 18:53:40"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "22181087",
+    "Obs": "Regulador 12V avariado.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-04-08 11:56:06"
+  },
+  {
+    "Circuito": "CI MIG300SI CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev5.0",
+    "OrdemRep": "",
+    "Numero": "2418005530011",
+    "Obs": "Troca resistências R42 e R71.\nVerficar se NTC's funcionam bem.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-03-06 12:33:38"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "30180869",
+    "Obs": "Tensão trocada.",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-28 16:38:20"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170156",
+    "Obs": "Devolvido Welda",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:46:35"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170123",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:46:15"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170131",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:45:54"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170145",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:45:26"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220485",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:45:01"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170132",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:44:28"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "07160369",
+    "Obs": "Devolvido Orexad - JBDI",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:43:41"
+  },
+  {
+    "Circuito": "CI SMD THI DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160117",
+    "Obs": "Devolvido Sumasol",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:38:50"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "31160508",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:35:45"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29170062",
+    "Obs": "Devolvido Soldan-WSD",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:35:04"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "26160271",
+    "Obs": "Devolvido Serecon",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:34:11"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "0000",
+    "Obs": "Devolvido Elfi",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:32:28"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "26160179",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:31:47"
+  },
+  {
+    "Circuito": "CI Power MIG300SI",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "2318005600014",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:31:07"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "40170200",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:30:37"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "31160511",
+    "Obs": "Devolvido Blas",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:29:57"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev2.0",
+    "OrdemRep": "",
+    "Numero": "07160356",
+    "Obs": "Devolvido Serecon",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:29:07"
+  },
+  {
+    "Circuito": "CI LTRONIC FRONT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "18220622",
+    "Obs": "Devolvido WSD",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:28:18"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev1.0",
+    "OrdemRep": "",
+    "Numero": "36160015",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:27:11"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "26160168",
+    "Obs": "Devolvido Blas",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:25:54"
+  },
+  {
+    "Circuito": "CI LTRONIC CONTROL",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "23160002",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:25:26"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 Interface",
+    "Orig": "Linha produção",
+    "Revisao": "Rev3.0",
+    "OrdemRep": "",
+    "Numero": "29160203",
+    "Obs": "",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:24:49"
+  },
+  {
+    "Circuito": "CI MIG Serie 6 DIGIT B",
+    "Orig": "Linha produção",
+    "Revisao": "Rev4.0",
+    "OrdemRep": "",
+    "Numero": "30181367",
+    "Obs": "Devolvido Electro-Portugal",
+    "Reparacao": "Planeada",
+    "DataTime": "2019-02-25 09:22:55"
+  }
+]

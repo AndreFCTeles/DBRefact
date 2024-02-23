@@ -1,0 +1,77 @@
+[
+  {
+    "AvariaInverters": "Amperimetro"
+  },
+  {
+    "AvariaInverters": "Atualização firmware"
+  },
+  {
+    "AvariaInverters": "Cabo de alimentação"
+  },
+  {
+    "AvariaInverters": "Circuito HF"
+  },
+  {
+    "AvariaInverters": "Circuito controlo"
+  },
+  {
+    "AvariaInverters": "Circuito fonte de alimentação"
+  },
+  {
+    "AvariaInverters": "Circuito frontal"
+  },
+  {
+    "AvariaInverters": "Diodos secundario"
+  },
+  {
+    "AvariaInverters": "Encoder"
+  },
+  {
+    "AvariaInverters": "Filtro MS"
+  },
+  {
+    "AvariaInverters": "Flat Cable"
+  },
+  {
+    "AvariaInverters": "Outros"
+  },
+  {
+    "AvariaInverters": "Pistas e outros componentes"
+  },
+  {
+    "AvariaInverters": "Ponte rectificadora"
+  },
+  {
+    "AvariaInverters": "Potenciometro"
+  },
+  {
+    "AvariaInverters": "Sem defeito"
+  },
+  {
+    "AvariaInverters": "Sensor hall"
+  },
+  {
+    "AvariaInverters": "Sub. Módulo"
+  },
+  {
+    "AvariaInverters": "Sub. Painel Fr"
+  },
+  {
+    "AvariaInverters": "Sub. Painel Tr"
+  },
+  {
+    "AvariaInverters": "Subst. Electrovalvula"
+  },
+  {
+    "AvariaInverters": "Tocha"
+  },
+  {
+    "AvariaInverters": "Transf. queimado"
+  },
+  {
+    "AvariaInverters": "Transistor IGBT"
+  },
+  {
+    "AvariaInverters": "Ventilador"
+  }
+]

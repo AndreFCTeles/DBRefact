@@ -9,8 +9,6 @@
   "author": "André Teles",
   "license": "ISC",
   "dependencies": {
-    "csv-parser": "^3.0.0",
-    "mongodb": "^6.3.0",
-    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.1/xlsx-0.20.1.tgz"
+    "csv-parser": "^3.0.0"
   }
 }

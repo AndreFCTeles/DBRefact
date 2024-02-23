@@ -1,0 +1,5588 @@
+[
+  {
+    "Maquina": "00AC/DCTP"
+  },
+  {
+    "Maquina": "1/A107"
+  },
+  {
+    "Maquina": "100"
+  },
+  {
+    "Maquina": "100 TR"
+  },
+  {
+    "Maquina": "100-150"
+  },
+  {
+    "Maquina": "1000"
+  },
+  {
+    "Maquina": "110"
+  },
+  {
+    "Maquina": "120"
+  },
+  {
+    "Maquina": "1250"
+  },
+  {
+    "Maquina": "130"
+  },
+  {
+    "Maquina": "1300"
+  },
+  {
+    "Maquina": "1300 COLT"
+  },
+  {
+    "Maquina": "1300Pro"
+  },
+  {
+    "Maquina": "130A"
+  },
+  {
+    "Maquina": "130E"
+  },
+  {
+    "Maquina": "135"
+  },
+  {
+    "Maquina": "140"
+  },
+  {
+    "Maquina": "140DC"
+  },
+  {
+    "Maquina": "141 I"
+  },
+  {
+    "Maquina": "141DC"
+  },
+  {
+    "Maquina": "142"
+  },
+  {
+    "Maquina": "143 G"
+  },
+  {
+    "Maquina": "144"
+  },
+  {
+    "Maquina": "145"
+  },
+  {
+    "Maquina": "1450"
+  },
+  {
+    "Maquina": "150"
+  },
+  {
+    "Maquina": "150 S"
+  },
+  {
+    "Maquina": "150 TIG"
+  },
+  {
+    "Maquina": "1500"
+  },
+  {
+    "Maquina": "1500 Pro"
+  },
+  {
+    "Maquina": "1500DC"
+  },
+  {
+    "Maquina": "1500Pro(módulo)"
+  },
+  {
+    "Maquina": "150BT"
+  },
+  {
+    "Maquina": "152"
+  },
+  {
+    "Maquina": "1538"
+  },
+  {
+    "Maquina": "1550"
+  },
+  {
+    "Maquina": "1555"
+  },
+  {
+    "Maquina": "160"
+  },
+  {
+    "Maquina": "160 AC/DC"
+  },
+  {
+    "Maquina": "160 DC"
+  },
+  {
+    "Maquina": "160 HF"
+  },
+  {
+    "Maquina": "160 TP"
+  },
+  {
+    "Maquina": "160 WELD&CUT"
+  },
+  {
+    "Maquina": "1600"
+  },
+  {
+    "Maquina": "1600 GE TIG"
+  },
+  {
+    "Maquina": "1601 HF"
+  },
+  {
+    "Maquina": "1601S"
+  },
+  {
+    "Maquina": "160A"
+  },
+  {
+    "Maquina": "160Cutweld"
+  },
+  {
+    "Maquina": "160ES"
+  },
+  {
+    "Maquina": "160HF Pulse"
+  },
+  {
+    "Maquina": "160HFP"
+  },
+  {
+    "Maquina": "160HFTP"
+  },
+  {
+    "Maquina": "160LFTIG"
+  },
+  {
+    "Maquina": "160LT"
+  },
+  {
+    "Maquina": "160PI"
+  },
+  {
+    "Maquina": "160ST"
+  },
+  {
+    "Maquina": "160TLH"
+  },
+  {
+    "Maquina": "160V"
+  },
+  {
+    "Maquina": "160ZX7"
+  },
+  {
+    "Maquina": "161"
+  },
+  {
+    "Maquina": "161 HF"
+  },
+  {
+    "Maquina": "161DC"
+  },
+  {
+    "Maquina": "161MMA"
+  },
+  {
+    "Maquina": "161TP"
+  },
+  {
+    "Maquina": "162"
+  },
+  {
+    "Maquina": "162 Pulse"
+  },
+  {
+    "Maquina": "162DC"
+  },
+  {
+    "Maquina": "162HF"
+  },
+  {
+    "Maquina": "164"
+  },
+  {
+    "Maquina": "164 TLH"
+  },
+  {
+    "Maquina": "164LT"
+  },
+  {
+    "Maquina": "164TLM"
+  },
+  {
+    "Maquina": "165"
+  },
+  {
+    "Maquina": "165 DC"
+  },
+  {
+    "Maquina": "1650"
+  },
+  {
+    "Maquina": "168"
+  },
+  {
+    "Maquina": "170"
+  },
+  {
+    "Maquina": "1700"
+  },
+  {
+    "Maquina": "170D-ST"
+  },
+  {
+    "Maquina": "170S"
+  },
+  {
+    "Maquina": "171T"
+  },
+  {
+    "Maquina": "172AC/DC"
+  },
+  {
+    "Maquina": "175"
+  },
+  {
+    "Maquina": "1750"
+  },
+  {
+    "Maquina": "175DC"
+  },
+  {
+    "Maquina": "180"
+  },
+  {
+    "Maquina": "180 P"
+  },
+  {
+    "Maquina": "1800"
+  },
+  {
+    "Maquina": "1800 Pro"
+  },
+  {
+    "Maquina": "1800Pro(módulo)"
+  },
+  {
+    "Maquina": "183"
+  },
+  {
+    "Maquina": "185"
+  },
+  {
+    "Maquina": "1850"
+  },
+  {
+    "Maquina": "186 HD"
+  },
+  {
+    "Maquina": "188"
+  },
+  {
+    "Maquina": "190"
+  },
+  {
+    "Maquina": "190DC"
+  },
+  {
+    "Maquina": "190HF"
+  },
+  {
+    "Maquina": "191"
+  },
+  {
+    "Maquina": "191DC"
+  },
+  {
+    "Maquina": "191HF"
+  },
+  {
+    "Maquina": "200"
+  },
+  {
+    "Maquina": "200 AC/DC"
+  },
+  {
+    "Maquina": "200 D"
+  },
+  {
+    "Maquina": "200 DC"
+  },
+  {
+    "Maquina": "200 DC P"
+  },
+  {
+    "Maquina": "200 DV CEL"
+  },
+  {
+    "Maquina": "200 EP"
+  },
+  {
+    "Maquina": "200 HF"
+  },
+  {
+    "Maquina": "200 S"
+  },
+  {
+    "Maquina": "200A"
+  },
+  {
+    "Maquina": "200AC/DC P"
+  },
+  {
+    "Maquina": "200AC/DCHFP"
+  },
+  {
+    "Maquina": "200AC/DCTP"
+  },
+  {
+    "Maquina": "200DCTIG"
+  },
+  {
+    "Maquina": "200DCTP"
+  },
+  {
+    "Maquina": "200HFP"
+  },
+  {
+    "Maquina": "200HFPULSE"
+  },
+  {
+    "Maquina": "200HFTP"
+  },
+  {
+    "Maquina": "200LT"
+  },
+  {
+    "Maquina": "200PAC/DC"
+  },
+  {
+    "Maquina": "200TI"
+  },
+  {
+    "Maquina": "200TIDC"
+  },
+  {
+    "Maquina": "200TIG"
+  },
+  {
+    "Maquina": "200TIGHF"
+  },
+  {
+    "Maquina": "200TIGPULSE"
+  },
+  {
+    "Maquina": "200TP"
+  },
+  {
+    "Maquina": "20161681"
+  },
+  {
+    "Maquina": "20170672"
+  },
+  {
+    "Maquina": "202"
+  },
+  {
+    "Maquina": "202 Pulse"
+  },
+  {
+    "Maquina": "20221355"
+  },
+  {
+    "Maquina": "202DC"
+  },
+  {
+    "Maquina": "202HF"
+  },
+  {
+    "Maquina": "202TP"
+  },
+  {
+    "Maquina": "203DC"
+  },
+  {
+    "Maquina": "205"
+  },
+  {
+    "Maquina": "210 AC/DC"
+  },
+  {
+    "Maquina": "210 AC/DC Pulse"
+  },
+  {
+    "Maquina": "210DC"
+  },
+  {
+    "Maquina": "212DC"
+  },
+  {
+    "Maquina": "215"
+  },
+  {
+    "Maquina": "220"
+  },
+  {
+    "Maquina": "2200"
+  },
+  {
+    "Maquina": "2200DC"
+  },
+  {
+    "Maquina": "220AC/DC"
+  },
+  {
+    "Maquina": "220DC"
+  },
+  {
+    "Maquina": "221DC"
+  },
+  {
+    "Maquina": "221HF"
+  },
+  {
+    "Maquina": "221TP"
+  },
+  {
+    "Maquina": "223"
+  },
+  {
+    "Maquina": "230 TIG"
+  },
+  {
+    "Maquina": "230DC"
+  },
+  {
+    "Maquina": "230HF"
+  },
+  {
+    "Maquina": "230TP"
+  },
+  {
+    "Maquina": "231 HF"
+  },
+  {
+    "Maquina": "245"
+  },
+  {
+    "Maquina": "250"
+  },
+  {
+    "Maquina": "250 DC"
+  },
+  {
+    "Maquina": "250 HF P"
+  },
+  {
+    "Maquina": "250 MIG"
+  },
+  {
+    "Maquina": "250 Pulse"
+  },
+  {
+    "Maquina": "250-3 DC Pulse"
+  },
+  {
+    "Maquina": "250HF"
+  },
+  {
+    "Maquina": "250HF Pulse"
+  },
+  {
+    "Maquina": "250TP"
+  },
+  {
+    "Maquina": "2511DC"
+  },
+  {
+    "Maquina": "253S"
+  },
+  {
+    "Maquina": "260"
+  },
+  {
+    "Maquina": "260 AC/DC"
+  },
+  {
+    "Maquina": "260 TURBO"
+  },
+  {
+    "Maquina": "262"
+  },
+  {
+    "Maquina": "270"
+  },
+  {
+    "Maquina": "280"
+  },
+  {
+    "Maquina": "295"
+  },
+  {
+    "Maquina": "3.2AC/DC"
+  },
+  {
+    "Maquina": "30 XP"
+  },
+  {
+    "Maquina": "300"
+  },
+  {
+    "Maquina": "300 AC/DC"
+  },
+  {
+    "Maquina": "300 AC/DC Pulse"
+  },
+  {
+    "Maquina": "300/T2"
+  },
+  {
+    "Maquina": "300A DC"
+  },
+  {
+    "Maquina": "300DC"
+  },
+  {
+    "Maquina": "300TIG Pulse"
+  },
+  {
+    "Maquina": "301"
+  },
+  {
+    "Maquina": "302"
+  },
+  {
+    "Maquina": "302AC/DC"
+  },
+  {
+    "Maquina": "302AC/DCTP"
+  },
+  {
+    "Maquina": "303"
+  },
+  {
+    "Maquina": "303 COMPACT"
+  },
+  {
+    "Maquina": "303B"
+  },
+  {
+    "Maquina": "3040/T 579"
+  },
+  {
+    "Maquina": "31.2"
+  },
+  {
+    "Maquina": "315 AC/DC"
+  },
+  {
+    "Maquina": "320"
+  },
+  {
+    "Maquina": "320AC/DC"
+  },
+  {
+    "Maquina": "340 LB"
+  },
+  {
+    "Maquina": "346"
+  },
+  {
+    "Maquina": "35"
+  },
+  {
+    "Maquina": "350 AC/DC"
+  },
+  {
+    "Maquina": "353"
+  },
+  {
+    "Maquina": "353B MOD"
+  },
+  {
+    "Maquina": "356"
+  },
+  {
+    "Maquina": "380"
+  },
+  {
+    "Maquina": "380 BL"
+  },
+  {
+    "Maquina": "400"
+  },
+  {
+    "Maquina": "400 AC/DC"
+  },
+  {
+    "Maquina": "400C"
+  },
+  {
+    "Maquina": "400DC"
+  },
+  {
+    "Maquina": "402"
+  },
+  {
+    "Maquina": "403"
+  },
+  {
+    "Maquina": "404 CW MP"
+  },
+  {
+    "Maquina": "404WM MUTIR"
+  },
+  {
+    "Maquina": "405 C"
+  },
+  {
+    "Maquina": "405Wm"
+  },
+  {
+    "Maquina": "406W"
+  },
+  {
+    "Maquina": "406WM"
+  },
+  {
+    "Maquina": "410"
+  },
+  {
+    "Maquina": "450"
+  },
+  {
+    "Maquina": "450AFC"
+  },
+  {
+    "Maquina": "453"
+  },
+  {
+    "Maquina": "500"
+  },
+  {
+    "Maquina": "500 M"
+  },
+  {
+    "Maquina": "500XP"
+  },
+  {
+    "Maquina": "503 AC/DC"
+  },
+  {
+    "Maquina": "504 WM"
+  },
+  {
+    "Maquina": "505"
+  },
+  {
+    "Maquina": "506 WM"
+  },
+  {
+    "Maquina": "50RX"
+  },
+  {
+    "Maquina": "556W Ltronic"
+  },
+  {
+    "Maquina": "60 HF"
+  },
+  {
+    "Maquina": "60J"
+  },
+  {
+    "Maquina": "625"
+  },
+  {
+    "Maquina": "6500"
+  },
+  {
+    "Maquina": "AC/DC 503"
+  },
+  {
+    "Maquina": "ACDC 323"
+  },
+  {
+    "Maquina": "ACDC 403"
+  },
+  {
+    "Maquina": "ACS 145"
+  },
+  {
+    "Maquina": "ACTUAL 500"
+  },
+  {
+    "Maquina": "ACTUAL 500 EW"
+  },
+  {
+    "Maquina": "AEROMIG 310"
+  },
+  {
+    "Maquina": "AF 43.2"
+  },
+  {
+    "Maquina": "AF 56.4 LTRONIC"
+  },
+  {
+    "Maquina": "AF 73.4 W Multipulse"
+  },
+  {
+    "Maquina": "AF 75.2"
+  },
+  {
+    "Maquina": "AF Coldwire Pulse"
+  },
+  {
+    "Maquina": "AF FLUX 500"
+  },
+  {
+    "Maquina": "AF TIG CW Pulse"
+  },
+  {
+    "Maquina": "AF TIG Coldwire"
+  },
+  {
+    "Maquina": "AF TIG Coldwire Plus"
+  },
+  {
+    "Maquina": "AF TIG Coldwire Pulse"
+  },
+  {
+    "Maquina": "AF TIG Pulse"
+  },
+  {
+    "Maquina": "AF43.1"
+  },
+  {
+    "Maquina": "AF45.2 COLDWIRE"
+  },
+  {
+    "Maquina": "AF56.4 W"
+  },
+  {
+    "Maquina": "AF73.4 W Multibasic"
+  },
+  {
+    "Maquina": "AFC 450"
+  },
+  {
+    "Maquina": "AFTIG"
+  },
+  {
+    "Maquina": "AFTIG45.2"
+  },
+  {
+    "Maquina": "AIRJET 100"
+  },
+  {
+    "Maquina": "AKI100"
+  },
+  {
+    "Maquina": "ALEX 300"
+  },
+  {
+    "Maquina": "ALEX 500"
+  },
+  {
+    "Maquina": "ALIM AF 76.4 RW"
+  },
+  {
+    "Maquina": "ALMIG 265 BL"
+  },
+  {
+    "Maquina": "ALMIG 367S"
+  },
+  {
+    "Maquina": "ALTIG 225"
+  },
+  {
+    "Maquina": "ALTIG 225 DC"
+  },
+  {
+    "Maquina": "ALTIG 250 DC REF"
+  },
+  {
+    "Maquina": "ALTIG Coldwire"
+  },
+  {
+    "Maquina": "ALUMIG 284"
+  },
+  {
+    "Maquina": "ALUMIG 295"
+  },
+  {
+    "Maquina": "ALUMIG 295 SYN"
+  },
+  {
+    "Maquina": "ALUMIG 345 BL"
+  },
+  {
+    "Maquina": "ALUMIG 395"
+  },
+  {
+    "Maquina": "ALUMIG 395M"
+  },
+  {
+    "Maquina": "AR.01"
+  },
+  {
+    "Maquina": "ARC 160 LT"
+  },
+  {
+    "Maquina": "ARC 180"
+  },
+  {
+    "Maquina": "ARC 200"
+  },
+  {
+    "Maquina": "ARC 200 II"
+  },
+  {
+    "Maquina": "ARC 200 LT"
+  },
+  {
+    "Maquina": "ARC 2200"
+  },
+  {
+    "Maquina": "ARC 251I"
+  },
+  {
+    "Maquina": "ARC ECO 160"
+  },
+  {
+    "Maquina": "ARC150"
+  },
+  {
+    "Maquina": "ARC160"
+  },
+  {
+    "Maquina": "ARC175"
+  },
+  {
+    "Maquina": "ARC251"
+  },
+  {
+    "Maquina": "ARCPOWER160"
+  },
+  {
+    "Maquina": "ARCPOWER200"
+  },
+  {
+    "Maquina": "ARGONCAR 202"
+  },
+  {
+    "Maquina": "ARGONCAR MIG 202"
+  },
+  {
+    "Maquina": "ASTOR200AC/DC"
+  },
+  {
+    "Maquina": "AUTOMIG 185"
+  },
+  {
+    "Maquina": "Actictig 3.2 AC/DC"
+  },
+  {
+    "Maquina": "Activtig 2.0"
+  },
+  {
+    "Maquina": "Activtig 2.0 DC"
+  },
+  {
+    "Maquina": "Activtig 3.2"
+  },
+  {
+    "Maquina": "Activtig 3.2 AC/DC"
+  },
+  {
+    "Maquina": "Airtec Microtig 322 ACDC PULSE"
+  },
+  {
+    "Maquina": "Alim.ColdwireAF45.2"
+  },
+  {
+    "Maquina": "Altig"
+  },
+  {
+    "Maquina": "Altig 2200 DC"
+  },
+  {
+    "Maquina": "Alu 200"
+  },
+  {
+    "Maquina": "Alu-Arc 1400"
+  },
+  {
+    "Maquina": "Apollo 160"
+  },
+  {
+    "Maquina": "Apollo 160 HF"
+  },
+  {
+    "Maquina": "Apollo 160 TIG"
+  },
+  {
+    "Maquina": "Apollo 160HF Pulse"
+  },
+  {
+    "Maquina": "Apollo 200"
+  },
+  {
+    "Maquina": "Apollo 200 AC/DC"
+  },
+  {
+    "Maquina": "Apollo 200 HF"
+  },
+  {
+    "Maquina": "Apollo 200 Tig"
+  },
+  {
+    "Maquina": "Apollo 200Hf Pulse"
+  },
+  {
+    "Maquina": "Apollo 210 AC/DC"
+  },
+  {
+    "Maquina": "Apollo 250"
+  },
+  {
+    "Maquina": "Apollo 250HF"
+  },
+  {
+    "Maquina": "Apollo 350 AC/DC"
+  },
+  {
+    "Maquina": "Apollo II 160"
+  },
+  {
+    "Maquina": "Apollo II 160TIG PULSE"
+  },
+  {
+    "Maquina": "Apollo II 200"
+  },
+  {
+    "Maquina": "Apollo II 200 AC/DC"
+  },
+  {
+    "Maquina": "Apollo II 200 HF"
+  },
+  {
+    "Maquina": "Apollo II 200 HF Pulse"
+  },
+  {
+    "Maquina": "Apollo II 210 AC/DC"
+  },
+  {
+    "Maquina": "Apollo II MIG 350I M"
+  },
+  {
+    "Maquina": "Apollo II TIG160"
+  },
+  {
+    "Maquina": "Apollo II tig200"
+  },
+  {
+    "Maquina": "Apollo MIG 350 IM"
+  },
+  {
+    "Maquina": "Apollo MIG 350 M"
+  },
+  {
+    "Maquina": "Apollo Monomig 250 I"
+  },
+  {
+    "Maquina": "Apollo TIG200"
+  },
+  {
+    "Maquina": "Apollo TIG200 HF"
+  },
+  {
+    "Maquina": "Apollo TP210 AC/DC"
+  },
+  {
+    "Maquina": "Arc 250"
+  },
+  {
+    "Maquina": "Arc161"
+  },
+  {
+    "Maquina": "Arco 160"
+  },
+  {
+    "Maquina": "Arcpower 180"
+  },
+  {
+    "Maquina": "Aristotig160"
+  },
+  {
+    "Maquina": "Aslo250"
+  },
+  {
+    "Maquina": "BASIC MIG 296 C"
+  },
+  {
+    "Maquina": "BERIGA 260"
+  },
+  {
+    "Maquina": "BLUEMIG 400"
+  },
+  {
+    "Maquina": "BLUEMIG 500 MTR"
+  },
+  {
+    "Maquina": "BT-GW 170"
+  },
+  {
+    "Maquina": "BT.1W 160"
+  },
+  {
+    "Maquina": "BT160"
+  },
+  {
+    "Maquina": "BUDDY ARC1 180"
+  },
+  {
+    "Maquina": "BUDY ARC 180"
+  },
+  {
+    "Maquina": "Bester 210 ND"
+  },
+  {
+    "Maquina": "Bluemig 500"
+  },
+  {
+    "Maquina": "Bricofel 200"
+  },
+  {
+    "Maquina": "Buddy ARC180"
+  },
+  {
+    "Maquina": "Buddy Tig160"
+  },
+  {
+    "Maquina": "C&A TIG250"
+  },
+  {
+    "Maquina": "C15P"
+  },
+  {
+    "Maquina": "CA MIG PULSE 303"
+  },
+  {
+    "Maquina": "CA160"
+  },
+  {
+    "Maquina": "CA180"
+  },
+  {
+    "Maquina": "CA200"
+  },
+  {
+    "Maquina": "CADDY 150"
+  },
+  {
+    "Maquina": "CADDY130"
+  },
+  {
+    "Maquina": "CATT 175"
+  },
+  {
+    "Maquina": "CB 70/500"
+  },
+  {
+    "Maquina": "CB15"
+  },
+  {
+    "Maquina": "CB20"
+  },
+  {
+    "Maquina": "CB30"
+  },
+  {
+    "Maquina": "CB50"
+  },
+  {
+    "Maquina": "CB8"
+  },
+  {
+    "Maquina": "CEMIG 250-5"
+  },
+  {
+    "Maquina": "CF MIG 240"
+  },
+  {
+    "Maquina": "CF MIG 320"
+  },
+  {
+    "Maquina": "CF MIG 330"
+  },
+  {
+    "Maquina": "CF MIG 3300"
+  },
+  {
+    "Maquina": "CF PRO MIG 375"
+  },
+  {
+    "Maquina": "CF1450"
+  },
+  {
+    "Maquina": "CF1555"
+  },
+  {
+    "Maquina": "CG30"
+  },
+  {
+    "Maquina": "CIARC 180"
+  },
+  {
+    "Maquina": "CIMAX 310"
+  },
+  {
+    "Maquina": "CIMAX 310.1"
+  },
+  {
+    "Maquina": "CIMAX 400"
+  },
+  {
+    "Maquina": "CITOARC1800hpf"
+  },
+  {
+    "Maquina": "CITOCUT 40C"
+  },
+  {
+    "Maquina": "CITOLINE 3500TS"
+  },
+  {
+    "Maquina": "CITOMIG 500 XP"
+  },
+  {
+    "Maquina": "CMIG 245S"
+  },
+  {
+    "Maquina": "COLT1300"
+  },
+  {
+    "Maquina": "COMPACT 270 T"
+  },
+  {
+    "Maquina": "COMPACT 315"
+  },
+  {
+    "Maquina": "COMPACT 325S"
+  },
+  {
+    "Maquina": "CT520"
+  },
+  {
+    "Maquina": "CUT 100"
+  },
+  {
+    "Maquina": "CUT 40 PA"
+  },
+  {
+    "Maquina": "CUT80"
+  },
+  {
+    "Maquina": "CUTWELD160"
+  },
+  {
+    "Maquina": "CV 450T"
+  },
+  {
+    "Maquina": "CV510"
+  },
+  {
+    "Maquina": "CYCLE60.20"
+  },
+  {
+    "Maquina": "Caddy 200"
+  },
+  {
+    "Maquina": "Caddy 251"
+  },
+  {
+    "Maquina": "Caddy ARC 251"
+  },
+  {
+    "Maquina": "Caddy140"
+  },
+  {
+    "Maquina": "Caddy2200i"
+  },
+  {
+    "Maquina": "CaddyLQH150"
+  },
+  {
+    "Maquina": "Castoarc 180"
+  },
+  {
+    "Maquina": "Castoarc 200"
+  },
+  {
+    "Maquina": "Castolin140"
+  },
+  {
+    "Maquina": "Ciata 160"
+  },
+  {
+    "Maquina": "Ciata 160Hf"
+  },
+  {
+    "Maquina": "Ciata 160TP"
+  },
+  {
+    "Maquina": "Ciata E160"
+  },
+  {
+    "Maquina": "Ciata E190"
+  },
+  {
+    "Maquina": "Cimomtubo DC253"
+  },
+  {
+    "Maquina": "Cimontubo"
+  },
+  {
+    "Maquina": "Cimontubo DC253"
+  },
+  {
+    "Maquina": "Cimontubo TP252"
+  },
+  {
+    "Maquina": "Cimontubo TP253"
+  },
+  {
+    "Maquina": "Circuito frontal HF"
+  },
+  {
+    "Maquina": "Citig 1500 DC"
+  },
+  {
+    "Maquina": "Citig 160"
+  },
+  {
+    "Maquina": "Citoarc 1750"
+  },
+  {
+    "Maquina": "Coldwire AF TIG Pulse"
+  },
+  {
+    "Maquina": "Colt150"
+  },
+  {
+    "Maquina": "Compact 230"
+  },
+  {
+    "Maquina": "Cott 175S"
+  },
+  {
+    "Maquina": "DC 400 CEL"
+  },
+  {
+    "Maquina": "DC 403 CEL"
+  },
+  {
+    "Maquina": "DC 503 CEL"
+  },
+  {
+    "Maquina": "DC CEL 503"
+  },
+  {
+    "Maquina": "DC-200I"
+  },
+  {
+    "Maquina": "DC140"
+  },
+  {
+    "Maquina": "DC141"
+  },
+  {
+    "Maquina": "DC160"
+  },
+  {
+    "Maquina": "DC161"
+  },
+  {
+    "Maquina": "DC161(módulo)"
+  },
+  {
+    "Maquina": "DC162"
+  },
+  {
+    "Maquina": "DC162 Pulse"
+  },
+  {
+    "Maquina": "DC162 VRD"
+  },
+  {
+    "Maquina": "DC162P"
+  },
+  {
+    "Maquina": "DC163"
+  },
+  {
+    "Maquina": "DC163 VRD"
+  },
+  {
+    "Maquina": "DC165"
+  },
+  {
+    "Maquina": "DC170"
+  },
+  {
+    "Maquina": "DC172"
+  },
+  {
+    "Maquina": "DC190"
+  },
+  {
+    "Maquina": "DC191"
+  },
+  {
+    "Maquina": "DC200"
+  },
+  {
+    "Maquina": "DC201"
+  },
+  {
+    "Maquina": "DC202"
+  },
+  {
+    "Maquina": "DC202 Pulse"
+  },
+  {
+    "Maquina": "DC202 VRD"
+  },
+  {
+    "Maquina": "DC202P"
+  },
+  {
+    "Maquina": "DC203"
+  },
+  {
+    "Maquina": "DC203 VRD"
+  },
+  {
+    "Maquina": "DC210"
+  },
+  {
+    "Maquina": "DC212"
+  },
+  {
+    "Maquina": "DC2200"
+  },
+  {
+    "Maquina": "DC221"
+  },
+  {
+    "Maquina": "DC223"
+  },
+  {
+    "Maquina": "DC230"
+  },
+  {
+    "Maquina": "DC250"
+  },
+  {
+    "Maquina": "DC252"
+  },
+  {
+    "Maquina": "DC253"
+  },
+  {
+    "Maquina": "DC320"
+  },
+  {
+    "Maquina": "DC322"
+  },
+  {
+    "Maquina": "DC403"
+  },
+  {
+    "Maquina": "DC491"
+  },
+  {
+    "Maquina": "DECAMIG 640"
+  },
+  {
+    "Maquina": "DIGIT BASIC 256 C"
+  },
+  {
+    "Maquina": "DIGIT II MIG 256 C"
+  },
+  {
+    "Maquina": "DIGIT II MIG 296 C"
+  },
+  {
+    "Maquina": "DIGIT II MIG 306 C"
+  },
+  {
+    "Maquina": "DIGIT II MIG 356 C"
+  },
+  {
+    "Maquina": "DIGIT II MIG 356 M"
+  },
+  {
+    "Maquina": "DIGIT II MIG 406 C"
+  },
+  {
+    "Maquina": "DIGIT II MIG 406 M"
+  },
+  {
+    "Maquina": "DIGIT II MIG 406 WM"
+  },
+  {
+    "Maquina": "DIGIT II MIG 506 WM"
+  },
+  {
+    "Maquina": "DIGIT II MIG 656 WM"
+  },
+  {
+    "Maquina": "DIGIT MIG 256 C"
+  },
+  {
+    "Maquina": "DIGIT MIG 296 C"
+  },
+  {
+    "Maquina": "DIGIT MIG 306 C"
+  },
+  {
+    "Maquina": "DIGIT MIG 356 C"
+  },
+  {
+    "Maquina": "DIGIT MIG 406 C"
+  },
+  {
+    "Maquina": "DIGIT MIG 406 M"
+  },
+  {
+    "Maquina": "DIGIT MIG 406 WM"
+  },
+  {
+    "Maquina": "DIGIT MIG 506 WM"
+  },
+  {
+    "Maquina": "DIGIT PLUS 356 M"
+  },
+  {
+    "Maquina": "DIGIT PLUS MIG 406 M"
+  },
+  {
+    "Maquina": "DIGIT PLUS MIG 406 WM"
+  },
+  {
+    "Maquina": "DIGIT PLUS MIG 506 M"
+  },
+  {
+    "Maquina": "DIGIT PLUS MIG 506 WM"
+  },
+  {
+    "Maquina": "Digimig 215 Dualpulse"
+  },
+  {
+    "Maquina": "Discovery 280"
+  },
+  {
+    "Maquina": "Discovery 280 AC/DC"
+  },
+  {
+    "Maquina": "Discovery150TP"
+  },
+  {
+    "Maquina": "E 160 DC"
+  },
+  {
+    "Maquina": "E 160 TP"
+  },
+  {
+    "Maquina": "E 160 TP Pulse"
+  },
+  {
+    "Maquina": "E 160TIG"
+  },
+  {
+    "Maquina": "E 200HF"
+  },
+  {
+    "Maquina": "E 230 HF Pulse"
+  },
+  {
+    "Maquina": "E-1000 Hiprotig"
+  },
+  {
+    "Maquina": "E-300 TIG Pulse"
+  },
+  {
+    "Maquina": "E106 TIG PULSE"
+  },
+  {
+    "Maquina": "E135"
+  },
+  {
+    "Maquina": "E140"
+  },
+  {
+    "Maquina": "E140(módulo)"
+  },
+  {
+    "Maquina": "E141"
+  },
+  {
+    "Maquina": "E1500Pro"
+  },
+  {
+    "Maquina": "E160"
+  },
+  {
+    "Maquina": "E160 CUTWELD"
+  },
+  {
+    "Maquina": "E160 HF"
+  },
+  {
+    "Maquina": "E160 HF Pulse"
+  },
+  {
+    "Maquina": "E160 HFP"
+  },
+  {
+    "Maquina": "E160 Pulse"
+  },
+  {
+    "Maquina": "E160 TIG P"
+  },
+  {
+    "Maquina": "E160 TIG Pulse"
+  },
+  {
+    "Maquina": "E160(módulo)"
+  },
+  {
+    "Maquina": "E160HF(módulo)"
+  },
+  {
+    "Maquina": "E160HFTP"
+  },
+  {
+    "Maquina": "E161"
+  },
+  {
+    "Maquina": "E161 HF"
+  },
+  {
+    "Maquina": "E161DC"
+  },
+  {
+    "Maquina": "E161TP"
+  },
+  {
+    "Maquina": "E162TP"
+  },
+  {
+    "Maquina": "E16HF"
+  },
+  {
+    "Maquina": "E1800Pro"
+  },
+  {
+    "Maquina": "E1800Pro(módulo)"
+  },
+  {
+    "Maquina": "E190"
+  },
+  {
+    "Maquina": "E190 DC"
+  },
+  {
+    "Maquina": "E190 HF"
+  },
+  {
+    "Maquina": "E190 HF Pulse"
+  },
+  {
+    "Maquina": "E190(módulo)"
+  },
+  {
+    "Maquina": "E1901"
+  },
+  {
+    "Maquina": "E190F"
+  },
+  {
+    "Maquina": "E190HF P"
+  },
+  {
+    "Maquina": "E190HF(módulo)"
+  },
+  {
+    "Maquina": "E190TP"
+  },
+  {
+    "Maquina": "E191"
+  },
+  {
+    "Maquina": "E1910HF"
+  },
+  {
+    "Maquina": "E191DC"
+  },
+  {
+    "Maquina": "E1960"
+  },
+  {
+    "Maquina": "E200"
+  },
+  {
+    "Maquina": "E200 AC/DC"
+  },
+  {
+    "Maquina": "E200 DC"
+  },
+  {
+    "Maquina": "E200AC/DCPULSE"
+  },
+  {
+    "Maquina": "E200CD"
+  },
+  {
+    "Maquina": "E203 HF"
+  },
+  {
+    "Maquina": "E210DC"
+  },
+  {
+    "Maquina": "E220"
+  },
+  {
+    "Maquina": "E220 AC/DC"
+  },
+  {
+    "Maquina": "E221HF"
+  },
+  {
+    "Maquina": "E221TP"
+  },
+  {
+    "Maquina": "E230"
+  },
+  {
+    "Maquina": "E230  HF Puls"
+  },
+  {
+    "Maquina": "E230 DC"
+  },
+  {
+    "Maquina": "E230 HF"
+  },
+  {
+    "Maquina": "E230 HFP"
+  },
+  {
+    "Maquina": "E230 Pulse"
+  },
+  {
+    "Maquina": "E230 TIG P"
+  },
+  {
+    "Maquina": "E230 TIG Pulse"
+  },
+  {
+    "Maquina": "E230 TP"
+  },
+  {
+    "Maquina": "E230(módulo)"
+  },
+  {
+    "Maquina": "E230HF(módulo)"
+  },
+  {
+    "Maquina": "E230HFTP"
+  },
+  {
+    "Maquina": "E230PTP"
+  },
+  {
+    "Maquina": "E231"
+  },
+  {
+    "Maquina": "E231HF"
+  },
+  {
+    "Maquina": "E240 HF"
+  },
+  {
+    "Maquina": "E25"
+  },
+  {
+    "Maquina": "E300"
+  },
+  {
+    "Maquina": "E300 AC/DC"
+  },
+  {
+    "Maquina": "E300 AC/DC Pulse"
+  },
+  {
+    "Maquina": "E300 AC/DC W"
+  },
+  {
+    "Maquina": "E300 TP"
+  },
+  {
+    "Maquina": "E300ACDCTP"
+  },
+  {
+    "Maquina": "E301TP"
+  },
+  {
+    "Maquina": "E302AC/DC"
+  },
+  {
+    "Maquina": "E315ACDC com rodas"
+  },
+  {
+    "Maquina": "E320 AC/DC"
+  },
+  {
+    "Maquina": "E322AC/DC"
+  },
+  {
+    "Maquina": "E35"
+  },
+  {
+    "Maquina": "E350AC/DC"
+  },
+  {
+    "Maquina": "EASY 131"
+  },
+  {
+    "Maquina": "ECO 160"
+  },
+  {
+    "Maquina": "ECO 200"
+  },
+  {
+    "Maquina": "ECO 200 D"
+  },
+  {
+    "Maquina": "ECO TIG 200"
+  },
+  {
+    "Maquina": "ECO W160"
+  },
+  {
+    "Maquina": "ECO W200"
+  },
+  {
+    "Maquina": "ECO200DC"
+  },
+  {
+    "Maquina": "ECOMIG 245"
+  },
+  {
+    "Maquina": "ECTIG"
+  },
+  {
+    "Maquina": "ELARCO RT 500"
+  },
+  {
+    "Maquina": "ELD&CUT160"
+  },
+  {
+    "Maquina": "ELECTRA 170"
+  },
+  {
+    "Maquina": "ELECTRA 250"
+  },
+  {
+    "Maquina": "ELECTRA MIG 250"
+  },
+  {
+    "Maquina": "ELECTREX FRIGOMIX S3 M FH"
+  },
+  {
+    "Maquina": "ELECTREX MIG 506WM"
+  },
+  {
+    "Maquina": "ELECTRO 350"
+  },
+  {
+    "Maquina": "ELEKTRO 160"
+  },
+  {
+    "Maquina": "ELEKTRO 160V"
+  },
+  {
+    "Maquina": "ELEKTROTIG150"
+  },
+  {
+    "Maquina": "ELEKTROTIG160"
+  },
+  {
+    "Maquina": "ELEKTROTIG200"
+  },
+  {
+    "Maquina": "ELEKTROTIG300"
+  },
+  {
+    "Maquina": "ELEKTROTIG300AC/DC"
+  },
+  {
+    "Maquina": "ELTo131"
+  },
+  {
+    "Maquina": "EP MAXI 470"
+  },
+  {
+    "Maquina": "EP SYSTEM 150"
+  },
+  {
+    "Maquina": "ER160TP"
+  },
+  {
+    "Maquina": "ESAB LHN140"
+  },
+  {
+    "Maquina": "ESAB130"
+  },
+  {
+    "Maquina": "ETIG160TP"
+  },
+  {
+    "Maquina": "ETP203"
+  },
+  {
+    "Maquina": "ETP301"
+  },
+  {
+    "Maquina": "EUROFIL 250"
+  },
+  {
+    "Maquina": "EUROFIL 300"
+  },
+  {
+    "Maquina": "EUROFIL 302"
+  },
+  {
+    "Maquina": "EUROMIG 180"
+  },
+  {
+    "Maquina": "EUROMIG 252 C"
+  },
+  {
+    "Maquina": "EUROMIG 304 C"
+  },
+  {
+    "Maquina": "EUROMIG 354"
+  },
+  {
+    "Maquina": "EUROMIG 354 C"
+  },
+  {
+    "Maquina": "EUROMIG 404 C"
+  },
+  {
+    "Maquina": "EUROMIG 404 M"
+  },
+  {
+    "Maquina": "EUROMIG 404 MW"
+  },
+  {
+    "Maquina": "EUROMIG 504 M SYN"
+  },
+  {
+    "Maquina": "EUROMIG 504 WM"
+  },
+  {
+    "Maquina": "EUROSER 1000 E"
+  },
+  {
+    "Maquina": "EUROSER 500M"
+  },
+  {
+    "Maquina": "EUROTROD 404M"
+  },
+  {
+    "Maquina": "EVO200"
+  },
+  {
+    "Maquina": "EWI 160 T"
+  },
+  {
+    "Maquina": "EWI275"
+  },
+  {
+    "Maquina": "EWM TRITON 260"
+  },
+  {
+    "Maquina": "EXTRAWELD 314"
+  },
+  {
+    "Maquina": "Eburon C35 - CUT 103"
+  },
+  {
+    "Maquina": "Eburon PLASMA C-15 1F"
+  },
+  {
+    "Maquina": "Eburon PLASMA C-15 1F (SM CUT 43)"
+  },
+  {
+    "Maquina": "Eco 140"
+  },
+  {
+    "Maquina": "Ecotig 160"
+  },
+  {
+    "Maquina": "Eektrosta150(modulo)"
+  },
+  {
+    "Maquina": "Electotig 160"
+  },
+  {
+    "Maquina": "Electrex"
+  },
+  {
+    "Maquina": "Electritig300AC/DC"
+  },
+  {
+    "Maquina": "Electro 130"
+  },
+  {
+    "Maquina": "Electro 140"
+  },
+  {
+    "Maquina": "Electro 150"
+  },
+  {
+    "Maquina": "Electro 160"
+  },
+  {
+    "Maquina": "Electro 160V"
+  },
+  {
+    "Maquina": "Electro140modulo"
+  },
+  {
+    "Maquina": "Electrotig 150"
+  },
+  {
+    "Maquina": "Electrotig 160"
+  },
+  {
+    "Maquina": "Electrotig 300 AC/DC"
+  },
+  {
+    "Maquina": "Electrotig200"
+  },
+  {
+    "Maquina": "Electrotig200ACDC"
+  },
+  {
+    "Maquina": "Electrotig300"
+  },
+  {
+    "Maquina": "Elektra Beckum 160"
+  },
+  {
+    "Maquina": "Elektro 150(modulo)"
+  },
+  {
+    "Maquina": "Elektro130"
+  },
+  {
+    "Maquina": "Elektro140"
+  },
+  {
+    "Maquina": "Elektro150"
+  },
+  {
+    "Maquina": "Elektro200"
+  },
+  {
+    "Maquina": "Elektrocoup 80I"
+  },
+  {
+    "Maquina": "Elektromig 285 CD"
+  },
+  {
+    "Maquina": "Elektrosta 200 AC/DC"
+  },
+  {
+    "Maquina": "Elektrosta150(modulo)"
+  },
+  {
+    "Maquina": "Elettro tig 1650"
+  },
+  {
+    "Maquina": "Ergoline Mig 200"
+  },
+  {
+    "Maquina": "Eurofil 252"
+  },
+  {
+    "Maquina": "Euroser 1000"
+  },
+  {
+    "Maquina": "Eurotrod 200"
+  },
+  {
+    "Maquina": "Eurotrod 200 HF"
+  },
+  {
+    "Maquina": "Eurotrod MIG 350IM"
+  },
+  {
+    "Maquina": "FERR1600"
+  },
+  {
+    "Maquina": "FILCORD 303"
+  },
+  {
+    "Maquina": "FLASH145"
+  },
+  {
+    "Maquina": "FLASH165"
+  },
+  {
+    "Maquina": "FLASH35"
+  },
+  {
+    "Maquina": "FRIGOMIX"
+  },
+  {
+    "Maquina": "FRIGOMIX 6"
+  },
+  {
+    "Maquina": "FRIGOMIX S3 CH"
+  },
+  {
+    "Maquina": "FRIGOMIX SC3"
+  },
+  {
+    "Maquina": "FRO160"
+  },
+  {
+    "Maquina": "Fabricom 231 HF"
+  },
+  {
+    "Maquina": "Fabricom HF231"
+  },
+  {
+    "Maquina": "Fastmig 400"
+  },
+  {
+    "Maquina": "Ferr2000"
+  },
+  {
+    "Maquina": "Fhoenix 355 Pro"
+  },
+  {
+    "Maquina": "Fimig 366S"
+  },
+  {
+    "Maquina": "Fitig 400 AC/DC"
+  },
+  {
+    "Maquina": "Fitig 406 Puls DC"
+  },
+  {
+    "Maquina": "FlashCB30"
+  },
+  {
+    "Maquina": "FlashCB50"
+  },
+  {
+    "Maquina": "Focus stick 160E PFC"
+  },
+  {
+    "Maquina": "Frabicom TP203.2"
+  },
+  {
+    "Maquina": "Frigomix 5"
+  },
+  {
+    "Maquina": "Frigomix 53C"
+  },
+  {
+    "Maquina": "Frigomix 53C 230"
+  },
+  {
+    "Maquina": "Frigomix 6 V"
+  },
+  {
+    "Maquina": "Frigomix S3"
+  },
+  {
+    "Maquina": "Frigomix S3 230"
+  },
+  {
+    "Maquina": "Frigomix S3 C"
+  },
+  {
+    "Maquina": "Frigomix S3 THI"
+  },
+  {
+    "Maquina": "Frigomix S3 V"
+  },
+  {
+    "Maquina": "Frigomix S3M"
+  },
+  {
+    "Maquina": "Frigoweld"
+  },
+  {
+    "Maquina": "G. Actual 400E W"
+  },
+  {
+    "Maquina": "GALA MIG 3007"
+  },
+  {
+    "Maquina": "GALA MIG 4007"
+  },
+  {
+    "Maquina": "GALAMIG 500"
+  },
+  {
+    "Maquina": "GALILEO175"
+  },
+  {
+    "Maquina": "GENESIS 140"
+  },
+  {
+    "Maquina": "GENESIS 260 AC DC"
+  },
+  {
+    "Maquina": "GYS TIG 160HF"
+  },
+  {
+    "Maquina": "GYS164"
+  },
+  {
+    "Maquina": "GYS3200"
+  },
+  {
+    "Maquina": "Galileo 215"
+  },
+  {
+    "Maquina": "Genera 150LA"
+  },
+  {
+    "Maquina": "Genera170"
+  },
+  {
+    "Maquina": "Gladius 40"
+  },
+  {
+    "Maquina": "Gys165"
+  },
+  {
+    "Maquina": "Gys2500"
+  },
+  {
+    "Maquina": "Gysmi164"
+  },
+  {
+    "Maquina": "H2M10"
+  },
+  {
+    "Maquina": "H2M16"
+  },
+  {
+    "Maquina": "H320"
+  },
+  {
+    "Maquina": "HF 161"
+  },
+  {
+    "Maquina": "HF 191"
+  },
+  {
+    "Maquina": "HF 201"
+  },
+  {
+    "Maquina": "HF 221"
+  },
+  {
+    "Maquina": "HF 231"
+  },
+  {
+    "Maquina": "HF E230"
+  },
+  {
+    "Maquina": "HF160"
+  },
+  {
+    "Maquina": "HF162"
+  },
+  {
+    "Maquina": "HF190"
+  },
+  {
+    "Maquina": "HF191(módulo)"
+  },
+  {
+    "Maquina": "HF200Pulse"
+  },
+  {
+    "Maquina": "HF202"
+  },
+  {
+    "Maquina": "HF230"
+  },
+  {
+    "Maquina": "HOBBY140"
+  },
+  {
+    "Maquina": "HT150"
+  },
+  {
+    "Maquina": "Handy tig 180 AC/DC"
+  },
+  {
+    "Maquina": "Handycut40HF"
+  },
+  {
+    "Maquina": "Hiprotig 1000"
+  },
+  {
+    "Maquina": "Hobby161"
+  },
+  {
+    "Maquina": "IGBT-N300"
+  },
+  {
+    "Maquina": "INVERTEC MIG STT"
+  },
+  {
+    "Maquina": "INVERTEC V270"
+  },
+  {
+    "Maquina": "IWELD 200M"
+  },
+  {
+    "Maquina": "Icon 1880 HF"
+  },
+  {
+    "Maquina": "Icon1850"
+  },
+  {
+    "Maquina": "Infinity 220"
+  },
+  {
+    "Maquina": "Inverprotek"
+  },
+  {
+    "Maquina": "Invert 160"
+  },
+  {
+    "Maquina": "Invertec 150S"
+  },
+  {
+    "Maquina": "Invertek 160"
+  },
+  {
+    "Maquina": "Invertig Pro 240"
+  },
+  {
+    "Maquina": "Irin 65"
+  },
+  {
+    "Maquina": "JOLLY MIG 303"
+  },
+  {
+    "Maquina": "JUNIOR MIG 203"
+  },
+  {
+    "Maquina": "Jasic160"
+  },
+  {
+    "Maquina": "KIT 285"
+  },
+  {
+    "Maquina": "KIT 305"
+  },
+  {
+    "Maquina": "KIT 350"
+  },
+  {
+    "Maquina": "KIT 405"
+  },
+  {
+    "Maquina": "KIT 500"
+  },
+  {
+    "Maquina": "Kempomat 3200"
+  },
+  {
+    "Maquina": "Kemppi150"
+  },
+  {
+    "Maquina": "LAW 520 W"
+  },
+  {
+    "Maquina": "LHF 500"
+  },
+  {
+    "Maquina": "LHL315"
+  },
+  {
+    "Maquina": "LHN140"
+  },
+  {
+    "Maquina": "LHN200"
+  },
+  {
+    "Maquina": "LHQ150"
+  },
+  {
+    "Maquina": "LIFT162"
+  },
+  {
+    "Maquina": "LKB 265"
+  },
+  {
+    "Maquina": "LKB-400 W"
+  },
+  {
+    "Maquina": "LKB320"
+  },
+  {
+    "Maquina": "LTRONIC 556 WM"
+  },
+  {
+    "Maquina": "LTRONIC MIG 356 M"
+  },
+  {
+    "Maquina": "LTRONIC MIG 456 M"
+  },
+  {
+    "Maquina": "LTRONIC MIG 456 WM"
+  },
+  {
+    "Maquina": "LTRONIC MIG 556 M"
+  },
+  {
+    "Maquina": "LTRONIC MIG 556 WM"
+  },
+  {
+    "Maquina": "LUFTARC150"
+  },
+  {
+    "Maquina": "Liberador 1400 GE K"
+  },
+  {
+    "Maquina": "Lincoln V-270"
+  },
+  {
+    "Maquina": "Lincolntig200"
+  },
+  {
+    "Maquina": "Lobus 211"
+  },
+  {
+    "Maquina": "Ltronic 456 MW"
+  },
+  {
+    "Maquina": "M150"
+  },
+  {
+    "Maquina": "M3000 K"
+  },
+  {
+    "Maquina": "M352 KW"
+  },
+  {
+    "Maquina": "MASTER 2800"
+  },
+  {
+    "Maquina": "MASTERMIG 270"
+  },
+  {
+    "Maquina": "MASTERMIG 270/2"
+  },
+  {
+    "Maquina": "MASTERMIG 400"
+  },
+  {
+    "Maquina": "MASTROMIG 270 T"
+  },
+  {
+    "Maquina": "MAX160"
+  },
+  {
+    "Maquina": "MAXI 405"
+  },
+  {
+    "Maquina": "MAXI MIG 370"
+  },
+  {
+    "Maquina": "MAXIARC"
+  },
+  {
+    "Maquina": "MAXIMIG 250"
+  },
+  {
+    "Maquina": "MAXIMIG 285"
+  },
+  {
+    "Maquina": "MAXIMIG 288"
+  },
+  {
+    "Maquina": "MAXIMIG 303"
+  },
+  {
+    "Maquina": "MAXMIG 180"
+  },
+  {
+    "Maquina": "MAXMIG 203"
+  },
+  {
+    "Maquina": "MAXMIG 288"
+  },
+  {
+    "Maquina": "MAXMIG 303"
+  },
+  {
+    "Maquina": "MB 160"
+  },
+  {
+    "Maquina": "MB 170"
+  },
+  {
+    "Maquina": "MB 210"
+  },
+  {
+    "Maquina": "MICRITIG202AC/DC"
+  },
+  {
+    "Maquina": "MICRO152"
+  },
+  {
+    "Maquina": "MICROTIG AC/DC202P"
+  },
+  {
+    "Maquina": "MIF 303 C"
+  },
+  {
+    "Maquina": "MIG"
+  },
+  {
+    "Maquina": "MIG  C"
+  },
+  {
+    "Maquina": "MIG 155/6W"
+  },
+  {
+    "Maquina": "MIG 160"
+  },
+  {
+    "Maquina": "MIG 176"
+  },
+  {
+    "Maquina": "MIG 180/2"
+  },
+  {
+    "Maquina": "MIG 193"
+  },
+  {
+    "Maquina": "MIG 200"
+  },
+  {
+    "Maquina": "MIG 200 COMPACT"
+  },
+  {
+    "Maquina": "MIG 200 F"
+  },
+  {
+    "Maquina": "MIG 201"
+  },
+  {
+    "Maquina": "MIG 202"
+  },
+  {
+    "Maquina": "MIG 202 C"
+  },
+  {
+    "Maquina": "MIG 203"
+  },
+  {
+    "Maquina": "MIG 203 C"
+  },
+  {
+    "Maquina": "MIG 203/2"
+  },
+  {
+    "Maquina": "MIG 203B"
+  },
+  {
+    "Maquina": "MIG 204"
+  },
+  {
+    "Maquina": "MIG 204 C"
+  },
+  {
+    "Maquina": "MIG 215"
+  },
+  {
+    "Maquina": "MIG 215 C"
+  },
+  {
+    "Maquina": "MIG 220"
+  },
+  {
+    "Maquina": "MIG 225"
+  },
+  {
+    "Maquina": "MIG 230"
+  },
+  {
+    "Maquina": "MIG 234"
+  },
+  {
+    "Maquina": "MIG 234 C"
+  },
+  {
+    "Maquina": "MIG 235"
+  },
+  {
+    "Maquina": "MIG 236"
+  },
+  {
+    "Maquina": "MIG 240"
+  },
+  {
+    "Maquina": "MIG 245"
+  },
+  {
+    "Maquina": "MIG 250"
+  },
+  {
+    "Maquina": "MIG 250 BL"
+  },
+  {
+    "Maquina": "MIG 250 K"
+  },
+  {
+    "Maquina": "MIG 250/3"
+  },
+  {
+    "Maquina": "MIG 251 C"
+  },
+  {
+    "Maquina": "MIG 253"
+  },
+  {
+    "Maquina": "MIG 253 C"
+  },
+  {
+    "Maquina": "MIG 256"
+  },
+  {
+    "Maquina": "MIG 256 C SYN"
+  },
+  {
+    "Maquina": "MIG 256 SYN"
+  },
+  {
+    "Maquina": "MIG 256C"
+  },
+  {
+    "Maquina": "MIG 260"
+  },
+  {
+    "Maquina": "MIG 260/mb"
+  },
+  {
+    "Maquina": "MIG 261"
+  },
+  {
+    "Maquina": "MIG 262"
+  },
+  {
+    "Maquina": "MIG 262 C"
+  },
+  {
+    "Maquina": "MIG 263"
+  },
+  {
+    "Maquina": "MIG 263 C"
+  },
+  {
+    "Maquina": "MIG 263B"
+  },
+  {
+    "Maquina": "MIG 263B C"
+  },
+  {
+    "Maquina": "MIG 270 T"
+  },
+  {
+    "Maquina": "MIG 280 BL"
+  },
+  {
+    "Maquina": "MIG 284"
+  },
+  {
+    "Maquina": "MIG 284 C"
+  },
+  {
+    "Maquina": "MIG 290"
+  },
+  {
+    "Maquina": "MIG 295"
+  },
+  {
+    "Maquina": "MIG 295 C"
+  },
+  {
+    "Maquina": "MIG 296 C DIGIT II"
+  },
+  {
+    "Maquina": "MIG 30"
+  },
+  {
+    "Maquina": "MIG 300"
+  },
+  {
+    "Maquina": "MIG 300 mb"
+  },
+  {
+    "Maquina": "MIG 300/AI"
+  },
+  {
+    "Maquina": "MIG 300/T2"
+  },
+  {
+    "Maquina": "MIG 3000 K"
+  },
+  {
+    "Maquina": "MIG 300GN"
+  },
+  {
+    "Maquina": "MIG 301"
+  },
+  {
+    "Maquina": "MIG 301 C"
+  },
+  {
+    "Maquina": "MIG 302"
+  },
+  {
+    "Maquina": "MIG 302 C"
+  },
+  {
+    "Maquina": "MIG 303"
+  },
+  {
+    "Maquina": "MIG 303 B"
+  },
+  {
+    "Maquina": "MIG 303 B MOD"
+  },
+  {
+    "Maquina": "MIG 303 C"
+  },
+  {
+    "Maquina": "MIG 303 C DUO"
+  },
+  {
+    "Maquina": "MIG 303 COMPACT"
+  },
+  {
+    "Maquina": "MIG 303 CW"
+  },
+  {
+    "Maquina": "MIG 303 CW Multibasic"
+  },
+  {
+    "Maquina": "MIG 303 CW Multipulse"
+  },
+  {
+    "Maquina": "MIG 303 M"
+  },
+  {
+    "Maquina": "MIG 303 M Multibasic"
+  },
+  {
+    "Maquina": "MIG 303 MOD"
+  },
+  {
+    "Maquina": "MIG 303 MW Multipulse"
+  },
+  {
+    "Maquina": "MIG 303 Multipulse"
+  },
+  {
+    "Maquina": "MIG 303 WM Multipulse"
+  },
+  {
+    "Maquina": "MIG 303B C"
+  },
+  {
+    "Maquina": "MIG 303B M"
+  },
+  {
+    "Maquina": "MIG 303C Multibasic"
+  },
+  {
+    "Maquina": "MIG 303C Multipulse"
+  },
+  {
+    "Maquina": "MIG 303C Pulse"
+  },
+  {
+    "Maquina": "MIG 303M Multipulse"
+  },
+  {
+    "Maquina": "MIG 304"
+  },
+  {
+    "Maquina": "MIG 304 C"
+  },
+  {
+    "Maquina": "MIG 304 M"
+  },
+  {
+    "Maquina": "MIG 3040"
+  },
+  {
+    "Maquina": "MIG 304B C"
+  },
+  {
+    "Maquina": "MIG 305"
+  },
+  {
+    "Maquina": "MIG 305 C"
+  },
+  {
+    "Maquina": "MIG 305 MOD"
+  },
+  {
+    "Maquina": "MIG 305S"
+  },
+  {
+    "Maquina": "MIG 306 AI"
+  },
+  {
+    "Maquina": "MIG 306 C"
+  },
+  {
+    "Maquina": "MIG 31"
+  },
+  {
+    "Maquina": "MIG 31.2"
+  },
+  {
+    "Maquina": "MIG 310"
+  },
+  {
+    "Maquina": "MIG 315"
+  },
+  {
+    "Maquina": "MIG 320"
+  },
+  {
+    "Maquina": "MIG 320 C"
+  },
+  {
+    "Maquina": "MIG 3200"
+  },
+  {
+    "Maquina": "MIG 340 BC"
+  },
+  {
+    "Maquina": "MIG 348"
+  },
+  {
+    "Maquina": "MIG 35"
+  },
+  {
+    "Maquina": "MIG 35.2"
+  },
+  {
+    "Maquina": "MIG 350"
+  },
+  {
+    "Maquina": "MIG 350 C"
+  },
+  {
+    "Maquina": "MIG 350 M"
+  },
+  {
+    "Maquina": "MIG 350I"
+  },
+  {
+    "Maquina": "MIG 351"
+  },
+  {
+    "Maquina": "MIG 351 D"
+  },
+  {
+    "Maquina": "MIG 352 C"
+  },
+  {
+    "Maquina": "MIG 353"
+  },
+  {
+    "Maquina": "MIG 353 C"
+  },
+  {
+    "Maquina": "MIG 353 ELECTRONIC"
+  },
+  {
+    "Maquina": "MIG 353 M"
+  },
+  {
+    "Maquina": "MIG 353 MOD"
+  },
+  {
+    "Maquina": "MIG 353B"
+  },
+  {
+    "Maquina": "MIG 353B C"
+  },
+  {
+    "Maquina": "MIG 353B C DUO"
+  },
+  {
+    "Maquina": "MIG 353B M"
+  },
+  {
+    "Maquina": "MIG 353B MOD"
+  },
+  {
+    "Maquina": "MIG 354"
+  },
+  {
+    "Maquina": "MIG 354 C"
+  },
+  {
+    "Maquina": "MIG 354 M"
+  },
+  {
+    "Maquina": "MIG 354 MOD"
+  },
+  {
+    "Maquina": "MIG 354B C"
+  },
+  {
+    "Maquina": "MIG 355"
+  },
+  {
+    "Maquina": "MIG 355 C"
+  },
+  {
+    "Maquina": "MIG 355 M"
+  },
+  {
+    "Maquina": "MIG 355 MOD"
+  },
+  {
+    "Maquina": "MIG 356 AI"
+  },
+  {
+    "Maquina": "MIG 356 C"
+  },
+  {
+    "Maquina": "MIG 356 M"
+  },
+  {
+    "Maquina": "MIG 356 M DIGIT PLUS"
+  },
+  {
+    "Maquina": "MIG 356 MOD"
+  },
+  {
+    "Maquina": "MIG 356 MW LTRONIC"
+  },
+  {
+    "Maquina": "MIG 356 mb"
+  },
+  {
+    "Maquina": "MIG 395 EW"
+  },
+  {
+    "Maquina": "MIG 40.20"
+  },
+  {
+    "Maquina": "MIG 400 BL"
+  },
+  {
+    "Maquina": "MIG 400 C"
+  },
+  {
+    "Maquina": "MIG 400 DBL"
+  },
+  {
+    "Maquina": "MIG 400 M"
+  },
+  {
+    "Maquina": "MIG 400 MOD"
+  },
+  {
+    "Maquina": "MIG 400 P"
+  },
+  {
+    "Maquina": "MIG 4007"
+  },
+  {
+    "Maquina": "MIG 400E ACTUAL"
+  },
+  {
+    "Maquina": "MIG 403 CW Multibasic"
+  },
+  {
+    "Maquina": "MIG 403 M multibasic"
+  },
+  {
+    "Maquina": "MIG 403 MW"
+  },
+  {
+    "Maquina": "MIG 403 MW Multibasic"
+  },
+  {
+    "Maquina": "MIG 403 WM Multibasic"
+  },
+  {
+    "Maquina": "MIG 403C"
+  },
+  {
+    "Maquina": "MIG 403C Multibasic"
+  },
+  {
+    "Maquina": "MIG 403WM Multipulse"
+  },
+  {
+    "Maquina": "MIG 404 M"
+  },
+  {
+    "Maquina": "MIG 404 MW"
+  },
+  {
+    "Maquina": "MIG 404 WM SYN"
+  },
+  {
+    "Maquina": "MIG 405"
+  },
+  {
+    "Maquina": "MIG 405 C"
+  },
+  {
+    "Maquina": "MIG 405 COMPACT"
+  },
+  {
+    "Maquina": "MIG 405 M"
+  },
+  {
+    "Maquina": "MIG 405 MOD"
+  },
+  {
+    "Maquina": "MIG 405 WM"
+  },
+  {
+    "Maquina": "MIG 406"
+  },
+  {
+    "Maquina": "MIG 406 C DIGIT"
+  },
+  {
+    "Maquina": "MIG 406 C DIGIT II"
+  },
+  {
+    "Maquina": "MIG 406 M"
+  },
+  {
+    "Maquina": "MIG 406 M DIGIT"
+  },
+  {
+    "Maquina": "MIG 406 M DIGIT II"
+  },
+  {
+    "Maquina": "MIG 406 MW"
+  },
+  {
+    "Maquina": "MIG 406 MW SYN"
+  },
+  {
+    "Maquina": "MIG 406 WM"
+  },
+  {
+    "Maquina": "MIG 406 WM SYN"
+  },
+  {
+    "Maquina": "MIG 406C"
+  },
+  {
+    "Maquina": "MIG 406C SYN"
+  },
+  {
+    "Maquina": "MIG 406W Multibasic"
+  },
+  {
+    "Maquina": "MIG 420"
+  },
+  {
+    "Maquina": "MIG 425"
+  },
+  {
+    "Maquina": "MIG 45"
+  },
+  {
+    "Maquina": "MIG 45.2"
+  },
+  {
+    "Maquina": "MIG 453"
+  },
+  {
+    "Maquina": "MIG 453 B"
+  },
+  {
+    "Maquina": "MIG 453 M"
+  },
+  {
+    "Maquina": "MIG 453 MOD"
+  },
+  {
+    "Maquina": "MIG 453 MW"
+  },
+  {
+    "Maquina": "MIG 453 PULSE"
+  },
+  {
+    "Maquina": "MIG 453B M"
+  },
+  {
+    "Maquina": "MIG 453B MOD"
+  },
+  {
+    "Maquina": "MIG 453B Modular"
+  },
+  {
+    "Maquina": "MIG 453B WM"
+  },
+  {
+    "Maquina": "MIG 454 M"
+  },
+  {
+    "Maquina": "MIG 454 MOD"
+  },
+  {
+    "Maquina": "MIG 454 MW"
+  },
+  {
+    "Maquina": "MIG 454 WM"
+  },
+  {
+    "Maquina": "MIG 500 SYN"
+  },
+  {
+    "Maquina": "MIG 5002 SYN"
+  },
+  {
+    "Maquina": "MIG 500I"
+  },
+  {
+    "Maquina": "MIG 503 CW"
+  },
+  {
+    "Maquina": "MIG 503 MW Multibasic"
+  },
+  {
+    "Maquina": "MIG 503 WM Multibasic"
+  },
+  {
+    "Maquina": "MIG 503CW Multibasic"
+  },
+  {
+    "Maquina": "MIG 503M Multibasic"
+  },
+  {
+    "Maquina": "MIG 504 WM"
+  },
+  {
+    "Maquina": "MIG 505"
+  },
+  {
+    "Maquina": "MIG 505 MOD"
+  },
+  {
+    "Maquina": "MIG 505 MW"
+  },
+  {
+    "Maquina": "MIG 505 WM"
+  },
+  {
+    "Maquina": "MIG 505M"
+  },
+  {
+    "Maquina": "MIG 505S"
+  },
+  {
+    "Maquina": "MIG 505W"
+  },
+  {
+    "Maquina": "MIG 506"
+  },
+  {
+    "Maquina": "MIG 506 M"
+  },
+  {
+    "Maquina": "MIG 506 WM"
+  },
+  {
+    "Maquina": "MIG 506 WM DIGIT"
+  },
+  {
+    "Maquina": "MIG 506 WM SYN"
+  },
+  {
+    "Maquina": "MIG 551"
+  },
+  {
+    "Maquina": "MIG 556 M LTRONIC"
+  },
+  {
+    "Maquina": "MIG 556 MW Ltronic"
+  },
+  {
+    "Maquina": "MIG 556 WM"
+  },
+  {
+    "Maquina": "MIG 556 WM LTR"
+  },
+  {
+    "Maquina": "MIG 600 S"
+  },
+  {
+    "Maquina": "MIG 603 M"
+  },
+  {
+    "Maquina": "MIG 603 M (352)"
+  },
+  {
+    "Maquina": "MIG 603 MOD"
+  },
+  {
+    "Maquina": "MIG 603 WM"
+  },
+  {
+    "Maquina": "MIG 603B"
+  },
+  {
+    "Maquina": "MIG 603B MOD"
+  },
+  {
+    "Maquina": "MIG 604 MOD"
+  },
+  {
+    "Maquina": "MIG 604 MW"
+  },
+  {
+    "Maquina": "MIG 604 WM"
+  },
+  {
+    "Maquina": "MIG 605 M"
+  },
+  {
+    "Maquina": "MIG 655"
+  },
+  {
+    "Maquina": "MIG 655 WM"
+  },
+  {
+    "Maquina": "MIG 656"
+  },
+  {
+    "Maquina": "MIG 656 WM"
+  },
+  {
+    "Maquina": "MIG ACTUAL 46/4R"
+  },
+  {
+    "Maquina": "MIG Actual 400E"
+  },
+  {
+    "Maquina": "MIG BASIC 303 M"
+  },
+  {
+    "Maquina": "MIG BRAVO 155"
+  },
+  {
+    "Maquina": "MIG COMBI 155"
+  },
+  {
+    "Maquina": "MIG COMPACT 280"
+  },
+  {
+    "Maquina": "MIG COMPACT 300 C"
+  },
+  {
+    "Maquina": "MIG COMPACT 300H 4R"
+  },
+  {
+    "Maquina": "MIG COMPACT 303"
+  },
+  {
+    "Maquina": "MIG COMPACT 315"
+  },
+  {
+    "Maquina": "MIG CV 450 T"
+  },
+  {
+    "Maquina": "MIG EN SOUDAGE 302 D"
+  },
+  {
+    "Maquina": "MIG EURO320"
+  },
+  {
+    "Maquina": "MIG LAW 520 W"
+  },
+  {
+    "Maquina": "MIG LAX 380"
+  },
+  {
+    "Maquina": "MIG LKB 265"
+  },
+  {
+    "Maquina": "MIG LN-25"
+  },
+  {
+    "Maquina": "MIG MAXI 405"
+  },
+  {
+    "Maquina": "MIG MR 200"
+  },
+  {
+    "Maquina": "MIG MULTI BASIC 203"
+  },
+  {
+    "Maquina": "MIG MULTI BASIC 403"
+  },
+  {
+    "Maquina": "MIG MULTI BASIC 403 C"
+  },
+  {
+    "Maquina": "MIG MULTI BASIC 403 M"
+  },
+  {
+    "Maquina": "MIG MULTI PULSE 303 C W"
+  },
+  {
+    "Maquina": "MIG Multi Basic 303"
+  },
+  {
+    "Maquina": "MIG ONE230"
+  },
+  {
+    "Maquina": "MIG POWERTEC 300"
+  },
+  {
+    "Maquina": "MIG POWERTEC 505"
+  },
+  {
+    "Maquina": "MIG POWERTEC 505S"
+  },
+  {
+    "Maquina": "MIG SE-400"
+  },
+  {
+    "Maquina": "MIG SELECT -400H/4R"
+  },
+  {
+    "Maquina": "MIG SGA 175"
+  },
+  {
+    "Maquina": "MIG SGA 300"
+  },
+  {
+    "Maquina": "MIG Série 4"
+  },
+  {
+    "Maquina": "MIG V-400"
+  },
+  {
+    "Maquina": "MIG V200"
+  },
+  {
+    "Maquina": "MIG/FIL 300"
+  },
+  {
+    "Maquina": "MIG/FIL 301"
+  },
+  {
+    "Maquina": "MIG/FIL 302"
+  },
+  {
+    "Maquina": "MIG/FIL 351"
+  },
+  {
+    "Maquina": "MIG/FIL 352"
+  },
+  {
+    "Maquina": "MIG/FIL 452"
+  },
+  {
+    "Maquina": "MIG/FIL 452 C"
+  },
+  {
+    "Maquina": "MIG/FIL 452 M"
+  },
+  {
+    "Maquina": "MIG/MAX 260"
+  },
+  {
+    "Maquina": "MIG270"
+  },
+  {
+    "Maquina": "MIG296"
+  },
+  {
+    "Maquina": "MIG296C"
+  },
+  {
+    "Maquina": "MIG300 PULSED"
+  },
+  {
+    "Maquina": "MIG300PULSE"
+  },
+  {
+    "Maquina": "MIG304 Mod"
+  },
+  {
+    "Maquina": "MIG320 I"
+  },
+  {
+    "Maquina": "MIG350I M"
+  },
+  {
+    "Maquina": "MIG400"
+  },
+  {
+    "Maquina": "MIG456 AI"
+  },
+  {
+    "Maquina": "MINARCTIG250"
+  },
+  {
+    "Maquina": "MINI110"
+  },
+  {
+    "Maquina": "MINI130"
+  },
+  {
+    "Maquina": "MINI150"
+  },
+  {
+    "Maquina": "MINI80"
+  },
+  {
+    "Maquina": "MINIARC135"
+  },
+  {
+    "Maquina": "MINIARC180"
+  },
+  {
+    "Maquina": "MINIMAX106"
+  },
+  {
+    "Maquina": "MINIMIG Basic 203C"
+  },
+  {
+    "Maquina": "MINIMIG200"
+  },
+  {
+    "Maquina": "MIX500WMPR"
+  },
+  {
+    "Maquina": "MIZAR 311"
+  },
+  {
+    "Maquina": "MLS 300"
+  },
+  {
+    "Maquina": "MLS2500"
+  },
+  {
+    "Maquina": "MMA 160"
+  },
+  {
+    "Maquina": "MMA-200"
+  },
+  {
+    "Maquina": "MMA110"
+  },
+  {
+    "Maquina": "MMA141"
+  },
+  {
+    "Maquina": "MMA400"
+  },
+  {
+    "Maquina": "MONO WELDY 190"
+  },
+  {
+    "Maquina": "MONO200"
+  },
+  {
+    "Maquina": "MONOMIG"
+  },
+  {
+    "Maquina": "MONOMIG 176"
+  },
+  {
+    "Maquina": "MONOMIG 186"
+  },
+  {
+    "Maquina": "MONOMIG 190"
+  },
+  {
+    "Maquina": "MONOMIG 196"
+  },
+  {
+    "Maquina": "MONOMIG 196 C"
+  },
+  {
+    "Maquina": "MONOMIG SK100"
+  },
+  {
+    "Maquina": "MOTOMIG 385"
+  },
+  {
+    "Maquina": "MOTOMIG 385 C"
+  },
+  {
+    "Maquina": "MOTOMIG 385 M"
+  },
+  {
+    "Maquina": "MOTOMIG 405C"
+  },
+  {
+    "Maquina": "MOTOMIG 485"
+  },
+  {
+    "Maquina": "MOTOMIG 615 MR"
+  },
+  {
+    "Maquina": "MTF 2700"
+  },
+  {
+    "Maquina": "MTF 3700"
+  },
+  {
+    "Maquina": "MTF 3700 M"
+  },
+  {
+    "Maquina": "MTF-2700M"
+  },
+  {
+    "Maquina": "MULTI PULSE 303 M"
+  },
+  {
+    "Maquina": "Maquet DC163 VRD"
+  },
+  {
+    "Maquina": "Maquet DC191"
+  },
+  {
+    "Maquina": "Martial 160"
+  },
+  {
+    "Maquina": "Martial 200A"
+  },
+  {
+    "Maquina": "Master 2200"
+  },
+  {
+    "Maquina": "Master MLS2500"
+  },
+  {
+    "Maquina": "Master tig 2000"
+  },
+  {
+    "Maquina": "Mastertig 1500"
+  },
+  {
+    "Maquina": "Mastertig AC/DC"
+  },
+  {
+    "Maquina": "Mastertig AC/DC 3500W"
+  },
+  {
+    "Maquina": "Mate160"
+  },
+  {
+    "Maquina": "Matrial 200A"
+  },
+  {
+    "Maquina": "Maxiarc 160 LT"
+  },
+  {
+    "Maquina": "Maxiarc 200"
+  },
+  {
+    "Maquina": "Maxiarc 200 LT"
+  },
+  {
+    "Maquina": "Maxiarc 250LT"
+  },
+  {
+    "Maquina": "Maxiarc200TL"
+  },
+  {
+    "Maquina": "Mcrotig DC201"
+  },
+  {
+    "Maquina": "Meq200"
+  },
+  {
+    "Maquina": "Micro 160 DC"
+  },
+  {
+    "Maquina": "Micro DC 202 Basic"
+  },
+  {
+    "Maquina": "Micro DC200"
+  },
+  {
+    "Maquina": "Micro DC200I"
+  },
+  {
+    "Maquina": "Micro DC202"
+  },
+  {
+    "Maquina": "Micro DC203"
+  },
+  {
+    "Maquina": "Micro TIG 160 HF"
+  },
+  {
+    "Maquina": "Micro TIG 200 HF"
+  },
+  {
+    "Maquina": "MicroDC 402"
+  },
+  {
+    "Maquina": "Microtig 160"
+  },
+  {
+    "Maquina": "Microtig 161 DC"
+  },
+  {
+    "Maquina": "Microtig 200 AC/DC"
+  },
+  {
+    "Maquina": "Microtig 201 DC"
+  },
+  {
+    "Maquina": "Microtig 201 DC HF"
+  },
+  {
+    "Maquina": "Microtig 201 DC Pulse"
+  },
+  {
+    "Maquina": "Microtig 202 AC/DC"
+  },
+  {
+    "Maquina": "Microtig 202 AC/DC Pulse"
+  },
+  {
+    "Maquina": "Microtig 202 DC"
+  },
+  {
+    "Maquina": "Microtig 203 Basic"
+  },
+  {
+    "Maquina": "Microtig 322 AC/DC"
+  },
+  {
+    "Maquina": "Microtig 323 AC/DC"
+  },
+  {
+    "Maquina": "Microtig 402 AC/DC"
+  },
+  {
+    "Maquina": "Microtig 502 AC/DC"
+  },
+  {
+    "Maquina": "Microtig AC/DC 202 Pulse"
+  },
+  {
+    "Maquina": "Microtig AC/DC 322 Pulse"
+  },
+  {
+    "Maquina": "Microtig DC 201"
+  },
+  {
+    "Maquina": "Microtig DC 202 P"
+  },
+  {
+    "Maquina": "Microtig DC 322 Pulse"
+  },
+  {
+    "Maquina": "Microtig DC161"
+  },
+  {
+    "Maquina": "Microtig DC161 HF"
+  },
+  {
+    "Maquina": "Microtig DC162"
+  },
+  {
+    "Maquina": "Microtig DC162Pulse"
+  },
+  {
+    "Maquina": "Microtig DC202"
+  },
+  {
+    "Maquina": "Microtig DC202 Pulse"
+  },
+  {
+    "Maquina": "Mig 306 C DIGIT"
+  },
+  {
+    "Maquina": "Mig 330"
+  },
+  {
+    "Maquina": "Mig 356 C Digit"
+  },
+  {
+    "Maquina": "Mig 406 C SUN"
+  },
+  {
+    "Maquina": "Mig 454"
+  },
+  {
+    "Maquina": "Mig Ltronic 456 WM"
+  },
+  {
+    "Maquina": "Mig556 wm ltronic"
+  },
+  {
+    "Maquina": "Minarc 150"
+  },
+  {
+    "Maquina": "Minarc140"
+  },
+  {
+    "Maquina": "Mini165"
+  },
+  {
+    "Maquina": "Miniarc 140"
+  },
+  {
+    "Maquina": "Miniarc 150"
+  },
+  {
+    "Maquina": "Miniarc 200"
+  },
+  {
+    "Maquina": "Miniarc TIG EVO200"
+  },
+  {
+    "Maquina": "Miniarc220"
+  },
+  {
+    "Maquina": "Minimig 200C"
+  },
+  {
+    "Maquina": "Minimig 200C Multi"
+  },
+  {
+    "Maquina": "Minimig 203"
+  },
+  {
+    "Maquina": "Minimig 203 Multibasic"
+  },
+  {
+    "Maquina": "Minimig 203C"
+  },
+  {
+    "Maquina": "Mocrotig 202 DC P"
+  },
+  {
+    "Maquina": "Monomig 200 C Multisyn"
+  },
+  {
+    "Maquina": "Monomig 200 Multi Syn"
+  },
+  {
+    "Maquina": "Monomig 200C"
+  },
+  {
+    "Maquina": "Monomig 203"
+  },
+  {
+    "Maquina": "Monomig 203 C Multibasic"
+  },
+  {
+    "Maquina": "Monomig 203 Multibasic"
+  },
+  {
+    "Maquina": "Monomig 230C Multibasic"
+  },
+  {
+    "Maquina": "Monomig 250"
+  },
+  {
+    "Maquina": "Monomig 250 I"
+  },
+  {
+    "Maquina": "Monomig 250C"
+  },
+  {
+    "Maquina": "Monomig 250C (400V)"
+  },
+  {
+    "Maquina": "Monomig 256"
+  },
+  {
+    "Maquina": "Multibasic 303"
+  },
+  {
+    "Maquina": "Multibasic 303 C"
+  },
+  {
+    "Maquina": "Multibasic 403 MN"
+  },
+  {
+    "Maquina": "Multibasic 403 MW"
+  },
+  {
+    "Maquina": "Multimig 300C LCD Synergic"
+  },
+  {
+    "Maquina": "Multimig 350F"
+  },
+  {
+    "Maquina": "Multimig 502I MW"
+  },
+  {
+    "Maquina": "Multimig 502W Basic"
+  },
+  {
+    "Maquina": "Multipulse 303 MW"
+  },
+  {
+    "Maquina": "N/A"
+  },
+  {
+    "Maquina": "NERTAZIP 540"
+  },
+  {
+    "Maquina": "NEVARC135"
+  },
+  {
+    "Maquina": "NTBG160"
+  },
+  {
+    "Maquina": "Nig 256C SYN"
+  },
+  {
+    "Maquina": "Nippon Multimig 502I MW"
+  },
+  {
+    "Maquina": "Nippon micro DC202"
+  },
+  {
+    "Maquina": "Novatig 202 DC"
+  },
+  {
+    "Maquina": "ORIGO TIG"
+  },
+  {
+    "Maquina": "OUTRA"
+  },
+  {
+    "Maquina": "OX 160"
+  },
+  {
+    "Maquina": "OX 200"
+  },
+  {
+    "Maquina": "OX 200 DC"
+  },
+  {
+    "Maquina": "OX 200 HF"
+  },
+  {
+    "Maquina": "OX 200 TP"
+  },
+  {
+    "Maquina": "OX 210 AC/DC"
+  },
+  {
+    "Maquina": "OX 210 AC/DC Pulse"
+  },
+  {
+    "Maquina": "OX 250 HF P"
+  },
+  {
+    "Maquina": "OX 320 AC/DC"
+  },
+  {
+    "Maquina": "OX ECO TIG160"
+  },
+  {
+    "Maquina": "OX ECO160"
+  },
+  {
+    "Maquina": "OX ECO200"
+  },
+  {
+    "Maquina": "OX ECO200 D"
+  },
+  {
+    "Maquina": "OX ECOTIG200"
+  },
+  {
+    "Maquina": "OX HF 250 Pulse"
+  },
+  {
+    "Maquina": "OX Liftig160"
+  },
+  {
+    "Maquina": "OX MIG 400F"
+  },
+  {
+    "Maquina": "OX MIG350"
+  },
+  {
+    "Maquina": "OX MIG350 M"
+  },
+  {
+    "Maquina": "OX MIG350C"
+  },
+  {
+    "Maquina": "OX MIG400M"
+  },
+  {
+    "Maquina": "OX Minimig 200C Multi"
+  },
+  {
+    "Maquina": "OX Monomig 200C"
+  },
+  {
+    "Maquina": "OX Monomig 250C"
+  },
+  {
+    "Maquina": "OX TIG 160"
+  },
+  {
+    "Maquina": "OX TIG 200"
+  },
+  {
+    "Maquina": "OX TIG 200 PFC"
+  },
+  {
+    "Maquina": "OX TIG 210 AC/DC"
+  },
+  {
+    "Maquina": "OX TIG 250"
+  },
+  {
+    "Maquina": "OX TIG 250 HFP"
+  },
+  {
+    "Maquina": "OX TIG ECO200"
+  },
+  {
+    "Maquina": "OX TIG160 LIFT"
+  },
+  {
+    "Maquina": "OX TIG160HF"
+  },
+  {
+    "Maquina": "OX TIG170 HF"
+  },
+  {
+    "Maquina": "OX TIG200 DC"
+  },
+  {
+    "Maquina": "OX TIG200 HF P"
+  },
+  {
+    "Maquina": "OX TIG200 HF Pulse"
+  },
+  {
+    "Maquina": "OX TIG200 P"
+  },
+  {
+    "Maquina": "OX TIG200 Pulse"
+  },
+  {
+    "Maquina": "OX TIG200A"
+  },
+  {
+    "Maquina": "OX TIG250 HF"
+  },
+  {
+    "Maquina": "OX TIG250 HF Pulse"
+  },
+  {
+    "Maquina": "OX TIG250 P"
+  },
+  {
+    "Maquina": "OX TIG320 AC/DC"
+  },
+  {
+    "Maquina": "OX TP200 HF"
+  },
+  {
+    "Maquina": "OX TP250"
+  },
+  {
+    "Maquina": "OX Tig 200 HF"
+  },
+  {
+    "Maquina": "OX Weld & Cut 160"
+  },
+  {
+    "Maquina": "OX1800"
+  },
+  {
+    "Maquina": "OX200 Eco"
+  },
+  {
+    "Maquina": "OX2200"
+  },
+  {
+    "Maquina": "OX250"
+  },
+  {
+    "Maquina": "OX250 AC/DC"
+  },
+  {
+    "Maquina": "OX250 DC"
+  },
+  {
+    "Maquina": "OX250 VRD"
+  },
+  {
+    "Maquina": "OX250HF Pulse"
+  },
+  {
+    "Maquina": "OX250VDR"
+  },
+  {
+    "Maquina": "OX300AC/DC"
+  },
+  {
+    "Maquina": "Ondul TIG 160 DC HF"
+  },
+  {
+    "Maquina": "Ondul TIG 300 AC/DC"
+  },
+  {
+    "Maquina": "Ondul TIG 300 AC/DC P"
+  },
+  {
+    "Maquina": "Opsial 160HF"
+  },
+  {
+    "Maquina": "Opsial 300 AC/DC"
+  },
+  {
+    "Maquina": "Opsial 300 DC P"
+  },
+  {
+    "Maquina": "Opsial Máq. Pontos SPPC50PC"
+  },
+  {
+    "Maquina": "Opsial Ond tig 160"
+  },
+  {
+    "Maquina": "Opsial TIG 160 DC HF"
+  },
+  {
+    "Maquina": "Opsial TIG 160 HF"
+  },
+  {
+    "Maquina": "Opsial TIG300 AC/DC V2"
+  },
+  {
+    "Maquina": "Orbi140"
+  },
+  {
+    "Maquina": "Origo 150"
+  },
+  {
+    "Maquina": "Origo A32"
+  },
+  {
+    "Maquina": "Origo TIG 150"
+  },
+  {
+    "Maquina": "Oritig150"
+  },
+  {
+    "Maquina": "P145"
+  },
+  {
+    "Maquina": "PC100"
+  },
+  {
+    "Maquina": "PC105"
+  },
+  {
+    "Maquina": "PC60"
+  },
+  {
+    "Maquina": "PC6060/T(plasma)"
+  },
+  {
+    "Maquina": "PCUT 103"
+  },
+  {
+    "Maquina": "PCUT 43"
+  },
+  {
+    "Maquina": "PCUT 63"
+  },
+  {
+    "Maquina": "PERFECT 26"
+  },
+  {
+    "Maquina": "PF DS33B2"
+  },
+  {
+    "Maquina": "PHOENIX 355 MIG"
+  },
+  {
+    "Maquina": "PHOENIX 401"
+  },
+  {
+    "Maquina": "PHOENIX 401 PLUS"
+  },
+  {
+    "Maquina": "PHOENIX 421"
+  },
+  {
+    "Maquina": "PHOENIX 451 PULSE"
+  },
+  {
+    "Maquina": "PHOENIX MIG 421"
+  },
+  {
+    "Maquina": "PHOENIX MIG300"
+  },
+  {
+    "Maquina": "PHOENIX451PLS"
+  },
+  {
+    "Maquina": "PHOENIx 400"
+  },
+  {
+    "Maquina": "PICO 160"
+  },
+  {
+    "Maquina": "PICOTIG160HF"
+  },
+  {
+    "Maquina": "PICOTIG190AC/DC"
+  },
+  {
+    "Maquina": "PICOTIG200DC"
+  },
+  {
+    "Maquina": "PL 52"
+  },
+  {
+    "Maquina": "PLASMA 1538"
+  },
+  {
+    "Maquina": "PLASMA 55"
+  },
+  {
+    "Maquina": "PLASMA 63/1"
+  },
+  {
+    "Maquina": "PLASMA 90"
+  },
+  {
+    "Maquina": "PLASMA C-15"
+  },
+  {
+    "Maquina": "PLASMA C-35"
+  },
+  {
+    "Maquina": "PLASMA CUT 100/150"
+  },
+  {
+    "Maquina": "PLASMA X 703"
+  },
+  {
+    "Maquina": "PLASMA XCP60"
+  },
+  {
+    "Maquina": "PLASMA ZIP 2.0"
+  },
+  {
+    "Maquina": "PLASMA40"
+  },
+  {
+    "Maquina": "PLASMA60HF"
+  },
+  {
+    "Maquina": "PLASMACUT 100"
+  },
+  {
+    "Maquina": "PLASMACUT40"
+  },
+  {
+    "Maquina": "PM-150"
+  },
+  {
+    "Maquina": "PMX 30XP"
+  },
+  {
+    "Maquina": "PMX1000"
+  },
+  {
+    "Maquina": "PMX125"
+  },
+  {
+    "Maquina": "PMX1250"
+  },
+  {
+    "Maquina": "PMX1650"
+  },
+  {
+    "Maquina": "PMX350"
+  },
+  {
+    "Maquina": "PMX45"
+  },
+  {
+    "Maquina": "PMX600"
+  },
+  {
+    "Maquina": "PMX65"
+  },
+  {
+    "Maquina": "PMX800"
+  },
+  {
+    "Maquina": "PMX85"
+  },
+  {
+    "Maquina": "POWER 420 PRO"
+  },
+  {
+    "Maquina": "POWER COMPACT 315"
+  },
+  {
+    "Maquina": "POWER ROD1350"
+  },
+  {
+    "Maquina": "POWER WAVE 405 M"
+  },
+  {
+    "Maquina": "POWERMAX1000"
+  },
+  {
+    "Maquina": "POWERTEC 300"
+  },
+  {
+    "Maquina": "POWERTEC 300 C"
+  },
+  {
+    "Maquina": "POWERTEC 300 S"
+  },
+  {
+    "Maquina": "POWERTEC 305 C"
+  },
+  {
+    "Maquina": "POWERTEC 420 C PRO"
+  },
+  {
+    "Maquina": "POWERTEC 425"
+  },
+  {
+    "Maquina": "POWERTEC 425 S"
+  },
+  {
+    "Maquina": "POWERTEC 505"
+  },
+  {
+    "Maquina": "POWERTEC 505 C"
+  },
+  {
+    "Maquina": "POWERTEC 505 S"
+  },
+  {
+    "Maquina": "PRO 165 DC"
+  },
+  {
+    "Maquina": "PRO 1800"
+  },
+  {
+    "Maquina": "PRO 4200"
+  },
+  {
+    "Maquina": "PRO CUT 100"
+  },
+  {
+    "Maquina": "PRO MIG 375"
+  },
+  {
+    "Maquina": "PRO!800"
+  },
+  {
+    "Maquina": "PRO-MIG 253"
+  },
+  {
+    "Maquina": "PRO1300"
+  },
+  {
+    "Maquina": "PRO165"
+  },
+  {
+    "Maquina": "PROFI MIG 400"
+  },
+  {
+    "Maquina": "PXK 4.0"
+  },
+  {
+    "Maquina": "Pegas 160"
+  },
+  {
+    "Maquina": "Pegas 160E"
+  },
+  {
+    "Maquina": "Phenix drive 4L"
+  },
+  {
+    "Maquina": "Phoenix 301"
+  },
+  {
+    "Maquina": "Phoenix 301 Pulse"
+  },
+  {
+    "Maquina": "Phoenix 330"
+  },
+  {
+    "Maquina": "Phoenix 351"
+  },
+  {
+    "Maquina": "Phoenix 351 Plus"
+  },
+  {
+    "Maquina": "Phoenix 351 Puls"
+  },
+  {
+    "Maquina": "Phoenix 355"
+  },
+  {
+    "Maquina": "Phoenix 355 Prog"
+  },
+  {
+    "Maquina": "Phoenix 355 Puls"
+  },
+  {
+    "Maquina": "Phoenix 401 FK W"
+  },
+  {
+    "Maquina": "Phoenix 401 Puls"
+  },
+  {
+    "Maquina": "Phoenix 405 Puls"
+  },
+  {
+    "Maquina": "Phoenix 421 basic"
+  },
+  {
+    "Maquina": "Phoenix 451"
+  },
+  {
+    "Maquina": "Phoenix 451 Progress Plus"
+  },
+  {
+    "Maquina": "Phoenix 451 Puls"
+  },
+  {
+    "Maquina": "Phoenix MIG355 Puls"
+  },
+  {
+    "Maquina": "Phoenix MIG401 Puls"
+  },
+  {
+    "Maquina": "Pico 230"
+  },
+  {
+    "Maquina": "Pico 230 CEL"
+  },
+  {
+    "Maquina": "Pico140"
+  },
+  {
+    "Maquina": "Picotig 220 AC/DC"
+  },
+  {
+    "Maquina": "Picotig 220 DC"
+  },
+  {
+    "Maquina": "Placa TIG/HF"
+  },
+  {
+    "Maquina": "Plasma 60"
+  },
+  {
+    "Maquina": "Plasma 80"
+  },
+  {
+    "Maquina": "Plasma PC100"
+  },
+  {
+    "Maquina": "Plasma PT60"
+  },
+  {
+    "Maquina": "Plasmacut 60"
+  },
+  {
+    "Maquina": "Plasmacut50"
+  },
+  {
+    "Maquina": "Plus 160 GE"
+  },
+  {
+    "Maquina": "Potenza TIG 170 HF"
+  },
+  {
+    "Maquina": "Power1350"
+  },
+  {
+    "Maquina": "Powermax 125"
+  },
+  {
+    "Maquina": "Powermax 1250"
+  },
+  {
+    "Maquina": "Powermax 140"
+  },
+  {
+    "Maquina": "Powermax 150"
+  },
+  {
+    "Maquina": "Powermax 30XP"
+  },
+  {
+    "Maquina": "Powermax 45"
+  },
+  {
+    "Maquina": "Powermax 600"
+  },
+  {
+    "Maquina": "Powermax 65"
+  },
+  {
+    "Maquina": "Powermax 85"
+  },
+  {
+    "Maquina": "Powermax1650"
+  },
+  {
+    "Maquina": "Praxair Phoenix 300"
+  },
+  {
+    "Maquina": "Presto 135"
+  },
+  {
+    "Maquina": "Presto 135 Plus"
+  },
+  {
+    "Maquina": "Presto 160"
+  },
+  {
+    "Maquina": "Presto 160G"
+  },
+  {
+    "Maquina": "Pro 1500"
+  },
+  {
+    "Maquina": "Pro4000"
+  },
+  {
+    "Maquina": "Prog. 2000"
+  },
+  {
+    "Maquina": "Progress 180"
+  },
+  {
+    "Maquina": "RC 250"
+  },
+  {
+    "Maquina": "RCD 1000"
+  },
+  {
+    "Maquina": "RCD 1000 DIGIT II"
+  },
+  {
+    "Maquina": "RCD 300"
+  },
+  {
+    "Maquina": "RCD 400"
+  },
+  {
+    "Maquina": "RCD 600 DIGIT"
+  },
+  {
+    "Maquina": "RCD 600 DIGIT II"
+  },
+  {
+    "Maquina": "RCD600"
+  },
+  {
+    "Maquina": "RDC600"
+  },
+  {
+    "Maquina": "RE190"
+  },
+  {
+    "Maquina": "REX130"
+  },
+  {
+    "Maquina": "ROTATIVA (JANTES)"
+  },
+  {
+    "Maquina": "RS 300"
+  },
+  {
+    "Maquina": "RS 500"
+  },
+  {
+    "Maquina": "RS 600"
+  },
+  {
+    "Maquina": "RS350 DV"
+  },
+  {
+    "Maquina": "RS600 PT"
+  },
+  {
+    "Maquina": "RSI 500"
+  },
+  {
+    "Maquina": "RT500"
+  },
+  {
+    "Maquina": "Raider142"
+  },
+  {
+    "Maquina": "Refrigerador MPH"
+  },
+  {
+    "Maquina": "Roluk160"
+  },
+  {
+    "Maquina": "S-85"
+  },
+  {
+    "Maquina": "S160"
+  },
+  {
+    "Maquina": "S1601"
+  },
+  {
+    "Maquina": "S1602"
+  },
+  {
+    "Maquina": "S1700"
+  },
+  {
+    "Maquina": "S4000"
+  },
+  {
+    "Maquina": "SAFCMIG 250 BL"
+  },
+  {
+    "Maquina": "SAFMIG 220 BL"
+  },
+  {
+    "Maquina": "SAFMIG 250 BL"
+  },
+  {
+    "Maquina": "SAFMIG 280 BL"
+  },
+  {
+    "Maquina": "SAFMIG 280 DBL"
+  },
+  {
+    "Maquina": "SAFMIG 340 BL"
+  },
+  {
+    "Maquina": "SAFMIG 380 BL"
+  },
+  {
+    "Maquina": "SAFMIG 600 S"
+  },
+  {
+    "Maquina": "SAFMIG380"
+  },
+  {
+    "Maquina": "SATURN 285"
+  },
+  {
+    "Maquina": "SATURN 351"
+  },
+  {
+    "Maquina": "SAXO3.5"
+  },
+  {
+    "Maquina": "SAXOTECH 170"
+  },
+  {
+    "Maquina": "SC 500"
+  },
+  {
+    "Maquina": "SELCO164TLH"
+  },
+  {
+    "Maquina": "SERRA SP2"
+  },
+  {
+    "Maquina": "SIT TP200"
+  },
+  {
+    "Maquina": "SK100"
+  },
+  {
+    "Maquina": "SPOT 3500"
+  },
+  {
+    "Maquina": "SPOTTER 7000"
+  },
+  {
+    "Maquina": "START3.5"
+  },
+  {
+    "Maquina": "STAYER40GE"
+  },
+  {
+    "Maquina": "STICK160"
+  },
+  {
+    "Maquina": "SUPER COOLER 12"
+  },
+  {
+    "Maquina": "SUPERMIG 230T"
+  },
+  {
+    "Maquina": "SUPERMIG 465"
+  },
+  {
+    "Maquina": "SUPERMIG 465 M"
+  },
+  {
+    "Maquina": "SUPERMIG 480"
+  },
+  {
+    "Maquina": "SUPERTIG 180 AC/DC"
+  },
+  {
+    "Maquina": "SVE400 S"
+  },
+  {
+    "Maquina": "SX140"
+  },
+  {
+    "Maquina": "SYN 315"
+  },
+  {
+    "Maquina": "SYNERGIC II MIG 256 C"
+  },
+  {
+    "Maquina": "SYNERGIC II MIG 406 C"
+  },
+  {
+    "Maquina": "SYNERGIC II MIG 406 M"
+  },
+  {
+    "Maquina": "SYNERGIC II MIG 406 WM"
+  },
+  {
+    "Maquina": "SYNERGIC II MIG 506 WM"
+  },
+  {
+    "Maquina": "SYNERGIC MIG 256 C"
+  },
+  {
+    "Maquina": "SYNERGIC MIG 406 C"
+  },
+  {
+    "Maquina": "SYNERGIC MIG 406 M"
+  },
+  {
+    "Maquina": "SYNERGIC MIG 506 WM"
+  },
+  {
+    "Maquina": "SYNERGIC PLUS MIG 256 C"
+  },
+  {
+    "Maquina": "SYNERGIC PLUS MIG 406 C"
+  },
+  {
+    "Maquina": "SYNERGIC PLUS MIG 406 M"
+  },
+  {
+    "Maquina": "SYNERGIC PLUS MIG 406 WM"
+  },
+  {
+    "Maquina": "SYNERGIC PLUS MIG 506 WM"
+  },
+  {
+    "Maquina": "Saturn 200"
+  },
+  {
+    "Maquina": "Saxo 1300"
+  },
+  {
+    "Maquina": "Saxotig 1600"
+  },
+  {
+    "Maquina": "Selco 260AC/DC"
+  },
+  {
+    "Maquina": "Sem Modelo"
+  },
+  {
+    "Maquina": "Site CUT10"
+  },
+  {
+    "Maquina": "Smart cut 60"
+  },
+  {
+    "Maquina": "Solda MIG 400 M"
+  },
+  {
+    "Maquina": "Solution 4000"
+  },
+  {
+    "Maquina": "Soudarc 200D"
+  },
+  {
+    "Maquina": "Soudarc+ 160"
+  },
+  {
+    "Maquina": "Styl 165"
+  },
+  {
+    "Maquina": "Styl175"
+  },
+  {
+    "Maquina": "Styl185"
+  },
+  {
+    "Maquina": "Supermig 456"
+  },
+  {
+    "Maquina": "T45"
+  },
+  {
+    "Maquina": "TA130"
+  },
+  {
+    "Maquina": "TECTRONIC162"
+  },
+  {
+    "Maquina": "TERMIG 180/2"
+  },
+  {
+    "Maquina": "TERO 160 TP"
+  },
+  {
+    "Maquina": "TERO 160HF"
+  },
+  {
+    "Maquina": "TERO 406 MW"
+  },
+  {
+    "Maquina": "TERO MIG 365 M"
+  },
+  {
+    "Maquina": "TERO MIG 406 MW"
+  },
+  {
+    "Maquina": "TERO MIG 406 WM"
+  },
+  {
+    "Maquina": "TERO RS 600"
+  },
+  {
+    "Maquina": "TETRIX300 PLUS"
+  },
+  {
+    "Maquina": "TETRIX300-12"
+  },
+  {
+    "Maquina": "TH1600"
+  },
+  {
+    "Maquina": "TH1600Tig"
+  },
+  {
+    "Maquina": "THF 220S AC/DC"
+  },
+  {
+    "Maquina": "THI"
+  },
+  {
+    "Maquina": "THI 30"
+  },
+  {
+    "Maquina": "THI 30 MEC"
+  },
+  {
+    "Maquina": "THI 30 PN"
+  },
+  {
+    "Maquina": "THI 50"
+  },
+  {
+    "Maquina": "THI 50 DIGIT"
+  },
+  {
+    "Maquina": "THI 50 M"
+  },
+  {
+    "Maquina": "THI 50 PLUS"
+  },
+  {
+    "Maquina": "THI 50 PN"
+  },
+  {
+    "Maquina": "THI30 Plus"
+  },
+  {
+    "Maquina": "THOR200"
+  },
+  {
+    "Maquina": "TIG"
+  },
+  {
+    "Maquina": "TIG 150C"
+  },
+  {
+    "Maquina": "TIG 160"
+  },
+  {
+    "Maquina": "TIG 160 DC"
+  },
+  {
+    "Maquina": "TIG 160 DC HF"
+  },
+  {
+    "Maquina": "TIG 160 HF"
+  },
+  {
+    "Maquina": "TIG 160 HF P"
+  },
+  {
+    "Maquina": "TIG 160 HF Pulse"
+  },
+  {
+    "Maquina": "TIG 160 Pulse"
+  },
+  {
+    "Maquina": "TIG 180 AC/DC"
+  },
+  {
+    "Maquina": "TIG 185"
+  },
+  {
+    "Maquina": "TIG 200"
+  },
+  {
+    "Maquina": "TIG 200 AC/DC"
+  },
+  {
+    "Maquina": "TIG 200 AC/DC Pulse"
+  },
+  {
+    "Maquina": "TIG 200 DC"
+  },
+  {
+    "Maquina": "TIG 200 DC Pulse"
+  },
+  {
+    "Maquina": "TIG 200 DC Pulse PFC"
+  },
+  {
+    "Maquina": "TIG 200 ECO"
+  },
+  {
+    "Maquina": "TIG 200 HF"
+  },
+  {
+    "Maquina": "TIG 200 HF P"
+  },
+  {
+    "Maquina": "TIG 200 Pulse"
+  },
+  {
+    "Maquina": "TIG 200 Pulse PFC"
+  },
+  {
+    "Maquina": "TIG 200HF Pulse"
+  },
+  {
+    "Maquina": "TIG 200P"
+  },
+  {
+    "Maquina": "TIG 202"
+  },
+  {
+    "Maquina": "TIG 210 AC/DC"
+  },
+  {
+    "Maquina": "TIG 220"
+  },
+  {
+    "Maquina": "TIG 222"
+  },
+  {
+    "Maquina": "TIG 250"
+  },
+  {
+    "Maquina": "TIG 250 C"
+  },
+  {
+    "Maquina": "TIG 250 C REF"
+  },
+  {
+    "Maquina": "TIG 250 HF"
+  },
+  {
+    "Maquina": "TIG 250 HF P"
+  },
+  {
+    "Maquina": "TIG 250 HF Pulse"
+  },
+  {
+    "Maquina": "TIG 250 PLUS"
+  },
+  {
+    "Maquina": "TIG 250 PLUS REF"
+  },
+  {
+    "Maquina": "TIG 250 Pulse"
+  },
+  {
+    "Maquina": "TIG 250 REF"
+  },
+  {
+    "Maquina": "TIG 250B"
+  },
+  {
+    "Maquina": "TIG 250B REF"
+  },
+  {
+    "Maquina": "TIG 260 AC/DC"
+  },
+  {
+    "Maquina": "TIG 260B"
+  },
+  {
+    "Maquina": "TIG 300 AC/DC"
+  },
+  {
+    "Maquina": "TIG 300 DC"
+  },
+  {
+    "Maquina": "TIG 320 AC/DC"
+  },
+  {
+    "Maquina": "TIG 350 AC/DC"
+  },
+  {
+    "Maquina": "TIG 400 AC/DC"
+  },
+  {
+    "Maquina": "TIG 400 AC/DC W"
+  },
+  {
+    "Maquina": "TIG 400 AC/DC W V2"
+  },
+  {
+    "Maquina": "TIG 403 AC/DC"
+  },
+  {
+    "Maquina": "TIG DTB 250"
+  },
+  {
+    "Maquina": "TIG HF 200"
+  },
+  {
+    "Maquina": "TIG HF 221"
+  },
+  {
+    "Maquina": "TIG Pulse 230"
+  },
+  {
+    "Maquina": "TIG STAR 251"
+  },
+  {
+    "Maquina": "TIG1450"
+  },
+  {
+    "Maquina": "TIG150"
+  },
+  {
+    "Maquina": "TIG155"
+  },
+  {
+    "Maquina": "TIG160AC/DC"
+  },
+  {
+    "Maquina": "TIG160P"
+  },
+  {
+    "Maquina": "TIG162P"
+  },
+  {
+    "Maquina": "TIG175"
+  },
+  {
+    "Maquina": "TIG180P"
+  },
+  {
+    "Maquina": "TIG200 AD/DC Pulse"
+  },
+  {
+    "Maquina": "TIG200 DCP"
+  },
+  {
+    "Maquina": "TIG200HFTP"
+  },
+  {
+    "Maquina": "TIG200PT"
+  },
+  {
+    "Maquina": "TIG200TP"
+  },
+  {
+    "Maquina": "TIG202 Pulse"
+  },
+  {
+    "Maquina": "TIG20HFPulse"
+  },
+  {
+    "Maquina": "TIG2200"
+  },
+  {
+    "Maquina": "TIG220HFP"
+  },
+  {
+    "Maquina": "TIG232"
+  },
+  {
+    "Maquina": "TIG250DCPULSE"
+  },
+  {
+    "Maquina": "TIG250P"
+  },
+  {
+    "Maquina": "TIG250TP"
+  },
+  {
+    "Maquina": "TIG251"
+  },
+  {
+    "Maquina": "TIG280AC/DC"
+  },
+  {
+    "Maquina": "TIG3.2AC/DC"
+  },
+  {
+    "Maquina": "TIG3000 AC/DC"
+  },
+  {
+    "Maquina": "TIG301DC/HF"
+  },
+  {
+    "Maquina": "TIG315 AC/DC"
+  },
+  {
+    "Maquina": "TIG350 AC/DC Pulse"
+  },
+  {
+    "Maquina": "TIGAC/DC315"
+  },
+  {
+    "Maquina": "TITRON 260"
+  },
+  {
+    "Maquina": "TP 160 HF"
+  },
+  {
+    "Maquina": "TP 200"
+  },
+  {
+    "Maquina": "TP 200 Pulse"
+  },
+  {
+    "Maquina": "TP 202 AC/DC"
+  },
+  {
+    "Maquina": "TP 202 Pulse"
+  },
+  {
+    "Maquina": "TP 203.1"
+  },
+  {
+    "Maquina": "TP 250 HF"
+  },
+  {
+    "Maquina": "TP 252 W"
+  },
+  {
+    "Maquina": "TP 303 AC/DA"
+  },
+  {
+    "Maquina": "TP 320 AC/DC W"
+  },
+  {
+    "Maquina": "TP 352"
+  },
+  {
+    "Maquina": "TP 403"
+  },
+  {
+    "Maquina": "TP 403 DC"
+  },
+  {
+    "Maquina": "TP 503 AC/DC"
+  },
+  {
+    "Maquina": "TP160"
+  },
+  {
+    "Maquina": "TP161"
+  },
+  {
+    "Maquina": "TP161 Pulse"
+  },
+  {
+    "Maquina": "TP162"
+  },
+  {
+    "Maquina": "TP162HFDC"
+  },
+  {
+    "Maquina": "TP163"
+  },
+  {
+    "Maquina": "TP200 DC"
+  },
+  {
+    "Maquina": "TP2000"
+  },
+  {
+    "Maquina": "TP200AC/DC"
+  },
+  {
+    "Maquina": "TP200P"
+  },
+  {
+    "Maquina": "TP202"
+  },
+  {
+    "Maquina": "TP202 PFC"
+  },
+  {
+    "Maquina": "TP203"
+  },
+  {
+    "Maquina": "TP203 AC/DC"
+  },
+  {
+    "Maquina": "TP203 AC/DC V2"
+  },
+  {
+    "Maquina": "TP203 AC/DC W"
+  },
+  {
+    "Maquina": "TP203 W AC/DC"
+  },
+  {
+    "Maquina": "TP203.2"
+  },
+  {
+    "Maquina": "TP210AC/DC"
+  },
+  {
+    "Maquina": "TP212 AC/DC"
+  },
+  {
+    "Maquina": "TP221"
+  },
+  {
+    "Maquina": "TP223"
+  },
+  {
+    "Maquina": "TP223 W"
+  },
+  {
+    "Maquina": "TP250"
+  },
+  {
+    "Maquina": "TP252"
+  },
+  {
+    "Maquina": "TP252 AC/DC"
+  },
+  {
+    "Maquina": "TP252 c/Refrig"
+  },
+  {
+    "Maquina": "TP253"
+  },
+  {
+    "Maquina": "TP253 W"
+  },
+  {
+    "Maquina": "TP301"
+  },
+  {
+    "Maquina": "TP302"
+  },
+  {
+    "Maquina": "TP302 AC/DC"
+  },
+  {
+    "Maquina": "TP320"
+  },
+  {
+    "Maquina": "TP320 AC/DC"
+  },
+  {
+    "Maquina": "TP322"
+  },
+  {
+    "Maquina": "TP322 AC/DC"
+  },
+  {
+    "Maquina": "TP322 AC/DC W"
+  },
+  {
+    "Maquina": "TP323"
+  },
+  {
+    "Maquina": "TP323 AC/DC"
+  },
+  {
+    "Maquina": "TP323 AC/DC V2"
+  },
+  {
+    "Maquina": "TP323 AC/DC V2 W"
+  },
+  {
+    "Maquina": "TP323 AC/DC W"
+  },
+  {
+    "Maquina": "TP323 W"
+  },
+  {
+    "Maquina": "TP350 AC/DC"
+  },
+  {
+    "Maquina": "TP350AC/ACPULS"
+  },
+  {
+    "Maquina": "TP352 AC/DC"
+  },
+  {
+    "Maquina": "TP353"
+  },
+  {
+    "Maquina": "TP400"
+  },
+  {
+    "Maquina": "TP400 AC/DC"
+  },
+  {
+    "Maquina": "TP402"
+  },
+  {
+    "Maquina": "TP402 AC/DC"
+  },
+  {
+    "Maquina": "TP403 AC/DC"
+  },
+  {
+    "Maquina": "TP403 AC/DC W"
+  },
+  {
+    "Maquina": "TP403 W"
+  },
+  {
+    "Maquina": "TP500 AC/DC"
+  },
+  {
+    "Maquina": "TP503"
+  },
+  {
+    "Maquina": "TP503 AC/DC W"
+  },
+  {
+    "Maquina": "TPO161"
+  },
+  {
+    "Maquina": "TRANSTIG1600"
+  },
+  {
+    "Maquina": "TRANSTIG1750"
+  },
+  {
+    "Maquina": "TRITON 160"
+  },
+  {
+    "Maquina": "TRITON220"
+  },
+  {
+    "Maquina": "TRITON220AC/DC"
+  },
+  {
+    "Maquina": "TRITON260"
+  },
+  {
+    "Maquina": "TS139"
+  },
+  {
+    "Maquina": "TSR"
+  },
+  {
+    "Maquina": "TSR 30"
+  },
+  {
+    "Maquina": "TSR 50"
+  },
+  {
+    "Maquina": "TSR15/30"
+  },
+  {
+    "Maquina": "TT 1800"
+  },
+  {
+    "Maquina": "TT-2000"
+  },
+  {
+    "Maquina": "TT1801"
+  },
+  {
+    "Maquina": "TT2200"
+  },
+  {
+    "Maquina": "TX150"
+  },
+  {
+    "Maquina": "TX150DC"
+  },
+  {
+    "Maquina": "TX160"
+  },
+  {
+    "Maquina": "TX1601"
+  },
+  {
+    "Maquina": "TX250 DC"
+  },
+  {
+    "Maquina": "TXTIG1601"
+  },
+  {
+    "Maquina": "Taurus MIG 405"
+  },
+  {
+    "Maquina": "Tecnica164"
+  },
+  {
+    "Maquina": "Tecniradian TP402 AC/DC"
+  },
+  {
+    "Maquina": "Tektronic 142"
+  },
+  {
+    "Maquina": "Tektronic162"
+  },
+  {
+    "Maquina": "Telwin114"
+  },
+  {
+    "Maquina": "Telwin145"
+  },
+  {
+    "Maquina": "Telwin160"
+  },
+  {
+    "Maquina": "Tero 160"
+  },
+  {
+    "Maquina": "Tero 160 HF P"
+  },
+  {
+    "Maquina": "Tero 162"
+  },
+  {
+    "Maquina": "Tero 191"
+  },
+  {
+    "Maquina": "Tero 202"
+  },
+  {
+    "Maquina": "Tero 202 DC"
+  },
+  {
+    "Maquina": "Tero 202 HF"
+  },
+  {
+    "Maquina": "Tero 202 HF Pulse"
+  },
+  {
+    "Maquina": "Tero 202 HFP"
+  },
+  {
+    "Maquina": "Tero 203"
+  },
+  {
+    "Maquina": "Tero DC161"
+  },
+  {
+    "Maquina": "Tero DC202"
+  },
+  {
+    "Maquina": "Tero DC203"
+  },
+  {
+    "Maquina": "Tero160 Pulse"
+  },
+  {
+    "Maquina": "Tero190"
+  },
+  {
+    "Maquina": "Teromatec 500"
+  },
+  {
+    "Maquina": "Tetrix 230 AC/DC"
+  },
+  {
+    "Maquina": "Tetrix 270 AC/DC"
+  },
+  {
+    "Maquina": "Tetrix 300"
+  },
+  {
+    "Maquina": "Tetrix 350 AC/DC"
+  },
+  {
+    "Maquina": "Tetrix 421"
+  },
+  {
+    "Maquina": "Textrix 350 AC/DC"
+  },
+  {
+    "Maquina": "Tig1500"
+  },
+  {
+    "Maquina": "Tig1990"
+  },
+  {
+    "Maquina": "Tig200HF PFC"
+  },
+  {
+    "Maquina": "TigPulse180"
+  },
+  {
+    "Maquina": "Tomahawk 1538"
+  },
+  {
+    "Maquina": "Top161"
+  },
+  {
+    "Maquina": "Transpocket 140"
+  },
+  {
+    "Maquina": "Transpocket 1400"
+  },
+  {
+    "Maquina": "Transpocket 2500"
+  },
+  {
+    "Maquina": "Transpocket1500"
+  },
+  {
+    "Maquina": "Transsteel 5000"
+  },
+  {
+    "Maquina": "Transtig 1700"
+  },
+  {
+    "Maquina": "Triumphator 160"
+  },
+  {
+    "Maquina": "UNIMIG 250"
+  },
+  {
+    "Maquina": "UNIMIG 270"
+  },
+  {
+    "Maquina": "UNIMIG 418 N"
+  },
+  {
+    "Maquina": "Unilift 200"
+  },
+  {
+    "Maquina": "V 160 T"
+  },
+  {
+    "Maquina": "V140"
+  },
+  {
+    "Maquina": "V145"
+  },
+  {
+    "Maquina": "V145-S"
+  },
+  {
+    "Maquina": "V160S"
+  },
+  {
+    "Maquina": "V170T"
+  },
+  {
+    "Maquina": "V200"
+  },
+  {
+    "Maquina": "V270"
+  },
+  {
+    "Maquina": "V270 PULSE"
+  },
+  {
+    "Maquina": "V270T"
+  },
+  {
+    "Maquina": "V270TP"
+  },
+  {
+    "Maquina": "V270TTP"
+  },
+  {
+    "Maquina": "VARIO SYN 5000"
+  },
+  {
+    "Maquina": "VARIOSTAR 2500"
+  },
+  {
+    "Maquina": "VP150"
+  },
+  {
+    "Maquina": "VarioSynergic 5000"
+  },
+  {
+    "Maquina": "W150"
+  },
+  {
+    "Maquina": "W150E"
+  },
+  {
+    "Maquina": "W1600"
+  },
+  {
+    "Maquina": "W200 D"
+  },
+  {
+    "Maquina": "WECO150"
+  },
+  {
+    "Maquina": "WELDER180"
+  },
+  {
+    "Maquina": "WIG 201 DCI"
+  },
+  {
+    "Maquina": "WSD TP400"
+  },
+  {
+    "Maquina": "WSE200AC/DC"
+  },
+  {
+    "Maquina": "Weld Team"
+  },
+  {
+    "Maquina": "Weldarc 200"
+  },
+  {
+    "Maquina": "Weldarc 200 D"
+  },
+  {
+    "Maquina": "Weldarc 200 DC"
+  },
+  {
+    "Maquina": "Weldarc 203 DC"
+  },
+  {
+    "Maquina": "Weldarc ARC160"
+  },
+  {
+    "Maquina": "Weldarc ARC200"
+  },
+  {
+    "Maquina": "Weldarc DC203"
+  },
+  {
+    "Maquina": "Weldcut 160"
+  },
+  {
+    "Maquina": "Weldforce 4500"
+  },
+  {
+    "Maquina": "Weldsat 200 AC/DC"
+  },
+  {
+    "Maquina": "Weldtig 160DC"
+  },
+  {
+    "Maquina": "Weldtig TP203"
+  },
+  {
+    "Maquina": "Werdarc 200 D"
+  },
+  {
+    "Maquina": "Wurth130"
+  },
+  {
+    "Maquina": "X-DUR E160"
+  },
+  {
+    "Maquina": "XMS 4000"
+  },
+  {
+    "Maquina": "XP30"
+  },
+  {
+    "Maquina": "ZX160S"
+  },
+  {
+    "Maquina": "ZX7  160"
+  },
+  {
+    "Maquina": "ZX7-200"
+  },
+  {
+    "Maquina": "ZX7-200R"
+  },
+  {
+    "Maquina": "euromig 404"
+  },
+  {
+    "Maquina": "telwin 168"
+  }
+]

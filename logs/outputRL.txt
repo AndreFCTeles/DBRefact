@@ -1,0 +1,43 @@
+Duplicates in Avaria: [ 'Bobina primária', 'Sem Defeito', 'Circuito Frontal' ]
+Duplicates in Extra: []
+Duplicates in Cliente: [ 'final', 'Mauricio & Cia,Lda' ]
+Duplicates in Maquina: [
+  'ECOTIG 200',             'E 160 HF',             'TIG 200 HF Pulse',
+  'SUPERMIG 230 T',         'Dc203',                'ECO TIG200',
+  'E 160 TIG Pulse',        'E 190 HF',             'E 230 HF',
+  'ECO 200D',               'HF161',                'Micro DC202 Basic',
+  'LKB265',                 'MIG 453M',             'MOTOMIG 405 C',
+  'E-300 AC/DC',            'CITOLINE 3500 TS',     'Eco W160',
+  'MIG 603 Mod',            'Eco 200',              'Eco 200 D',
+  'MIG 403M Multibasic',    'MIG 303B MOD',         'DC 253',
+  'MIG 350C',               'MIG 503 M Multibasic', 'E 160 HF Pulse',
+  'Tero202',                'MIG 303C',             'TP202 AC/DC',
+  'TP252 W',                'TP323W',               'DC 203',
+  'MIG 270T',               'ECO200',               'EUROSER 500 M',
+  'Tetrix 270AC/DC',        'MIG 303CW Multipulse', 'MIG403 MW',
+  'TP 403 W',               'TP 403 AC/DC',         'TP 203',
+  "TP 20'3",                'TP 403 ACDC',          'TP 323 ACDC',
+  'MIG 303M',               'MIG 454M',             'E160 TP',
+  'MIG 353C',               'MIG355 MOD',           'ECO200 D',
+  'Weld & Cut 160',         'MIG406 MW',            'HF221',
+  'MIG 503 CW Multibasic',  'E230HF',               'MIG 403CW Multibasic',
+  'Plasma 55',              'TP403',                'Citoline 3500 TS',
+  'Motomig 385 M',          'MIG 306C',             'MIG 505 M',
+  'MIG 403 C Multibasic',   'MIG 302C',             'MB170',
+  'Mig 356C',               'MIG 355C',             'MIG250',
+  'Mig201',                 'E 160TP',              'DC 191',
+  'MIG 303 CW Multi Pulse', 'E 300 AC/DC',          'Weldarc 200D',
+  'MIG 406 C',              'MIG 405C',             'TIG210 AC/DC',
+  'TIG200',                 'MIG 305C',             'E 230 TIG Pulse',
+  'TP503 AC/DC',            'AFTIG Pulse',          'TP 253',
+  'TP 223',                 'TP 323',               'ECO160',
+  'EUROSER 1000',           'MIG 301C',             'Euromig 404 M',
+  'MIG 303MW Multipulse',   'Eco200',               'MIG 405M',
+  'TP 400 AC/DC',           'MIG 354C',             'MIG 303 Multi pulse',
+  'MONOMIG 250',            'MIG 406MW',            'EcoTIG200',
+  'Powertec 505S',
+  ... 478 more items
+]
+Duplicates in Tipo: []
+Duplicates in ModeloElectrex: []
+All processing completed successfully.

@@ -1,79 +1,224 @@
 [
   {
-    "ModelosElectrex1": "",
-    "ModelosElectrex2": "ACDC 203",
-    "ModelosElectrex3": "ACDC 323",
-    "ModelosElectrex4": "ACDC 403",
-    "ModelosElectrex5": "ACDC 503",
-    "ModelosElectrex6": "AF FLUX 500",
-    "ModelosElectrex7": "AF TIG COLDWIRE",
-    "ModelosElectrex8": "CUT 100",
-    "ModelosElectrex9": "CUT 40",
-    "ModelosElectrex10": "CUT 65",
-    "ModelosElectrex11": "DC 163",
-    "ModelosElectrex12": "DC 163 VRD",
-    "ModelosElectrex13": "DC 203",
-    "ModelosElectrex14": "DC 203 VRD",
-    "ModelosElectrex15": "DC 223",
-    "ModelosElectrex16": "DC 253",
-    "ModelosElectrex17": "DC 323",
-    "ModelosElectrex18": "DC 403 CELL",
-    "ModelosElectrex19": "DC 503 CELL",
-    "ModelosElectrex20": "DIGIT II MIG 256 C",
-    "ModelosElectrex21": "DIGIT II MIG 296 C",
-    "ModelosElectrex22": "DIGIT II MIG 306 C",
-    "ModelosElectrex23": "DIGIT II MIG 306 M",
-    "ModelosElectrex24": "DIGIT II MIG 356 C",
-    "ModelosElectrex25": "DIGIT II MIG 356 M",
-    "ModelosElectrex26": "DIGIT II MIG 406 C",
-    "ModelosElectrex27": "DIGIT II MIG 406 M",
-    "ModelosElectrex28": "DIGIT II MIG 406 WM",
-    "ModelosElectrex29": "DIGIT II MIG 506 WM",
-    "ModelosElectrex30": "DIGIT II MIG 656 WM",
-    "ModelosElectrex31": "Frigomix 6 V",
-    "ModelosElectrex32": "Frigomix S3 C",
-    "ModelosElectrex33": "Frigomix S3 M",
-    "ModelosElectrex34": "Frigomix S3 THI",
-    "ModelosElectrex35": "LTRONIC MIG 356 M",
-    "ModelosElectrex36": "LTRONIC MIG 456 M",
-    "ModelosElectrex37": "LTRONIC MIG 456 WM",
-    "ModelosElectrex38": "LTRONIC MIG 556 M",
-    "ModelosElectrex39": "LTRONIC MIG 556 WM",
-    "ModelosElectrex40": "MIG BASIC 303 C",
-    "ModelosElectrex41": "MIG BASIC 303 CW",
-    "ModelosElectrex42": "MIG BASIC 303 M",
-    "ModelosElectrex43": "MIG BASIC 403 C",
-    "ModelosElectrex44": "MIG BASIC 403 CW",
-    "ModelosElectrex45": "MIG BASIC 403 M",
-    "ModelosElectrex46": "MIG BASIC 403 WM",
-    "ModelosElectrex47": "MIG BASIC 503 CW",
-    "ModelosElectrex48": "MIG BASIC 503 M",
-    "ModelosElectrex49": "MIG BASIC 503 WM",
-    "ModelosElectrex50": "MULTI PULSE 303 C",
-    "ModelosElectrex51": "MULTI PULSE 303 CW",
-    "ModelosElectrex52": "MULTI PULSE 303 M",
-    "ModelosElectrex53": "MULTI PULSE 303 WM",
-    "ModelosElectrex54": "MULTI PULSE 503 WM",
-    "ModelosElectrex55": "MULTI SYNERGIC 403 WM",
-    "ModelosElectrex56": "RCD 1000 DIGIT II",
-    "ModelosElectrex57": "RCD 600 DIGIT II",
-    "ModelosElectrex58": "RS 300",
-    "ModelosElectrex59": "RS 500",
-    "ModelosElectrex60": "RS 600",
-    "ModelosElectrex61": "SYNERGIC II MIG 256 C",
-    "ModelosElectrex62": "SYNERGIC II MIG 406 C",
-    "ModelosElectrex63": "SYNERGIC II MIG 406 M",
-    "ModelosElectrex64": "SYNERGIC II MIG 406 WM",
-    "ModelosElectrex65": "SYNERGIC II MIG 506 WM",
-    "ModelosElectrex66": "THI 30 DIGIT PN",
-    "ModelosElectrex67": "THI 50 DIGIMATIC PN",
-    "ModelosElectrex68": "THI 50 DIGIT",
-    "ModelosElectrex69": "TP 163",
-    "ModelosElectrex70": "TP 203",
-    "ModelosElectrex71": "TP 223",
-    "ModelosElectrex72": "TP 253",
-    "ModelosElectrex73": "TP 323",
-    "ModelosElectrex74": "TP 403",
-    "ModelosElectrex75": "TP 503"
+    "ModeloElectrex": "ACDC 203"
+  },
+  {
+    "ModeloElectrex": "ACDC 323"
+  },
+  {
+    "ModeloElectrex": "ACDC 403"
+  },
+  {
+    "ModeloElectrex": "ACDC 503"
+  },
+  {
+    "ModeloElectrex": "AF FLUX 500"
+  },
+  {
+    "ModeloElectrex": "AF TIG COLDWIRE"
+  },
+  {
+    "ModeloElectrex": "CUT 100"
+  },
+  {
+    "ModeloElectrex": "CUT 40"
+  },
+  {
+    "ModeloElectrex": "CUT 65"
+  },
+  {
+    "ModeloElectrex": "DC 163"
+  },
+  {
+    "ModeloElectrex": "DC 163 VRD"
+  },
+  {
+    "ModeloElectrex": "DC 203"
+  },
+  {
+    "ModeloElectrex": "DC 203 VRD"
+  },
+  {
+    "ModeloElectrex": "DC 223"
+  },
+  {
+    "ModeloElectrex": "DC 253"
+  },
+  {
+    "ModeloElectrex": "DC 323"
+  },
+  {
+    "ModeloElectrex": "DC 403 CELL"
+  },
+  {
+    "ModeloElectrex": "DC 503 CELL"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 256 C"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 296 C"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 306 C"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 306 M"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 356 C"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 356 M"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 406 C"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 406 M"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 406 WM"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 506 WM"
+  },
+  {
+    "ModeloElectrex": "DIGIT II MIG 656 WM"
+  },
+  {
+    "ModeloElectrex": "Frigomix 6 V"
+  },
+  {
+    "ModeloElectrex": "Frigomix S3 C"
+  },
+  {
+    "ModeloElectrex": "Frigomix S3 M"
+  },
+  {
+    "ModeloElectrex": "Frigomix S3 THI"
+  },
+  {
+    "ModeloElectrex": "LTRONIC MIG 356 M"
+  },
+  {
+    "ModeloElectrex": "LTRONIC MIG 456 M"
+  },
+  {
+    "ModeloElectrex": "LTRONIC MIG 456 WM"
+  },
+  {
+    "ModeloElectrex": "LTRONIC MIG 556 M"
+  },
+  {
+    "ModeloElectrex": "LTRONIC MIG 556 WM"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 303 C"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 303 CW"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 303 M"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 403 C"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 403 CW"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 403 M"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 403 WM"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 503 CW"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 503 M"
+  },
+  {
+    "ModeloElectrex": "MIG BASIC 503 WM"
+  },
+  {
+    "ModeloElectrex": "MULTI PULSE 303 C"
+  },
+  {
+    "ModeloElectrex": "MULTI PULSE 303 CW"
+  },
+  {
+    "ModeloElectrex": "MULTI PULSE 303 M"
+  },
+  {
+    "ModeloElectrex": "MULTI PULSE 303 WM"
+  },
+  {
+    "ModeloElectrex": "MULTI PULSE 503 WM"
+  },
+  {
+    "ModeloElectrex": "MULTI SYNERGIC 403 WM"
+  },
+  {
+    "ModeloElectrex": "RCD 1000 DIGIT II"
+  },
+  {
+    "ModeloElectrex": "RCD 600 DIGIT II"
+  },
+  {
+    "ModeloElectrex": "RS 300"
+  },
+  {
+    "ModeloElectrex": "RS 500"
+  },
+  {
+    "ModeloElectrex": "RS 600"
+  },
+  {
+    "ModeloElectrex": "SYNERGIC II MIG 256 C"
+  },
+  {
+    "ModeloElectrex": "SYNERGIC II MIG 406 C"
+  },
+  {
+    "ModeloElectrex": "SYNERGIC II MIG 406 M"
+  },
+  {
+    "ModeloElectrex": "SYNERGIC II MIG 406 WM"
+  },
+  {
+    "ModeloElectrex": "SYNERGIC II MIG 506 WM"
+  },
+  {
+    "ModeloElectrex": "THI 30 DIGIT PN"
+  },
+  {
+    "ModeloElectrex": "THI 50 DIGIMATIC PN"
+  },
+  {
+    "ModeloElectrex": "THI 50 DIGIT"
+  },
+  {
+    "ModeloElectrex": "TP 163"
+  },
+  {
+    "ModeloElectrex": "TP 203"
+  },
+  {
+    "ModeloElectrex": "TP 223"
+  },
+  {
+    "ModeloElectrex": "TP 253"
+  },
+  {
+    "ModeloElectrex": "TP 323"
+  },
+  {
+    "ModeloElectrex": "TP 403"
+  },
+  {
+    "ModeloElectrex": "TP 503"
   }
 ]

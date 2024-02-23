@@ -1,0 +1,281 @@
+[
+  {
+    "Avaria": "Alça"
+  },
+  {
+    "Avaria": "Amperimetro"
+  },
+  {
+    "Avaria": "Atualização firmware"
+  },
+  {
+    "Avaria": "Avaria circuito potencia"
+  },
+  {
+    "Avaria": "Bobina"
+  },
+  {
+    "Avaria": "Bobina primaria"
+  },
+  {
+    "Avaria": "Bomba de água"
+  },
+  {
+    "Avaria": "Cabo alimentaçao"
+  },
+  {
+    "Avaria": "Cabo de alimentação"
+  },
+  {
+    "Avaria": "Cabo de massa"
+  },
+  {
+    "Avaria": "Cabo interligaçao"
+  },
+  {
+    "Avaria": "Cabo massa"
+  },
+  {
+    "Avaria": "Cilindro pneumático"
+  },
+  {
+    "Avaria": "Circuito HF"
+  },
+  {
+    "Avaria": "Circuito control"
+  },
+  {
+    "Avaria": "Circuito controlo"
+  },
+  {
+    "Avaria": "Circuito controlo IGBT"
+  },
+  {
+    "Avaria": "Circuito controlo frontal display"
+  },
+  {
+    "Avaria": "Circuito de HF"
+  },
+  {
+    "Avaria": "Circuito de alimentaçao"
+  },
+  {
+    "Avaria": "Circuito de entrada de corrente"
+  },
+  {
+    "Avaria": "Circuito de potencia"
+  },
+  {
+    "Avaria": "Circuito fonte de alimentação"
+  },
+  {
+    "Avaria": "Circuito frontal"
+  },
+  {
+    "Avaria": "Circuito secundario"
+  },
+  {
+    "Avaria": "Comutador"
+  },
+  {
+    "Avaria": "Comutador 2 posições"
+  },
+  {
+    "Avaria": "Comutador 4 Pos"
+  },
+  {
+    "Avaria": "Comutador 7 Pos"
+  },
+  {
+    "Avaria": "Comutador 8 Pos"
+  },
+  {
+    "Avaria": "Consumiveis da tocha"
+  },
+  {
+    "Avaria": "Contactor"
+  },
+  {
+    "Avaria": "Control"
+  },
+  {
+    "Avaria": "Controlador"
+  },
+  {
+    "Avaria": "Deposito"
+  },
+  {
+    "Avaria": "Diodo Secundário"
+  },
+  {
+    "Avaria": "Diodos secundario"
+  },
+  {
+    "Avaria": "Electroválvula"
+  },
+  {
+    "Avaria": "Encoder"
+  },
+  {
+    "Avaria": "Fase interrompida"
+  },
+  {
+    "Avaria": "Faíscador"
+  },
+  {
+    "Avaria": "Filtragem HF"
+  },
+  {
+    "Avaria": "Filtro MS"
+  },
+  {
+    "Avaria": "Flat Cable"
+  },
+  {
+    "Avaria": "Guia-fio"
+  },
+  {
+    "Avaria": "IGBT"
+  },
+  {
+    "Avaria": "Inductância"
+  },
+  {
+    "Avaria": "Indutância"
+  },
+  {
+    "Avaria": "Interface"
+  },
+  {
+    "Avaria": "Interruptor bipolar"
+  },
+  {
+    "Avaria": "Liquido"
+  },
+  {
+    "Avaria": "Microcontrolador"
+  },
+  {
+    "Avaria": "Motor"
+  },
+  {
+    "Avaria": "Motor do fio"
+  },
+  {
+    "Avaria": "Outros"
+  },
+  {
+    "Avaria": "Painel Frontal"
+  },
+  {
+    "Avaria": "Painel Tr."
+  },
+  {
+    "Avaria": "Pistas e outros componentes"
+  },
+  {
+    "Avaria": "Ponte"
+  },
+  {
+    "Avaria": "Ponte rectificadora"
+  },
+  {
+    "Avaria": "Ponte retificadora"
+  },
+  {
+    "Avaria": "Porta-fusível"
+  },
+  {
+    "Avaria": "Potencia"
+  },
+  {
+    "Avaria": "Potenciometro"
+  },
+  {
+    "Avaria": "Potênciometro I2"
+  },
+  {
+    "Avaria": "Radiador"
+  },
+  {
+    "Avaria": "Regulador"
+  },
+  {
+    "Avaria": "Relé 12VDC"
+  },
+  {
+    "Avaria": "Relé 48VDC"
+  },
+  {
+    "Avaria": "Reparação de tocha"
+  },
+  {
+    "Avaria": "Resistência Cerâmica"
+  },
+  {
+    "Avaria": "Sem defeito"
+  },
+  {
+    "Avaria": "Sensor de pressão"
+  },
+  {
+    "Avaria": "Sensor hall"
+  },
+  {
+    "Avaria": "Sub. Módulo"
+  },
+  {
+    "Avaria": "Sub. Painel Fr"
+  },
+  {
+    "Avaria": "Sub. Painel Tr"
+  },
+  {
+    "Avaria": "Subst. Electrovalvula"
+  },
+  {
+    "Avaria": "Tocha"
+  },
+  {
+    "Avaria": "Tomada"
+  },
+  {
+    "Avaria": "Tomada MIG"
+  },
+  {
+    "Avaria": "Tomadas"
+  },
+  {
+    "Avaria": "Transf. queimado"
+  },
+  {
+    "Avaria": "Transformador C.I."
+  },
+  {
+    "Avaria": "Transformador Impulsos"
+  },
+  {
+    "Avaria": "Transformador Potência"
+  },
+  {
+    "Avaria": "Transformador alimentaçao"
+  },
+  {
+    "Avaria": "Transformador auxiliar"
+  },
+  {
+    "Avaria": "Transistor IGBT"
+  },
+  {
+    "Avaria": "Tubagens de água"
+  },
+  {
+    "Avaria": "Tubo do gás"
+  },
+  {
+    "Avaria": "Térmico"
+  },
+  {
+    "Avaria": "Ventilador"
+  }
+]

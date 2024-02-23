@@ -1,0 +1,86 @@
+[
+  {
+    "AvariaMigs": "Bobina"
+  },
+  {
+    "AvariaMigs": "Bobina primaria"
+  },
+  {
+    "AvariaMigs": "Bomba de água"
+  },
+  {
+    "AvariaMigs": "Cabo alimentaçao"
+  },
+  {
+    "AvariaMigs": "Cabo de massa"
+  },
+  {
+    "AvariaMigs": "Cabo interligaçao"
+  },
+  {
+    "AvariaMigs": "Circuito controlo IGBT"
+  },
+  {
+    "AvariaMigs": "Circuito controlo frontal display"
+  },
+  {
+    "AvariaMigs": "Circuito de potencia"
+  },
+  {
+    "AvariaMigs": "Comutador 4 Pos"
+  },
+  {
+    "AvariaMigs": "Comutador 7 Pos"
+  },
+  {
+    "AvariaMigs": "Comutador 8 Pos"
+  },
+  {
+    "AvariaMigs": "Contactor"
+  },
+  {
+    "AvariaMigs": "Controlador"
+  },
+  {
+    "AvariaMigs": "Electroválvula"
+  },
+  {
+    "AvariaMigs": "Guia-fio"
+  },
+  {
+    "AvariaMigs": "Indutância"
+  },
+  {
+    "AvariaMigs": "Interface"
+  },
+  {
+    "AvariaMigs": "Motor do fio"
+  },
+  {
+    "AvariaMigs": "Outros"
+  },
+  {
+    "AvariaMigs": "Ponte rectificadora"
+  },
+  {
+    "AvariaMigs": "Radiador"
+  },
+  {
+    "AvariaMigs": "Sem defeito"
+  },
+  {
+    "AvariaMigs": "Tomada MIG"
+  },
+  {
+    "AvariaMigs": "Transformador auxiliar"
+  },
+  {
+    "AvariaMigs": "Transistor IGBT"
+  },
+  {
+    "AvariaMigs": "Tubo do gás"
+  },
+  {
+    "AvariaMigs": "Ventilador"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Tipo": "Alimentadores"
+  },
+  {
+    "Tipo": "Inverter"
+  },
+  {
+    "Tipo": "Mig"
+  },
+  {
+    "Tipo": "Plasmas"
+  },
+  {
+    "Tipo": "Pontos"
+  },
+  {
+    "Tipo": "Rectificadores"
+  },
+  {
+    "Tipo": "Refrigeradores"
+  },
+  {
+    "Tipo": "Transformadores"
+  }
+]

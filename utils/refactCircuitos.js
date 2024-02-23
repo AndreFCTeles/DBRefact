@@ -6,52 +6,71 @@ const newFolderPath = path.join(__dirname, '..', 'file', 'new');
 
 if (!fs.existsSync(newFolderPath)) { fs.mkdirSync(newFolderPath); }
 
-const oldFilePath = path.join(oldFolderPath, 'tblCircuitoList.json');
-const newFilePath = path.join(newFolderPath, 'tblCircuitoList.json');
+async function readJsonFile(filePath) {
+   const data = await fs.promises.readFile(filePath, 'utf8');
+   return JSON.parse(data);
+}
 
-fs.readFile(oldFilePath, 'utf8', (err, data) => {
-   if (err) {
-      console.error("Error reading the file", err);
-      return;
+async function writeJsonFile(filePath, data) {
+   await fs.promises.writeFile(filePath, JSON.stringify(data, null, 2), 'utf8');
+}
+
+function toISODateString(dateStr) {
+   // Directly replace '-' or '/' with '-' for the date, ensuring consistency
+   let datePart = dateStr.substring(0, 10).replace(/\/|\-/g, '-');
+   // Rearrange the date parts to match ISO format (YYYY-MM-DD)
+   let parts = datePart.split('-');
+   let isoDate = `${parts[2]}-${parts[1]}-${parts[0]}` + dateStr.substring(10);
+
+   // Validate the conversion result to ensure it represents a valid date
+   if (!isNaN(new Date(isoDate).getTime())) {
+      return isoDate;
+   } else {
+      console.log(`Invalid Date Format: ${dateStr}`);
+      return null;
    }
-   let circuitos = JSON.parse(data);
-   circuitos.forEach(transformCircuitoItem);
-   circuitos = quickSort(circuitos);
-
-   writeJsonFile(newFilePath, circuitos);
-});
-
-function transformCircuitoItem(item) {
-   item._id = item._id.$oid;
-   if (item.Numero.$numberLong) { item.Numero = parseInt(item.Numero.$numberLong, 10); }
-   item.DataTime = item.Data.$date;
-   item.Origem = item.Orig;
-   item.Observacoes = item.Obs;
-   item.Estado = item.Reparacao;
-   delete item.ID;
-   delete item.Data;
-   delete item.Orig;
-   delete item.Obs;
-   delete item.Reparacao;
 }
 
-function quickSort(arr) {
-   if (arr.length < 2) return arr;
-   let pivot = arr[Math.floor(Math.random() * arr.length)];
-   let left = [];
-   let right = [];
-   let equal = [];
+// Main processing function
+async function processCircuitoFiles() {
+   try {
+      let circuitoListData = await readJsonFile(path.join(oldFolderPath, 'tblCircuitoList.json'));
+      let ciData = await readJsonFile(path.join(oldFolderPath, 'tblCI.json'));
 
-   for (let element of arr) {
-      if (element.DataTime < pivot.DataTime) left.push(element);
-      else if (element.DataTime > pivot.DataTime) right.push(element);
-      else equal.push(element);
+      // Remove "ID" fields and rename "Data" to "DataTime"
+      circuitoListData = circuitoListData.map(({ ID, Data, ...rest }) => ({
+         ...rest,
+         DataTime: toISODateString(Data) || Data // Keep original if conversion fails
+      }));
+
+      // Remove "ID" from ciData and deduplicate
+      ciData = ciData
+         .filter(({ Circuito }) => Circuito && Circuito.trim())
+         .map(({ ID, ...rest }) => rest);
+      const ciSet = new Set(ciData.map(item => item.Circuito));
+      ciData = Array.from(ciSet).map(Circuito => ({ Circuito }));
+
+      // Add missing Circuito values from circuitoListData to ciData
+      circuitoListData.forEach(item => {
+         if (!ciSet.has(item.Circuito)) {
+            ciData.push({ Circuito: item.Circuito });
+            ciSet.add(item.Circuito);
+         }
+      });
+
+      // Sort ciData by Circuito
+      ciData.sort((a, b) => a.Circuito.localeCompare(b.Circuito));
+      // Sort circuitoListData by DataTime in descending order
+      circuitoListData.sort((a, b) => new Date(b.DataTime) - new Date(a.DataTime));
+
+      // Write the refactored files
+      await writeJsonFile(path.join(newFolderPath, 'tblCircuitoList.json'), circuitoListData);
+      await writeJsonFile(path.join(newFolderPath, 'tblCI.json'), ciData);
+
+      console.log('Circuito files processed successfully.');
+   } catch (error) {
+      console.error('Error processing Circuito files:', error);
    }
-   return [...quickSort(left), ...equal, ...quickSort(right)];
 }
 
-function writeJsonFile(fileName, data) {
-   fs.writeFile(newFilePath, JSON.stringify(data, null, 2), err => {
-      if (err) console.error(`Error writing ${fileName}`, err);
-   });
-}
+processCircuitoFiles();
